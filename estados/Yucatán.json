@@ -1,0 +1,1203 @@
+{
+    "Municipios": {
+        "Abalá": {
+            "Localidades": [
+                "Abala",
+                "Cacao",
+                "Mucuyche",
+                "Peba",
+                "Sihunchen",
+                "Temozon",
+                "Uayalceh"
+            ],
+            "Total de Localidades": 7
+        },
+        "Acanceh": {
+            "Localidades": [
+                "Acanceh",
+                "Canicab",
+                "Cibceh",
+                "Dzitina",
+                "Petectunich",
+                "Sacchich",
+                "Tepich Carrillo",
+                "Ticopo"
+            ],
+            "Total de Localidades": 8
+        },
+        "Akil": {
+            "Localidades": [
+                "Akil",
+                "San Diego",
+                "San Victor"
+            ],
+            "Total de Localidades": 3
+        },
+        "Baca": {
+            "Localidades": [
+                "Baca",
+                "Kankabchen Gamboa",
+                "San Isidro Kuxub",
+                "Tixkuncheil"
+            ],
+            "Total de Localidades": 4
+        },
+        "Bokobá": {
+            "Localidades": [
+                "Bokoba"
+            ],
+            "Total de Localidades": 1
+        },
+        "Buctzotz": {
+            "Localidades": [
+                "Buctzotz",
+                "La Gran Lucha",
+                "San Francisco",
+                "Santo Domingo",
+                "Unidad Juarez",
+                "X-Bec"
+            ],
+            "Total de Localidades": 6
+        },
+        "Cacalchén": {
+            "Localidades": [
+                "Cacalchen"
+            ],
+            "Total de Localidades": 1
+        },
+        "Calotmul": {
+            "Localidades": [
+                "Calotmul",
+                "Pocoboch",
+                "Tahcabo"
+            ],
+            "Total de Localidades": 3
+        },
+        "Cansahcab": {
+            "Localidades": [
+                "Cansahcab",
+                "San Antonio Xiat",
+                "Santa Maria"
+            ],
+            "Total de Localidades": 3
+        },
+        "Cantamayec": {
+            "Localidades": [
+                "Cantamayec",
+                "Cholul",
+                "Nenela"
+            ],
+            "Total de Localidades": 3
+        },
+        "Celestún": {
+            "Localidades": [
+                "Celestun"
+            ],
+            "Total de Localidades": 1
+        },
+        "Cenotillo": {
+            "Localidades": [
+                "Cenotillo",
+                "Tixbacab"
+            ],
+            "Total de Localidades": 2
+        },
+        "Chacsinkín": {
+            "Localidades": [
+                "Chacsinkin",
+                "X-Box"
+            ],
+            "Total de Localidades": 2
+        },
+        "Chankom": {
+            "Localidades": [
+                "Chankom",
+                "Muchucuxcah",
+                "Nicte-Ha",
+                "Ticimul",
+                "Tzukmuc",
+                "Xanla",
+                "X-Bohom",
+                "X-Cocail",
+                "Xkalakdzonot",
+                "Xkatun",
+                "Xkopteil"
+            ],
+            "Total de Localidades": 11
+        },
+        "Chapab": {
+            "Localidades": [
+                "Chapab",
+                "Citincabchen",
+                "Hunabchen"
+            ],
+            "Total de Localidades": 3
+        },
+        "Chemax": {
+            "Localidades": [
+                "Akachen",
+                "Blanca Flor",
+                "Buenavista",
+                "Chechmil",
+                "Chemax",
+                "Cholul",
+                "Chulutan",
+                "Cocoyol",
+                "Estrella",
+                "Felipe Carrillo Puerto",
+                "Guadalupe",
+                "Hidalgo Y Cortez",
+                "Hoteoch",
+                "Kanto",
+                "Konsahcab",
+                "Kuxeb",
+                "La Esperanza",
+                "Lol-Be",
+                "Mucel",
+                "Pabalam",
+                "Punta Laguna",
+                "San Jose Chahuay",
+                "San Juan Chen",
+                "San Pedro Chemax",
+                "San Roman",
+                "Santa Clara",
+                "Santa Cruz",
+                "Santa Cruz",
+                "Sisbichen",
+                "Tulin",
+                "Uspibil",
+                "Xalau (X-Alau)",
+                "X-Can",
+                "X-Catzin (Catzin)",
+                "X-Huech",
+                "Xim-Ha"
+            ],
+            "Total de Localidades": 36
+        },
+        "Chichimilá": {
+            "Localidades": [
+                "Celtun",
+                "Chan Pich",
+                "Chan X-Cail",
+                "Chichimila",
+                "Cruz-Chen",
+                "Dzitox",
+                "Nuevo X-Habin",
+                "San Pedro",
+                "San Salvador",
+                "Villahermosa",
+                "X-Chay"
+            ],
+            "Total de Localidades": 11
+        },
+        "Chicxulub Pueblo": {
+            "Localidades": [
+                "Chicxulub Pueblo"
+            ],
+            "Total de Localidades": 1
+        },
+        "Chikindzonot": {
+            "Localidades": [
+                "Chan Santa Maria",
+                "Chan-Chichimila",
+                "Chikindzonot",
+                "Chucteil",
+                "Ichmul"
+            ],
+            "Total de Localidades": 5
+        },
+        "Chocholá": {
+            "Localidades": [
+                "Chochola"
+            ],
+            "Total de Localidades": 1
+        },
+        "Chumayel": {
+            "Localidades": [
+                "Chumayel"
+            ],
+            "Total de Localidades": 1
+        },
+        "Conkal": {
+            "Localidades": [
+                "Conkal",
+                "Kantoyna",
+                "X-Cuyum"
+            ],
+            "Total de Localidades": 3
+        },
+        "Cuncunul": {
+            "Localidades": [
+                "Chebalam",
+                "Cuncunul",
+                "San Diego",
+                "San Francisco",
+                "X-Akabchen"
+            ],
+            "Total de Localidades": 5
+        },
+        "Cuzamá": {
+            "Localidades": [
+                "Chunkanan",
+                "Cuzama",
+                "Eknakan",
+                "Nohchakan"
+            ],
+            "Total de Localidades": 4
+        },
+        "Dzemul": {
+            "Localidades": [
+                "Dzemul"
+            ],
+            "Total de Localidades": 1
+        },
+        "Dzidzantún": {
+            "Localidades": [
+                "Dzidzantun"
+            ],
+            "Total de Localidades": 1
+        },
+        "Dzilam González": {
+            "Localidades": [
+                "Dzilam Gonzalez"
+            ],
+            "Total de Localidades": 1
+        },
+        "Dzilam de Bravo": {
+            "Localidades": [
+                "Dzilam De Bravo"
+            ],
+            "Total de Localidades": 1
+        },
+        "Dzitás": {
+            "Localidades": [
+                "Dzitas",
+                "Xocempich",
+                "Yaxche"
+            ],
+            "Total de Localidades": 3
+        },
+        "Dzoncauich": {
+            "Localidades": [
+                "Chacmay",
+                "Dzoncauich"
+            ],
+            "Total de Localidades": 2
+        },
+        "Dzán": {
+            "Localidades": [
+                "Dzan"
+            ],
+            "Total de Localidades": 1
+        },
+        "Espita": {
+            "Localidades": [
+                "Dzadz Pichi",
+                "Espita",
+                "Holca",
+                "Kunche",
+                "Nacuche",
+                "San Pedro Chenchela",
+                "Tuzik",
+                "X-Ualtez",
+                "Xuilub"
+            ],
+            "Total de Localidades": 9
+        },
+        "Halachó": {
+            "Localidades": [
+                "Cepeda",
+                "Cuch Holoch",
+                "Dzidzibachi",
+                "Halacho",
+                "Kancabchen",
+                "San Mateo",
+                "Santa Maria Acu",
+                "Siho"
+            ],
+            "Total de Localidades": 8
+        },
+        "Hocabá": {
+            "Localidades": [
+                "Hocaba",
+                "Sahcaba"
+            ],
+            "Total de Localidades": 2
+        },
+        "Hoctún": {
+            "Localidades": [
+                "Hoctun",
+                "San Jose Oriente"
+            ],
+            "Total de Localidades": 2
+        },
+        "Homún": {
+            "Localidades": [
+                "Homun",
+                "San Isidro Ochil"
+            ],
+            "Total de Localidades": 2
+        },
+        "Huhí": {
+            "Localidades": [
+                "Huhi"
+            ],
+            "Total de Localidades": 1
+        },
+        "Hunucmá": {
+            "Localidades": [
+                "Hunkanab",
+                "Hunucma",
+                "San Antonio Chel",
+                "Sisal",
+                "Texan De Palomeque"
+            ],
+            "Total de Localidades": 5
+        },
+        "Ixil": {
+            "Localidades": [
+                "Ixil"
+            ],
+            "Total de Localidades": 1
+        },
+        "Izamal": {
+            "Localidades": [
+                "Citilcum",
+                "Cuauhtemoc",
+                "Izamal",
+                "Kimbila",
+                "Sitilpech",
+                "Xanaba"
+            ],
+            "Total de Localidades": 6
+        },
+        "Kanasín": {
+            "Localidades": [
+                "Kanasin",
+                "San Antonio Tehuitz",
+                "Teya"
+            ],
+            "Total de Localidades": 3
+        },
+        "Kantunil": {
+            "Localidades": [
+                "Holca",
+                "Kantunil"
+            ],
+            "Total de Localidades": 2
+        },
+        "Kaua": {
+            "Localidades": [
+                "Dzeal",
+                "Dzibiac",
+                "Kaua"
+            ],
+            "Total de Localidades": 3
+        },
+        "Kinchil": {
+            "Localidades": [
+                "Kinchil",
+                "Tamchen"
+            ],
+            "Total de Localidades": 2
+        },
+        "Kopomá": {
+            "Localidades": [
+                "Kopoma",
+                "San Bernardo"
+            ],
+            "Total de Localidades": 2
+        },
+        "Mama": {
+            "Localidades": [
+                "Mama"
+            ],
+            "Total de Localidades": 1
+        },
+        "Maní": {
+            "Localidades": [
+                "Mani",
+                "Tipikal"
+            ],
+            "Total de Localidades": 2
+        },
+        "Maxcanú": {
+            "Localidades": [
+                "Chactun (San Jose Chactun)",
+                "Chan Chochola (Santa Eduviges Chan Chochola)",
+                "Chunchucmil",
+                "Coahuila (Santa Teresa Coahuila)",
+                "Granada (Chican Granada)",
+                "Kanachen",
+                "Kochol",
+                "Maxcanu",
+                "Paraiso",
+                "San Fernando",
+                "San Rafael",
+                "Santa Cruz",
+                "Santa Rosa (Santa Rosa De Lima)",
+                "Santo Domingo"
+            ],
+            "Total de Localidades": 14
+        },
+        "Mayapán": {
+            "Localidades": [
+                "Mayapan"
+            ],
+            "Total de Localidades": 1
+        },
+        "Mocochá": {
+            "Localidades": [
+                "Mococha",
+                "Tekat",
+                "Too"
+            ],
+            "Total de Localidades": 3
+        },
+        "Motul": {
+            "Localidades": [
+                "Dzununcan",
+                "Kambul",
+                "Kancabal",
+                "Kancabchen",
+                "Kancabchen Uci",
+                "Kaxatah",
+                "Kini",
+                "Komchen Martinez",
+                "Kopte",
+                "Mesatunich",
+                "Motul De Carrillo Puerto",
+                "Sacapuc",
+                "Sakola",
+                "San Jose Hili",
+                "San Pedro Camara",
+                "San Pedro Chacabal",
+                "Santa Teresa",
+                "Tanya",
+                "Timul",
+                "Uci"
+            ],
+            "Total de Localidades": 20
+        },
+        "Muna": {
+            "Localidades": [
+                "Choyob",
+                "Muna",
+                "San Jose Tipceh",
+                "Yaxha"
+            ],
+            "Total de Localidades": 4
+        },
+        "Muxupip": {
+            "Localidades": [
+                "Muxupip",
+                "San Juan Koop"
+            ],
+            "Total de Localidades": 2
+        },
+        "Mérida": {
+            "Localidades": [
+                "Caucel",
+                "Chablekal",
+                "Chalmuch",
+                "Cheuman",
+                "Cholul",
+                "Cosgaya",
+                "Dzibilchaltun",
+                "Dzidzilche",
+                "Dzitya",
+                "Dzoyaxche",
+                "Dzununcan",
+                "Hunxectaman",
+                "Kikteil",
+                "Komchen",
+                "Merida",
+                "Molas",
+                "Noc Ac",
+                "Oncan",
+                "Petac",
+                "Sac-Nicte",
+                "San Antonio Hool",
+                "San Antonio Tzacala",
+                "San Ignacio Tesip",
+                "San Jose Tzal",
+                "San Pedro Chimay",
+                "Santa Cruz Palomeque",
+                "Santa Maria Chi",
+                "Sierra Papacal",
+                "Sitpach",
+                "Susula",
+                "Suytunchen",
+                "Tahdzibichen",
+                "Tamanche",
+                "Temozon Norte",
+                "Texan Camara",
+                "Tixcacal",
+                "Tixcuytun",
+                "Xcanatun",
+                "Xcunya",
+                "Xmatkuil",
+                "Yaxche",
+                "Yaxnic"
+            ],
+            "Total de Localidades": 42
+        },
+        "Opichén": {
+            "Localidades": [
+                "Calcehtok",
+                "Opichen"
+            ],
+            "Total de Localidades": 2
+        },
+        "Oxkutzcab": {
+            "Localidades": [
+                "Bombahaltun",
+                "Emiliano Zapata",
+                "Oxkutzcab",
+                "Potoit",
+                "Sahcahmucuy",
+                "San Antonio Yaaxhom",
+                "San Jose Kunche",
+                "San Salvador",
+                "X-Kakal",
+                "X-Kobenhaltun",
+                "Xohuayan",
+                "Xul",
+                "Yaxhachen"
+            ],
+            "Total de Localidades": 13
+        },
+        "Panabá": {
+            "Localidades": [
+                "Cenote Yalsihon Buena Fe",
+                "Loche",
+                "Panaba",
+                "San Francisco",
+                "San Jorge",
+                "San Juan Del Rio"
+            ],
+            "Total de Localidades": 6
+        },
+        "Peto": {
+            "Localidades": [
+                "Chan Calotmul",
+                "Dzonotchel",
+                "Justicia Social",
+                "Kambul",
+                "La Esperanza",
+                "Papacal",
+                "Peto",
+                "Petulillo",
+                "Progresito",
+                "San Bernabe",
+                "San Dionisio",
+                "San Francisco",
+                "San Francisco De Asis",
+                "San Mateo",
+                "San Sebastian Yaxche",
+                "Santa Elena",
+                "Temozon",
+                "Tixhualatun",
+                "Xoy",
+                "X-Pechil",
+                "Yaxcopil"
+            ],
+            "Total de Localidades": 21
+        },
+        "Progreso": {
+            "Localidades": [
+                "Campestre Flamboyanes",
+                "Chelem",
+                "Chicxulub (Chicxulub Puerto)",
+                "Chuburna",
+                "El Paraiso",
+                "Progreso",
+                "San Ignacio",
+                "Yucalpeten"
+            ],
+            "Total de Localidades": 8
+        },
+        "Quintana Roo": {
+            "Localidades": [
+                "Quintana Roo"
+            ],
+            "Total de Localidades": 1
+        },
+        "Río Lagartos": {
+            "Localidades": [
+                "Las Coloradas",
+                "Rio Lagartos",
+                "San Jose"
+            ],
+            "Total de Localidades": 3
+        },
+        "Sacalum": {
+            "Localidades": [
+                "Plan Chac",
+                "Sacalum",
+                "San Antonio Sodzil",
+                "Yunku"
+            ],
+            "Total de Localidades": 4
+        },
+        "Samahil": {
+            "Localidades": [
+                "Kuchel",
+                "Samahil",
+                "San Antonio Tedzidz"
+            ],
+            "Total de Localidades": 3
+        },
+        "San Felipe": {
+            "Localidades": [
+                "San Felipe"
+            ],
+            "Total de Localidades": 1
+        },
+        "Sanahcat": {
+            "Localidades": [
+                "Sanahcat"
+            ],
+            "Total de Localidades": 1
+        },
+        "Santa Elena": {
+            "Localidades": [
+                "San Simon",
+                "Santa Elena"
+            ],
+            "Total de Localidades": 2
+        },
+        "Seyé": {
+            "Localidades": [
+                "Holactun",
+                "San Bernardino",
+                "Seye"
+            ],
+            "Total de Localidades": 3
+        },
+        "Sinanché": {
+            "Localidades": [
+                "San Crisanto",
+                "Santa Cruz",
+                "Sinanche"
+            ],
+            "Total de Localidades": 3
+        },
+        "Sotuta": {
+            "Localidades": [
+                "Sotuta",
+                "Tabi",
+                "Tibolon",
+                "Zavala"
+            ],
+            "Total de Localidades": 4
+        },
+        "Sucilá": {
+            "Localidades": [
+                "Sucila"
+            ],
+            "Total de Localidades": 1
+        },
+        "Sudzal": {
+            "Localidades": [
+                "Chumbec",
+                "Kancabchen De Valencia",
+                "Nuevo Tzalam",
+                "Sudzal"
+            ],
+            "Total de Localidades": 4
+        },
+        "Suma": {
+            "Localidades": [
+                "Suma"
+            ],
+            "Total de Localidades": 1
+        },
+        "Tahdziú": {
+            "Localidades": [
+                "Pambijib",
+                "San Isidro Uno",
+                "San Lorenzo",
+                "Tahdziu",
+                "Timul"
+            ],
+            "Total de Localidades": 5
+        },
+        "Tahmek": {
+            "Localidades": [
+                "Tahmek",
+                "Xtabay"
+            ],
+            "Total de Localidades": 2
+        },
+        "Teabo": {
+            "Localidades": [
+                "Teabo"
+            ],
+            "Total de Localidades": 1
+        },
+        "Tecoh": {
+            "Localidades": [
+                "Chinkila",
+                "Itzincab",
+                "Lepan",
+                "Mahzucil",
+                "Oxtapacab",
+                "Pixya",
+                "Sabacche",
+                "Sotuta De Peon",
+                "Tecoh",
+                "Telchaquillo",
+                "X-Kanchakan"
+            ],
+            "Total de Localidades": 11
+        },
+        "Tekal de Venegas": {
+            "Localidades": [
+                "San Felipe",
+                "Tekal De Venegas"
+            ],
+            "Total de Localidades": 2
+        },
+        "Tekantó": {
+            "Localidades": [
+                "San Diego",
+                "San Francisco Dzon",
+                "Tekanto",
+                "Tixkochoh"
+            ],
+            "Total de Localidades": 4
+        },
+        "Tekax": {
+            "Localidades": [
+                "Alfonso Caso",
+                "Becanchen",
+                "Benito Juarez",
+                "Candelaria",
+                "Canek",
+                "Chacmultun",
+                "Chan Dzinup",
+                "Dos Aguadas (Ent: 23",
+                "Houitz",
+                "Huntochac",
+                "Jose Lopez Portillo",
+                "Kancab",
+                "Kantemo",
+                "Kinil",
+                "Mac-Yan (San Isidro Mac-Yan)",
+                "Manuel Cepeda Peraza",
+                "Nohalal",
+                "Nueva Santa Cruz (Santa Cruz Cutza)",
+                "Pencuyut",
+                "Pocoboch",
+                "San Agustin (Salvador Alvarado)",
+                "San Antonio Tuk",
+                "San Diego Buenavista",
+                "San Diego Tekax",
+                "San Felipe Segundo",
+                "San Isidro Dos",
+                "San Isidro Yaxche",
+                "San Juan",
+                "San Luis",
+                "San Marcelino",
+                "San Marcos",
+                "San Pedro Dzula",
+                "San Pedro Xtokil",
+                "San Salvador",
+                "Sudzal Chico",
+                "Tekax De Alvaro Obregon",
+                "Ticum",
+                "Tixcuytun",
+                "Xaya",
+                "Yalcoba Nuevo"
+            ],
+            "Total de Localidades": 40
+        },
+        "Tekit": {
+            "Localidades": [
+                "Tekit"
+            ],
+            "Total de Localidades": 1
+        },
+        "Tekom": {
+            "Localidades": [
+                "Chibilub",
+                "Pocbichen",
+                "Tekom",
+                "X-Cocmil",
+                "Xuxcab"
+            ],
+            "Total de Localidades": 5
+        },
+        "Telchac Pueblo": {
+            "Localidades": [
+                "Telchac"
+            ],
+            "Total de Localidades": 1
+        },
+        "Telchac Puerto": {
+            "Localidades": [
+                "Telchac Puerto"
+            ],
+            "Total de Localidades": 1
+        },
+        "Temax": {
+            "Localidades": [
+                "Chenche De Las Torres",
+                "San Antonio Camara",
+                "Temax"
+            ],
+            "Total de Localidades": 3
+        },
+        "Temozón": {
+            "Localidades": [
+                "Actuncoh",
+                "Dzalbay",
+                "Ekbalam",
+                "Hunuku",
+                "Kanto",
+                "Nahbalam",
+                "San Pedro Tzec",
+                "Santa Rita",
+                "Temozon",
+                "X Tut",
+                "X-Kanchechen",
+                "X-Uch",
+                "Yokdzonot Presentado"
+            ],
+            "Total de Localidades": 13
+        },
+        "Tepakán": {
+            "Localidades": [
+                "Kantirix",
+                "Tepakan"
+            ],
+            "Total de Localidades": 2
+        },
+        "Tetiz": {
+            "Localidades": [
+                "Nohuayun",
+                "Tetiz"
+            ],
+            "Total de Localidades": 2
+        },
+        "Teya": {
+            "Localidades": [
+                "Teya"
+            ],
+            "Total de Localidades": 1
+        },
+        "Ticul": {
+            "Localidades": [
+                "Pustunich",
+                "Ticul",
+                "Unidades De Riego",
+                "Yotholin"
+            ],
+            "Total de Localidades": 4
+        },
+        "Timucuy": {
+            "Localidades": [
+                "Subincancab",
+                "Tekik De Regil",
+                "Timucuy"
+            ],
+            "Total de Localidades": 3
+        },
+        "Tinum": {
+            "Localidades": [
+                "Balantun",
+                "Chendzonot",
+                "Loop Xul",
+                "Piste",
+                "San Felipe",
+                "San Felipe Nuevo",
+                "San Francisco Grande",
+                "Tinum",
+                "Tohopku",
+                "X-Calakoop",
+                "Xmahkaba"
+            ],
+            "Total de Localidades": 11
+        },
+        "Tixcacalcupul": {
+            "Localidades": [
+                "Carolina",
+                "Ekpedz",
+                "Mahas",
+                "Poop",
+                "San Jose",
+                "Tixcacalcupul",
+                "X-Tohbil"
+            ],
+            "Total de Localidades": 7
+        },
+        "Tixkokob": {
+            "Localidades": [
+                "Ekmul",
+                "Euan",
+                "Hubila",
+                "Nolo",
+                "Ruinas De Ake",
+                "San Antonio Millet",
+                "Tixkokob"
+            ],
+            "Total de Localidades": 7
+        },
+        "Tixmehuac": {
+            "Localidades": [
+                "Chican",
+                "Chuchub",
+                "Dzutoh",
+                "Kimbila",
+                "Sabacche",
+                "Sisbic",
+                "Tixmehuac",
+                "Xcohil"
+            ],
+            "Total de Localidades": 8
+        },
+        "Tixpéhual": {
+            "Localidades": [
+                "Chochoh",
+                "Cuca",
+                "Kilinche",
+                "Sahe",
+                "Techoh",
+                "Tixpehual"
+            ],
+            "Total de Localidades": 6
+        },
+        "Tizimín": {
+            "Localidades": [
+                "Cenote Azul",
+                "Chan Cenote",
+                "Chan San Antonio",
+                "Chan Tres Reyes",
+                "Chenkeken",
+                "Colonia Yucatan",
+                "Dzibalku",
+                "Dzonot Ake",
+                "Dzonot Box",
+                "Dzonot Carretero",
+                "Dzonot Mezo",
+                "Dzonot Tigre",
+                "El Alamo",
+                "El Cuyo",
+                "El Eden (Yaxic)",
+                "El Limonar",
+                "Emiliano Zapata",
+                "Felipe Carrillo Puerto Numero Uno",
+                "Haltunchen",
+                "Kabichen",
+                "Kalax Yokdzonot",
+                "Kikil",
+                "La Sierra",
+                "Luis Rosado Vega",
+                "Manuel Cepeda Peraza",
+                "Moctezuma",
+                "Nuevo Tezoco",
+                "Popolnah",
+                "Samaria",
+                "San Andres",
+                "San Arturo",
+                "San Francisco Yohactun",
+                "San Hipolito",
+                "San Isidro Kancabdzonot",
+                "San Isidro Kilometro Catorce (San Isidro)",
+                "San Jose",
+                "San Jose Montecristo",
+                "San Juan Kilometro Cuatro",
+                "San Lorenzo Chiquila",
+                "San Luis Tzuctuk",
+                "San Manuel Kilometro Once",
+                "San Pedro",
+                "San Pedro Bacab",
+                "San Pedro Juarez",
+                "Santa Ana",
+                "Santa Clara Dzibalku",
+                "Santa Elena",
+                "Santa Maria",
+                "Santa Pilar",
+                "Santa Rosa",
+                "Santa Rosa Concepcion",
+                "Sucopo",
+                "Tixcancal",
+                "Tizimin",
+                "Trascorral",
+                "Xbohom",
+                "X-Lal",
+                "X-Makulan",
+                "X-Pambiha",
+                "X-Panhatoro",
+                "Yaxcheku",
+                "Yoactun",
+                "Yohactun De Hidalgo"
+            ],
+            "Total de Localidades": 63
+        },
+        "Tunkás": {
+            "Localidades": [
+                "Chakan Ebula",
+                "Onichen",
+                "San Antonio Chuc",
+                "San Francisco",
+                "San Jose Pibtuch",
+                "Tunkas"
+            ],
+            "Total de Localidades": 6
+        },
+        "Tzucacab": {
+            "Localidades": [
+                "Blanca Flor",
+                "Catmis",
+                "Caxaytuk",
+                "Corral",
+                "Ek-Balam",
+                "El Escondido",
+                "Juntura Uno",
+                "Montana",
+                "Noh-Bec",
+                "Polhuacxil",
+                "Sacbecan",
+                "San Salvador Piste Akal",
+                "Tigre Grande",
+                "Tzucacab",
+                "Xcobiakal (Xcobilakal)"
+            ],
+            "Total de Localidades": 15
+        },
+        "Uayma": {
+            "Localidades": [
+                "San Lorenzo",
+                "Santa Maria Aznar",
+                "Uayma"
+            ],
+            "Total de Localidades": 3
+        },
+        "Ucú": {
+            "Localidades": [
+                "Ucu",
+                "Yaxche De Peon"
+            ],
+            "Total de Localidades": 2
+        },
+        "Umán": {
+            "Localidades": [
+                "Bolon",
+                "Dzibikak",
+                "Hotzuc",
+                "Hunxectaman",
+                "Oxcum",
+                "Oxholon",
+                "Petec Biltun",
+                "Poxila",
+                "San Antonio Chum",
+                "Santa Barbara I",
+                "Tanil",
+                "Tebec",
+                "Ticimul",
+                "Uman",
+                "Xcucul Sur",
+                "Xtepen",
+                "Yaxcopoil"
+            ],
+            "Total de Localidades": 17
+        },
+        "Valladolid": {
+            "Localidades": [
+                "Bolmay",
+                "Chamul",
+                "Chan Yokdzonot",
+                "Dzibil",
+                "Dzitnup",
+                "Ebtun",
+                "Kampepen",
+                "Kanxoc",
+                "Koopchen",
+                "Nohsuytun",
+                "Pixoy",
+                "Popola",
+                "Rancho Tekal",
+                "San Andres Kampocolche",
+                "San Andres X-Bac",
+                "San Antonio",
+                "San Francisco",
+                "San Isidro",
+                "San Pedro Sula",
+                "Santa Eleuteria",
+                "Santa Rosa",
+                "Sidrakin",
+                "Tahmuy",
+                "Tepakan",
+                "Tesoco",
+                "Tikuch",
+                "Timas",
+                "Tixhualactun",
+                "Valladolid",
+                "X-Bacab",
+                "X-Cohuo",
+                "Xocen",
+                "Xuilub",
+                "Yaax-Hal",
+                "Yalcoba",
+                "Yalcon",
+                "Yaxche",
+                "Yokdzonot Dos",
+                "Zodzilchen"
+            ],
+            "Total de Localidades": 39
+        },
+        "Xocchel": {
+            "Localidades": [
+                "Xocchel"
+            ],
+            "Total de Localidades": 1
+        },
+        "Yaxcabá": {
+            "Localidades": [
+                "Canakom",
+                "Chimay",
+                "Cipche",
+                "Cisteil",
+                "Huechen Balam",
+                "Kancabdzonot",
+                "Libre Union",
+                "Popola",
+                "Sahcaba",
+                "San Marcos",
+                "San Marcos Dos",
+                "San Pedro",
+                "Santa Maria",
+                "Santa Maria Ku",
+                "Tahdzibichen",
+                "Tiholop",
+                "Tinuncah",
+                "Tixcacaltuyub",
+                "X Lapak",
+                "X-Mexil",
+                "X-Pom",
+                "Yaxcaba",
+                "Yaxunah",
+                "Yokdzonot",
+                "Yokdzonot-Hu"
+            ],
+            "Total de Localidades": 25
+        },
+        "Yaxkukul": {
+            "Localidades": [
+                "Yaxkukul"
+            ],
+            "Total de Localidades": 1
+        },
+        "Yobaín": {
+            "Localidades": [
+                "Chabihau",
+                "Yobain"
+            ],
+            "Total de Localidades": 2
+        }
+    },
+    "Total de Localidades": 668,
+    "Total de Municipios": 106
+}

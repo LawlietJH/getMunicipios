@@ -1,0 +1,703 @@
+{
+    "Municipios": {
+        "Acuamanala de Miguel Hidalgo": {
+            "Localidades": [
+                "Acuamanala",
+                "Guadalupe Hidalgo",
+                "Olextla De Juñrez"
+            ],
+            "Total de Localidades": 3
+        },
+        "Altzayanca": {
+            "Localidades": [
+                "Atlzayanca",
+                "Colonia Delicias",
+                "Colonia Nazareth",
+                "Concepciñn Hidalgo",
+                "Felipe Carrillo Puerto",
+                "Lñzaro Cñrdenas",
+                "La Garita",
+                "La Soledad Loma De Ocotla [Rancherña]",
+                "Loma De Junguito",
+                "Mesa Redonda",
+                "Miahuapan El Alto",
+                "Miahuapan El Bajo",
+                "Nexnopala",
+                "Rancherña De Pocitos",
+                "San Antonio Tecopilco",
+                "San Josñ Buenavista",
+                "San Josñ Miravalle",
+                "San Josñ Pilancñn",
+                "San Juan Ocotitla",
+                "Santa Cruz Pocitos",
+                "Santa Marña Las Cuevas",
+                "Xaltitla",
+                "Xarero Xaltitla"
+            ],
+            "Total de Localidades": 23
+        },
+        "Amaxac de Guerrero": {
+            "Localidades": [
+                "Amaxac De Guerrero",
+                "San Damiñn Tlacocalpan"
+            ],
+            "Total de Localidades": 2
+        },
+        "Apetatitlán de Antonio Carvajal": {
+            "Localidades": [
+                "Apetatitlñn",
+                "Belñn Atzitzimititlñn",
+                "San Matñas Tepetomatitlñn",
+                "Tecolotla",
+                "Tlatempan"
+            ],
+            "Total de Localidades": 5
+        },
+        "Apizaco": {
+            "Localidades": [
+                "Cerrito De Guadalupe",
+                "Ciudad De Apizaco",
+                "Colonia San Isidro",
+                "Guadalupe Texcalac",
+                "Josñ Marña Morelos",
+                "San Luis Apizaquito",
+                "Santa Anita Huiloac",
+                "Santa Marña Texcalac"
+            ],
+            "Total de Localidades": 8
+        },
+        "Atlangatepec": {
+            "Localidades": [
+                "Atlangatepec",
+                "Colonia Agrñcola San Luis",
+                "Colonia Agrñcola Santa Clara Ozumba",
+                "Colonia Benito Juñrez (Tezoyo)",
+                "Colonia Loma Bonita",
+                "La Trasquila",
+                "Rancho Xalnene",
+                "San Pedro Ecatepec",
+                "Santa Marña Tepetzala",
+                "Santiago Villalta",
+                "Villa De Las Flores",
+                "Zumpango"
+            ],
+            "Total de Localidades": 12
+        },
+        "Benito Juárez": {
+            "Localidades": [
+                "Benito Juñrez"
+            ],
+            "Total de Localidades": 1
+        },
+        "Calpulalpan": {
+            "Localidades": [
+                "Calpulalpan",
+                "El Mirador",
+                "La Palma",
+                "La Soledad",
+                "La Venta",
+                "Loma De San Agustñn",
+                "Mazapa",
+                "Ncpe Gustavo Dñaz Ordaz",
+                "San Cristñbal Zacacalco",
+                "San Felipe Sultepec",
+                "San Marcos Guaquilpan",
+                "San Mateo Aticpac",
+                "Santa Isabel Mixtitlñn",
+                "Santiago Cuaula"
+            ],
+            "Total de Localidades": 14
+        },
+        "Chiautempan": {
+            "Localidades": [
+                "San Antoñotla",
+                "San Bartolomñ Cuahuixmatlac",
+                "San Pedro Muñoztla",
+                "San Pedro Tlalcuapan De Nicolñs Bravo",
+                "San Pedro Xochiteotla",
+                "San Rafael Tepatlaxco",
+                "Santa Ana Chiautempan"
+            ],
+            "Total de Localidades": 7
+        },
+        "Contla de Juan Cuamatzi": {
+            "Localidades": [
+                "Contla",
+                "Ixtlahuaca",
+                "La Luz [Barrio]",
+                "Ocotlñn Tepatlaxco",
+                "San Felipe Cuauhtenco",
+                "San Josñ Aztatla",
+                "Santa Marña Aquiñhuac"
+            ],
+            "Total de Localidades": 7
+        },
+        "Cuapiaxtla": {
+            "Localidades": [
+                "Colonia Del Valle",
+                "Colonia Ignacio Allende",
+                "Colonia Josñ Marña Morelos",
+                "Colonia Loma Bonita",
+                "Colonia Manuel Ñvila Camacho",
+                "Cuapiaxtla",
+                "Plan De Ayala",
+                "Rancho Mazarraza",
+                "San Francisco Cuexcontzi",
+                "Santa Beatriz La Nueva"
+            ],
+            "Total de Localidades": 10
+        },
+        "Cuaxomulco": {
+            "Localidades": [
+                "Coxtla",
+                "Cuaxomulco",
+                "San Lorenzo Xaltelulco",
+                "San Miguel Buenavista",
+                "Zacamolpa"
+            ],
+            "Total de Localidades": 5
+        },
+        "El Carmen Tequexquitla": {
+            "Localidades": [
+                "Barrio De Guadalupe",
+                "Colonia Vicente Guerrero",
+                "La Soledad",
+                "Ocotlñn Temalacayucan",
+                "Villa De El Carmen Tequexquitla"
+            ],
+            "Total de Localidades": 5
+        },
+        "Emiliano Zapata": {
+            "Localidades": [
+                "Colonia Gustavo Dñaz Ordaz",
+                "Emiliano Zapata"
+            ],
+            "Total de Localidades": 2
+        },
+        "Españita": {
+            "Localidades": [
+                "Barrio De Torres",
+                "Españita",
+                "La Concepciñn",
+                "La Constancia",
+                "La Magdalena Cuextotitla",
+                "La Reforma",
+                "Las Pilas",
+                "Lvaro Obregñn",
+                "Miguel Aldama",
+                "San Francisco Mitepec",
+                "San Juan Mitepec",
+                "San Miguel",
+                "San Miguel El Piññn",
+                "San Miguel Pipiyola",
+                "Vicente Guerrero"
+            ],
+            "Total de Localidades": 15
+        },
+        "Huamantla": {
+            "Localidades": [
+                "Ampliaciñn Felipe Carrillo Puerto",
+                "Benito Juñrez",
+                "Colonia Agrñcola San Martñn Notario",
+                "Colonia Altamira Guadalupe",
+                "Colonia Chapultepec",
+                "Colonia Cuauhtñmoc",
+                "Colonia El Valle",
+                "Colonia Francisco I. Madero La Mesa",
+                "Colonia Francisco I. Madero Tecñac",
+                "Colonia Francisco Villa Tecñac",
+                "Colonia Hermenegildo Galeana",
+                "Colonia Licenciado Mauro Angulo",
+                "El Carmen Xalpatlahuaya",
+                "El Molino [Rancherña]",
+                "General Francisco Villa",
+                "Huamantla",
+                "Ignacio Zaragoza",
+                "Josñ Marña Morelos",
+                "Lñzaro Cñrdenas",
+                "La Lima [Rancherña]",
+                "Los Pilares",
+                "Ncp Josñ Marña Morelos",
+                "Ncp San Josñ Teacalco",
+                "Rancherña De Torres",
+                "Rancho Alegre",
+                "San Antonio Atenco",
+                "San Diego Xalpatlahuaya",
+                "San Francisco Tecñac [Colonia]",
+                "San Josñ Xicohtñncatl",
+                "San Martñn Notario",
+                "Santa Ana Rños",
+                "Santa Clara Sotoltepec",
+                "Santa Marña Magdalena Xonecuila"
+            ],
+            "Total de Localidades": 33
+        },
+        "Hueyotlipan": {
+            "Localidades": [
+                "Colonia Adolfo Lñpez Mateos",
+                "Hueyotlipan",
+                "Ignacio Zaragoza",
+                "Playa Azul",
+                "San Andrñs Cuaximala",
+                "San Antonio Techalote",
+                "San Diego Recoba",
+                "San Lorenzo Techalote",
+                "San Manuel Tlalpan",
+                "San Simeñn Xipetzinco",
+                "Santa Marña Ixcotla",
+                "Santiago Tlalpan"
+            ],
+            "Total de Localidades": 12
+        },
+        "Ixtacuixtla de Mariano Matamoros": {
+            "Localidades": [
+                "Alpotzonga De Lira Y Ortega",
+                "Espñritu Santo",
+                "La Caridad Cuaxonacayo",
+                "La Soledad",
+                "La Trinidad Tenexyecac",
+                "La Virgen",
+                "San Antonio Atotonilco",
+                "San Antonio Tecñac",
+                "San Antonio Tizostoc",
+                "San Diego Xocoyucan",
+                "San Gabriel Popocatla",
+                "San Josñ Escandona",
+                "San Juan Nepopualco",
+                "San Marcos Jilotepec",
+                "San Miguel La Presa",
+                "Santa Cruz El Porvenir",
+                "Santa Inñs Tecuexcomac",
+                "Santa Justina Ecatepec",
+                "Santa Rosa De Lima",
+                "Santiago Xochimilco",
+                "Villa Mariano Matamoros"
+            ],
+            "Total de Localidades": 21
+        },
+        "Ixtenco": {
+            "Localidades": [
+                "Ixtenco"
+            ],
+            "Total de Localidades": 1
+        },
+        "La Magdalena Tlaltelulco": {
+            "Localidades": [
+                "La Magdalena Tlaltelulco"
+            ],
+            "Total de Localidades": 1
+        },
+        "Lázaro Cárdenas": {
+            "Localidades": [
+                "Lñzaro Cñrdenas",
+                "San Josñ De La Laguna"
+            ],
+            "Total de Localidades": 2
+        },
+        "Mazatecochco de José María Morelos": {
+            "Localidades": [
+                "Colozitzi",
+                "Mazatecochco"
+            ],
+            "Total de Localidades": 2
+        },
+        "Muñoz de Domingo Arenas": {
+            "Localidades": [
+                "Ejido Muñoz",
+                "Guadalupe Cuauhtñmoc",
+                "Muñoz",
+                "San Isidro Chipila",
+                "San Josñ Cuamantzingo"
+            ],
+            "Total de Localidades": 5
+        },
+        "Nanacamilpa de Mariano Arista": {
+            "Localidades": [
+                "Ciudad De Nanacamilpa",
+                "Colonia Tepuente",
+                "Domingo Arenas (La Calera)",
+                "Francisco I. Madero",
+                "Miguel Lira Y Ortega",
+                "San Felipe Hidalgo"
+            ],
+            "Total de Localidades": 6
+        },
+        "Natívitas": {
+            "Localidades": [
+                "Ex-Hacienda Santa Elena",
+                "Natñvitas",
+                "San Bernabñ Capula",
+                "San Josñ Atoyatenco",
+                "San Miguel Analco",
+                "San Miguel Del Milagro",
+                "San Miguel Tlale",
+                "San Miguel Xochitecatitla",
+                "San Rafael Tenanyecac",
+                "San Vicente Xiloxochitla",
+                "Santa Clara Atoyac",
+                "Santiago Michac",
+                "Santo Tomñs La Concordia"
+            ],
+            "Total de Localidades": 13
+        },
+        "Panotla": {
+            "Localidades": [
+                "Jes",
+                "Panotla",
+                "San Ambrosio Texantla",
+                "San Francisco Temetzontla",
+                "San Jorge Tezoquipan",
+                "San Mateo Huexoyucan",
+                "San Tadeo Huiloapan",
+                "Santa Catalina Apatlahco",
+                "Santa Cruz Techachalco"
+            ],
+            "Total de Localidades": 9
+        },
+        "Papalotla de Xicohténcatl": {
+            "Localidades": [
+                "Papalotla",
+                "San Marcos Contla",
+                "Xaltonac"
+            ],
+            "Total de Localidades": 3
+        },
+        "San Damián Texóloc": {
+            "Localidades": [
+                "Luis Echeverrña Ñlvarez",
+                "San Damiñn Texñloc"
+            ],
+            "Total de Localidades": 2
+        },
+        "San Francisco Tetlanohcan": {
+            "Localidades": [
+                "San Francisco Tetlanohcan"
+            ],
+            "Total de Localidades": 1
+        },
+        "San Jerónimo Zacualpan": {
+            "Localidades": [
+                "San Jerñnimo Zacualpan"
+            ],
+            "Total de Localidades": 1
+        },
+        "San José Teacalco": {
+            "Localidades": [
+                "El Encinal Dos De Mayo",
+                "San Josñ Teacalco",
+                "San Luis"
+            ],
+            "Total de Localidades": 3
+        },
+        "San Juan Huactzinco": {
+            "Localidades": [
+                "San Juan Huactzinco"
+            ],
+            "Total de Localidades": 1
+        },
+        "San Lorenzo Axocomanitla": {
+            "Localidades": [
+                "San Lorenzo Axocomanitla"
+            ],
+            "Total de Localidades": 1
+        },
+        "San Lucas Tecopilco": {
+            "Localidades": [
+                "Maximino (El Llano)",
+                "San Lucas Tecopilco"
+            ],
+            "Total de Localidades": 2
+        },
+        "San Pablo del Monte": {
+            "Localidades": [
+                "San Isidro Buen Suceso",
+                "Villa Vicente Guerrero",
+                "Xahuñn Vargas"
+            ],
+            "Total de Localidades": 3
+        },
+        "Sanctórum de Lázaro Cárdenas": {
+            "Localidades": [
+                "Francisco Villa",
+                "Ncp Ñlvaro Obregñn",
+                "Sanctñrum"
+            ],
+            "Total de Localidades": 3
+        },
+        "Santa Ana Nopalucan": {
+            "Localidades": [
+                "Santa Ana Nopalucan"
+            ],
+            "Total de Localidades": 1
+        },
+        "Santa Apolonia Teacalco": {
+            "Localidades": [
+                "Santa Apolonia Teacalco"
+            ],
+            "Total de Localidades": 1
+        },
+        "Santa Catarina Ayometla": {
+            "Localidades": [
+                "Santa Catarina Ayometla"
+            ],
+            "Total de Localidades": 1
+        },
+        "Santa Cruz Quilehtla": {
+            "Localidades": [
+                "Ayometitla",
+                "Santa Cruz Quilehtla"
+            ],
+            "Total de Localidades": 2
+        },
+        "Santa Cruz Tlaxcala": {
+            "Localidades": [
+                "Guadalupe Tlachco",
+                "Jes",
+                "San Miguel Contla",
+                "Santa Cruz Tlaxcala",
+                "Tetzotzocola"
+            ],
+            "Total de Localidades": 5
+        },
+        "Santa Isabel Xiloxoxtla": {
+            "Localidades": [
+                "Santa Isabel Xiloxoxtla"
+            ],
+            "Total de Localidades": 1
+        },
+        "Tenancingo": {
+            "Localidades": [
+                "Tenancingo"
+            ],
+            "Total de Localidades": 1
+        },
+        "Teolocholco": {
+            "Localidades": [
+                "Alailazotl",
+                "Cuaxinca",
+                "El Carmen Aztama",
+                "Teolocholco"
+            ],
+            "Total de Localidades": 4
+        },
+        "Tepetitla de Lardizábal": {
+            "Localidades": [
+                "Guadalupe Victoria",
+                "San Mateo Ayecac",
+                "Tepetitla",
+                "Villa Alta"
+            ],
+            "Total de Localidades": 4
+        },
+        "Tepeyanco": {
+            "Localidades": [
+                "Colonia Guerrero",
+                "La Aurora",
+                "Las Ñguilas [Colonia]",
+                "San Cosme Atlamaxac",
+                "San Pedro Xalcaltzinco",
+                "Santiago Tlacochcalco",
+                "Tepeyanco"
+            ],
+            "Total de Localidades": 7
+        },
+        "Terrenate": {
+            "Localidades": [
+                "Cerrito De Guadalupe",
+                "El Capulñn [Colonia]",
+                "El Ocote (Las Pozas) [Rancho]",
+                "El Rincñn [Rancherña]",
+                "Guadalupe Victoria",
+                "La Mesa (La Cumbre) [Rancho]",
+                "Los Ameles (Acolco)",
+                "Nicolñs Bravo",
+                "Rancho Guadalupe",
+                "San Josñ Villarreal",
+                "San Juan Villarreal [Rancho]",
+                "Santa Ana [Rancho]",
+                "Terrenate",
+                "Toluca De Guadalupe"
+            ],
+            "Total de Localidades": 14
+        },
+        "Tetla de la Solidaridad": {
+            "Localidades": [
+                "Capulac",
+                "Josñ Marña Morelos Y Pavñn",
+                "Plan De Ayala",
+                "San Bartolomñ Matlalohcan",
+                "San Francisco Atexcatzinco",
+                "San Isidro",
+                "Santa Fe La Troje",
+                "Tetla"
+            ],
+            "Total de Localidades": 8
+        },
+        "Tetlatlahuca": {
+            "Localidades": [
+                "Atenco",
+                "San Andrñs Cuamilpa",
+                "Santa Ana Portales",
+                "Santa Cruz Capulinares",
+                "Tetlatlahuca"
+            ],
+            "Total de Localidades": 5
+        },
+        "Tlaxcala": {
+            "Localidades": [
+                "Ocotlñn",
+                "Pueblo Heroico De La Trinidad Tepehitec",
+                "San Buenaventura Atempan",
+                "San Gabriel Cuauhtla",
+                "San Lucas Cuauhtelulpan",
+                "San Sebastiñn Atlahapa",
+                "Santa Marña Acuitlapilco",
+                "Santa Marña Ixtulco",
+                "Tlaxcala De Xicohtñncatl"
+            ],
+            "Total de Localidades": 9
+        },
+        "Tlaxco": {
+            "Localidades": [
+                "Acopinalco Del Peññn",
+                "Capilla De Tepeyahualco",
+                "Casa Blanca",
+                "Colonia Mñximo Rojas Xalñstoc",
+                "Colonia Profesor Graciano Sñnchez",
+                "Comisiñn Federal De Electricidad-La Martinica",
+                "Ejido San Josñ Atotonilco",
+                "El Callejñn",
+                "El Mirador",
+                "El Rosario",
+                "Ex-Hacienda San Josñ Tepeyahualco",
+                "Ex-Hacienda San Miguel Mimiahuapan",
+                "Guadalupe Huexotitla",
+                "Josñ Marña Morelos Buenavista",
+                "La Ciñnega",
+                "La Herradura",
+                "La Loma",
+                "La Magdalena Soltepec",
+                "La Palma",
+                "La Pedregosa",
+                "La Rosa",
+                "Lagunilla",
+                "Las Mesas [Rancherña]",
+                "Las Vigas",
+                "Los Capulines",
+                "Los Laureles",
+                "Maguey Cenizo",
+                "Mariano Matamoros",
+                "Mazaquiñhuac",
+                "Ncpe La Herradura",
+                "Rancherña Ojo De Agua",
+                "San Antonio Chapultepec",
+                "San Antonio Huexotitla",
+                "San Josñ Atotonilco",
+                "San Josñ Tepeyahualco",
+                "San Lorenzo Soltepec",
+                "San Pedro La Cueva",
+                "Santa Fe",
+                "Santa Marña Zotoluca",
+                "Tecomalucan",
+                "Titichilco",
+                "Tlaxco",
+                "Uniñn Ejidal Tierra Y Libertad"
+            ],
+            "Total de Localidades": 43
+        },
+        "Tocatlán": {
+            "Localidades": [
+                "Acocotla",
+                "Tocatlñn"
+            ],
+            "Total de Localidades": 2
+        },
+        "Totolac": {
+            "Localidades": [
+                "Acxotla Del Rño",
+                "La Candelaria Teotlalpan",
+                "La Trinidad Chimalpa",
+                "Los Reyes Quiahuixtlñn",
+                "San Francisco Ocotelulco",
+                "San Juan Totolac",
+                "San Miguel Tlamahuco",
+                "Santiago Tepeticpac",
+                "Zaragoza"
+            ],
+            "Total de Localidades": 9
+        },
+        "Tzompantepec": {
+            "Localidades": [
+                "San Andrñs Ahuashuatepec",
+                "San Juan Quetzalcoapan",
+                "San Mateo Inophil",
+                "Tzompantepec",
+                "Xaltianquisco"
+            ],
+            "Total de Localidades": 5
+        },
+        "Xaloztoc": {
+            "Localidades": [
+                "Colonia Velazco",
+                "Colonia Venustiano Carranza",
+                "El Jagñey Prieto",
+                "Guadalupe Texmolac",
+                "Xaloztoc"
+            ],
+            "Total de Localidades": 5
+        },
+        "Xaltocan": {
+            "Localidades": [
+                "Colonia Puerto Arturo",
+                "Cuatla",
+                "La Ascensiñn Huitzcolotepec",
+                "Las Mesas [Colonia]",
+                "San Simñn Tlatlahuquitepec",
+                "Santa Bñrbara Acuicuizcatepec",
+                "Topilco De Juñrez",
+                "Xaltocan"
+            ],
+            "Total de Localidades": 8
+        },
+        "Xicohtzinco": {
+            "Localidades": [
+                "Xicohtzinco"
+            ],
+            "Total de Localidades": 1
+        },
+        "Yauhquemehcan": {
+            "Localidades": [
+                "Barrio De Atencingo",
+                "Chimalpa",
+                "El Rosario Ocotoxco",
+                "Hualcaltzinco",
+                "San Benito Xaltocan",
+                "San Dionisio Yauhquemehcan",
+                "San Francisco Tlacuilohcan",
+                "San Josñ Tepoxtla",
+                "San Josñ Tetel",
+                "Santa",
+                "Santa Marña Atlihuetzian"
+            ],
+            "Total de Localidades": 11
+        },
+        "Zacatelco": {
+            "Localidades": [
+                "Domingo Arenas",
+                "Santa Elena",
+                "Zacatelco"
+            ],
+            "Total de Localidades": 3
+        },
+        "Ziltlaltépec de Trinidad Sánchez Santos": {
+            "Localidades": [
+                "Colonia Francisco Javier Mina",
+                "San Juan Bautista Mier",
+                "Zitlaltñpec"
+            ],
+            "Total de Localidades": 3
+        }
+    },
+    "Total de Localidades": 398,
+    "Total de Municipios": 60
+}

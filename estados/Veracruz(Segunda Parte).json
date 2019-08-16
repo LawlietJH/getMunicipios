@@ -1,0 +1,3574 @@
+{
+    "Municipios": {
+        "Acajete": {
+            "Localidades": [
+                "Parajillos",
+                "Pata Mole",
+                "Plan De Sedeño",
+                "Puentecillas",
+                "Tierra Prieta",
+                "Vega De Pixquiac"
+            ],
+            "Total de Localidades": 6
+        },
+        "Acatlán": {
+            "Localidades": [
+                "Plan Del Pino (Plan Del Coyote)",
+                "Veinticuatro"
+            ],
+            "Total de Localidades": 2
+        },
+        "Acayucan": {
+            "Localidades": [
+                "Nuevo Poblado Vista Hermosa",
+                "Nuevo Quiamoloapan",
+                "Nuevos Organos (El Mirador)",
+                "Paso Limon",
+                "Pitalillo",
+                "Quiamoloapan",
+                "San Bartolo",
+                "San Luis",
+                "San Martin",
+                "San Miguel",
+                "Santa Rita Laurel",
+                "Tecuanapa",
+                "Tierra Colorada",
+                "Tres Cerros",
+                "Vista Hermosa",
+                "Xalapa Caleria"
+            ],
+            "Total de Localidades": 16
+        },
+        "Actopan": {
+            "Localidades": [
+                "Omiquila",
+                "Pajaritos",
+                "Palmas De Abajo",
+                "Paso De La Milpa",
+                "Paso De Varas",
+                "Paso Del Cedro",
+                "Plan De La Higuera (El Toche)",
+                "Ranchito De Las Animas",
+                "San Isidro",
+                "San Jose Pastorias",
+                "San Juan Villa Rica",
+                "San Nicolas (San Nicolas De Tolentino)",
+                "Santa Rosa (General Pinzon)",
+                "Soyacuautla",
+                "Tinajitas",
+                "Totolapan",
+                "Trapiche Del Rosario",
+                "Villa Nueva",
+                "Villa Rica De La Veracruz",
+                "Vista Hermosa"
+            ],
+            "Total de Localidades": 20
+        },
+        "Acula": {
+            "Localidades": [
+                "Poza Honda",
+                "San Miguel Xochitl (San Miguel El Soldado)"
+            ],
+            "Total de Localidades": 2
+        },
+        "Acultzingo": {
+            "Localidades": [
+                "Ojo De Agua De Abajo (La Mesa)",
+                "Ojo De Agua De Arriba",
+                "Pinotla",
+                "Prospero Pineda",
+                "Puente De Guadalupe",
+                "Puerto Del Aire",
+                "Sierra De Agua",
+                "Tecamalucan",
+                "Tlapextitla",
+                "Vaqueria",
+                "Vista Hermosa"
+            ],
+            "Total de Localidades": 11
+        },
+        "Agua Dulce": {
+            "Localidades": [
+                "Punta Gorda",
+                "Ramon Pablo (Ejido Tonala)",
+                "Tonala"
+            ],
+            "Total de Localidades": 3
+        },
+        "Alpatláhuac": {
+            "Localidades": [
+                "Nueva Vida",
+                "Rancho Alegre",
+                "Rancho Nuevo",
+                "San Jose Teacalco",
+                "San Martin Caballero",
+                "Teanquisco",
+                "Tecuanapilla",
+                "Texopa",
+                "Union Cruz Verde",
+                "Xicola",
+                "Yolocla"
+            ],
+            "Total de Localidades": 11
+        },
+        "Alto Lucero de Gutiérrez Barrios": {
+            "Localidades": [
+                "Ojo Zarco",
+                "Palma Sola",
+                "Pedregal",
+                "Potrero Alto",
+                "Providencia",
+                "Rancho Nuevo",
+                "Rincon De Negros",
+                "Sabanetas",
+                "San Isidro La Peña",
+                "Santa Ana",
+                "Santander",
+                "Tecuan",
+                "Tierra Blanca",
+                "Topilito De Zaragoza",
+                "Topiltepec",
+                "Vainilla",
+                "Vaqueria",
+                "Villa Candelaria",
+                "Xomotla"
+            ],
+            "Total de Localidades": 19
+        },
+        "Altotonga": {
+            "Localidades": [
+                "Pastor Vergara",
+                "Paxtepec",
+                "Quilate Antiguo",
+                "Quilate Nuevo",
+                "Rancho Nuevo",
+                "Relicario",
+                "Ricardo Flores Magon",
+                "Rio Vasco",
+                "San Felipe",
+                "San Jose Buenavista",
+                "San Jose Tepozoteco",
+                "San Miguel Tlalpoalan",
+                "San Pedro Tepozoteco",
+                "Santa Cruz Tepozoteco",
+                "Santa Rosa",
+                "Seccion Plan De Limon",
+                "Seccion Plan De Limon",
+                "Tatempa",
+                "Temimilco",
+                "Tepiolulco",
+                "Texacaxco",
+                "Tezahuapan De Juarez",
+                "Tiocuautla",
+                "Vega Chica",
+                "Vega De San Pedro",
+                "Veintiuno De Agosto",
+                "Xaltepec",
+                "Xoampolco",
+                "Xocotla",
+                "Zoatzingo"
+            ],
+            "Total de Localidades": 30
+        },
+        "Alvarado": {
+            "Localidades": [
+                "Paso El Platanar",
+                "Paso Nacional",
+                "Paso Salinas",
+                "Playa De La Libertad",
+                "Playa Zapote",
+                "Playuelas",
+                "Plaza De Armas",
+                "Punta De Arenas",
+                "Punta Grande",
+                "Rincon De La Palma",
+                "Salinas"
+            ],
+            "Total de Localidades": 11
+        },
+        "Amatitlán": {
+            "Localidades": [
+                "Nuevo Paraiso",
+                "Rancho Alegre",
+                "Rancho Nuevo (Los Cerros)",
+                "San Basilio",
+                "Varas Prietas",
+                "Zacapexco"
+            ],
+            "Total de Localidades": 6
+        },
+        "Amatlán de los Reyes": {
+            "Localidades": [
+                "Ojo Chico",
+                "Ojo De Agua Grande (California)",
+                "Parada La Concha",
+                "Paraje Nuevo",
+                "Peñuela",
+                "Potrero Viejo",
+                "Puente De Oro",
+                "San Antonio Fraternidad",
+                "San Pedro La Pesca",
+                "San Rafael Rio Seco",
+                "Torrecillas",
+                "Trapiche Viejo",
+                "Venta Parada"
+            ],
+            "Total de Localidades": 13
+        },
+        "Angel R. Cabada": {
+            "Localidades": [
+                "Paso Del Ingenio",
+                "Plan De Los Naranjos",
+                "Punta Brava",
+                "San Juan De Los Reyes (Luis Valenzuela)",
+                "Santana",
+                "Tecolapan",
+                "Tula",
+                "Tulapilla (Ejido Tulapilla)",
+                "Zanja Grande De Abajo"
+            ],
+            "Total de Localidades": 9
+        },
+        "Apazapan": {
+            "Localidades": [
+                "Nuevo Amelco",
+                "Tigrillos"
+            ],
+            "Total de Localidades": 2
+        },
+        "Astacinga": {
+            "Localidades": [
+                "Rancho Nuevo",
+                "Tecpantzacualco",
+                "Tepantla",
+                "Xayacatepec"
+            ],
+            "Total de Localidades": 4
+        },
+        "Atlahuilco": {
+            "Localidades": [
+                "Ocotlajapa",
+                "Quechulingo",
+                "Rincon De Tepexititla",
+                "Tambola (Tampola)",
+                "Tepexititla",
+                "Terrero",
+                "Ticonca",
+                "Tlaxcantitla",
+                "Tlaxitla",
+                "Uitziquiapa",
+                "Vista Hermosa",
+                "Xibtla",
+                "Xochitepec",
+                "Xocotehuitzco (Xogmecatla)",
+                "Zacamilola",
+                "Zacatla (Tlaltolompa)",
+                "Zacatlamanca",
+                "Zihuateo"
+            ],
+            "Total de Localidades": 18
+        },
+        "Atoyac": {
+            "Localidades": [
+                "Nuevo Miraflores",
+                "Progreso",
+                "Rancho Maria"
+            ],
+            "Total de Localidades": 3
+        },
+        "Atzacan": {
+            "Localidades": [
+                "Revolucion",
+                "Rincon Grande",
+                "Rosa Blanca",
+                "San Jose"
+            ],
+            "Total de Localidades": 4
+        },
+        "Atzalan": {
+            "Localidades": [
+                "Napoala",
+                "Naranjal",
+                "Naranjillo",
+                "Norberto Aguirre Palancares",
+                "Ojo De Agua",
+                "Olopiota",
+                "Pahua Hueca",
+                "Palmarcillo",
+                "Papalocuautla",
+                "Peñas De Almanza",
+                "Petoloya",
+                "Piedra Grande",
+                "Pilares",
+                "Pino Solo",
+                "Pinolillo",
+                "Plan De Arroyos",
+                "Plan De La Luz",
+                "Plan De Las Animas",
+                "Plan De Limon",
+                "Pochotita",
+                "Pompeya",
+                "Rancho Nuevo",
+                "San Antonio",
+                "San Bartolo",
+                "San Isidro",
+                "San Isidro (El Barranco)",
+                "San Pedro Altepepan",
+                "San Pedro Buenavista",
+                "San Salvador",
+                "Santa Cruz",
+                "Santa Elena",
+                "Santa Rosa (El Eden)",
+                "Santiago",
+                "Santo Domingo (Arroyo Negro)",
+                "Sompazol",
+                "Tallohuaya",
+                "Tamolotes",
+                "Tatempa",
+                "Tatzallanala",
+                "Tazolapa",
+                "Tepanapa",
+                "Tepetzintla",
+                "Tepeycan",
+                "Texcapa",
+                "Tierra Nueva",
+                "Tilzapota",
+                "Tinajas",
+                "Tlacolula",
+                "Tomata (Anexo Pilares)",
+                "Toxtepec",
+                "Toxtixtaca",
+                "Vega Del Rio De San Pedro",
+                "Vista Hermosa",
+                "Xampolco",
+                "Xicotes",
+                "Xiocuilapa",
+                "Xochtita",
+                "Xontaxpan",
+                "Zapote Redondo",
+                "Zapotitlan"
+            ],
+            "Total de Localidades": 60
+        },
+        "Ayahualulco": {
+            "Localidades": [
+                "Ocotepec",
+                "Plan De La Cruz",
+                "Rinconada (Xonchiquitl)",
+                "San Antonio Xoquitla",
+                "San Francisco",
+                "San Gabriel",
+                "San Isidro",
+                "San Jose Aguazuelas",
+                "Tlalconteno",
+                "Xocotepec",
+                "Xololoyan"
+            ],
+            "Total de Localidades": 11
+        },
+        "Banderilla": {
+            "Localidades": [
+                "Xaltepec"
+            ],
+            "Total de Localidades": 1
+        },
+        "Benito Juárez": {
+            "Localidades": [
+                "Otlamalacatl",
+                "Otlatempa",
+                "Pahuatitla",
+                "Palma Real",
+                "Paltzoquitempa",
+                "Pilpuerta",
+                "Poncojtla",
+                "Primo Verdad (San Miguel)",
+                "Rancho Nuevo",
+                "Tenantitla",
+                "Tlalmaya",
+                "Tlaltzintla",
+                "Tlamaya",
+                "Tlatlapango Chico",
+                "Tlatlapango Grande",
+                "Tolaco",
+                "Tolico De Zapata",
+                "Tolico Quirasco",
+                "Xochioloco",
+                "Yupiltitla"
+            ],
+            "Total de Localidades": 20
+        },
+        "Boca del Río": {
+            "Localidades": [
+                "Paso Colorado",
+                "San Jose Novillero"
+            ],
+            "Total de Localidades": 2
+        },
+        "Calcahualco": {
+            "Localidades": [
+                "Nueva Vaqueria",
+                "Nuevo Jacal",
+                "Palo Gacho",
+                "San Francisco",
+                "San Jose Xiteco",
+                "San Miguel Tlacotiopa",
+                "San Miguel Xiteco",
+                "Tecpanquiahuac",
+                "Tecuanapa",
+                "Teopantitla",
+                "Tepetlapa (San Antonio Tepetlapa)",
+                "Totozinapa",
+                "Xamaticpac",
+                "Xilomichi"
+            ],
+            "Total de Localidades": 14
+        },
+        "Camarón de Tejeda": {
+            "Localidades": [
+                "Pascual (Rancho Nuevo)",
+                "Plan De Oros",
+                "Rincon De Barrabas",
+                "Rincon Sabroso",
+                "San Agustin",
+                "Santehuaxque",
+                "Tres Hermanos"
+            ],
+            "Total de Localidades": 7
+        },
+        "Camerino Z. Mendoza": {
+            "Localidades": [
+                "Necoxtla"
+            ],
+            "Total de Localidades": 1
+        },
+        "Carlos A. Carrillo": {
+            "Localidades": [
+                "Paso Ancho Amatepec (Laguna Amatepec)",
+                "Playa Medina (Mata De Agua)",
+                "Tilapa",
+                "Uluapeño",
+                "Venustiano Carranza",
+                "Vicente Guerrero",
+                "Yorca Boca Del Paite"
+            ],
+            "Total de Localidades": 7
+        },
+        "Carrillo Puerto": {
+            "Localidades": [
+                "Palo Amarillo (Mata Pionche)",
+                "Palo Verde",
+                "Paso Del Potro",
+                "Pica Pica",
+                "Playa Vainilla",
+                "Rancho Nuevo",
+                "Rancho Valdivia",
+                "Santa Barbara",
+                "Santiago Huatusco",
+                "Tamarindo",
+                "Tlalnehuepan",
+                "Trinidad Sanchez Santos"
+            ],
+            "Total de Localidades": 12
+        },
+        "Castillo de Teayo": {
+            "Localidades": [
+                "Nuevo Jalisco",
+                "Palma Nueva",
+                "Palma Real",
+                "Paso De Las Flores",
+                "Paso Del Arroyo (Nuevo Paso)",
+                "Pueblo Viejo (El Naranjal)",
+                "Santa Cruz",
+                "Teayo",
+                "Zona Urbana Ejido El Mante"
+            ],
+            "Total de Localidades": 9
+        },
+        "Catemaco": {
+            "Localidades": [
+                "Ojoxapan",
+                "Peninsula De Moreno",
+                "Perla De San Martin",
+                "Pozolapan (Cartagena)",
+                "San Juan Seco De Valencia",
+                "San Rafael",
+                "Sontecomapan",
+                "Tebanca",
+                "Temolapan",
+                "Teotepec",
+                "Tepeyaga",
+                "Tres De Mayo",
+                "Zapoapan De Cabañas"
+            ],
+            "Total de Localidades": 13
+        },
+        "Cazones de Herrera": {
+            "Localidades": [
+                "Naranjos De Afuera (Naranjos Kilometro 27)",
+                "Nuevo Tejamanil",
+                "Ojo De Agua",
+                "Paso De Cazones",
+                "Plan De Limon",
+                "Rancho Nuevo",
+                "Rancho Oculto",
+                "San Roman Chiquito (Anexo Morisco Numero Dos)",
+                "Vega De Progreso"
+            ],
+            "Total de Localidades": 9
+        },
+        "Cerro Azul": {
+            "Localidades": [
+                "Piedra Labrada",
+                "Tamalinillo"
+            ],
+            "Total de Localidades": 2
+        },
+        "Chacaltianguis": {
+            "Localidades": [
+                "Paso Del Cura",
+                "Pepeapa",
+                "San Antonio",
+                "Torno Largo"
+            ],
+            "Total de Localidades": 4
+        },
+        "Chalma": {
+            "Localidades": [
+                "San Pedro Coyutla",
+                "Santa Quiteria",
+                "Taxtitla",
+                "Tenexco",
+                "Tepechica",
+                "Tepetzintla",
+                "Veintiuno De Julio",
+                "Zapotitla",
+                "Zapoyahuala"
+            ],
+            "Total de Localidades": 9
+        },
+        "Chiconamel": {
+            "Localidades": [
+                "Peña (Techicol)",
+                "Romantla",
+                "Santa Rosa",
+                "Tacubaya (Atlaqueco)",
+                "Taltamaya",
+                "Tancazahuela",
+                "Venados"
+            ],
+            "Total de Localidades": 7
+        },
+        "Chiconquiaco": {
+            "Localidades": [
+                "Plan De La Estrella",
+                "Plan Del Aguacero",
+                "Planta Del Pie",
+                "Progreso De Morelos",
+                "Rancho Alarcon",
+                "Vista Hermosa"
+            ],
+            "Total de Localidades": 6
+        },
+        "Chicontepec": {
+            "Localidades": [
+                "Nuevo Paraje",
+                "Nuevo Tecerca",
+                "Otlatzintla",
+                "Palma Real Tepenahuac",
+                "Palma Sola",
+                "Palo Flor",
+                "Paso De Tlacolula",
+                "Pastoria",
+                "Pemuxtitla",
+                "Pepeyocal",
+                "Piedras Negras",
+                "Pilahuimol",
+                "Pilmirador",
+                "Pochoco",
+                "Postectitla",
+                "San Benito",
+                "Sasaltitla",
+                "Sayoltepec",
+                "Soltepec",
+                "Teacatl Amatlan",
+                "Tecerca Vieja",
+                "Tecomaxochitl Primero",
+                "Tecomaxochitl Segundo",
+                "Temoctla",
+                "Tenexco",
+                "Tenextitla",
+                "Tepeco",
+                "Tepecxitla",
+                "Tepeica Ixcacuatitla",
+                "Tepenahuac",
+                "Tepetzintla",
+                "Tepexocoyo",
+                "Teponaxtla",
+                "Tepoxteco",
+                "Tiocuayo",
+                "Tlacolula",
+                "Tlamaya Pemuxtitla",
+                "Tlanempa Comun",
+                "Tlaquextla Tenextitla",
+                "Tlatolongo",
+                "Toloncuitlatla",
+                "Topaltepec",
+                "Tzapullo Postectitla",
+                "Tzapullo Tecomate",
+                "Tzontzopilotl",
+                "Xahuayoca",
+                "Xalatla",
+                "Xaltepec",
+                "Xicalango",
+                "Xihuicalco",
+                "Xilico",
+                "Xochicuatepec",
+                "Xococatl",
+                "Xoquixhual",
+                "Zacahuiztitla",
+                "Zacatitla",
+                "Zapotal (Zapotal Mirador)",
+                "Zapotempa",
+                "Zonamatl"
+            ],
+            "Total de Localidades": 59
+        },
+        "Chinameca": {
+            "Localidades": [
+                "Rancho Nuevo",
+                "Rancho Viejo",
+                "Salinas",
+                "San Jose Tilapa",
+                "Zuñiga"
+            ],
+            "Total de Localidades": 5
+        },
+        "Chinampa de Gorostiza": {
+            "Localidades": [
+                "Potrero Del Llano",
+                "Quebrache",
+                "Saltillo Chiquito",
+                "Solidaridad (Chinampa Numero Uno)"
+            ],
+            "Total de Localidades": 4
+        },
+        "Chocamán": {
+            "Localidades": [
+                "Rincon Pintor",
+                "San Jose Neria",
+                "Tepepixco",
+                "Tepexilotla",
+                "Tetla",
+                "Xonotzintla"
+            ],
+            "Total de Localidades": 6
+        },
+        "Chontla": {
+            "Localidades": [
+                "Palo De Rosas",
+                "Rancho Quemado",
+                "San Francisco",
+                "San Francisco",
+                "San Juan Otontepec",
+                "San Nicolasillo",
+                "Santa Valeria",
+                "Tamalcuatitla",
+                "Tancolol",
+                "Tezitlal",
+                "Tlatemalco",
+                "Xochitlan (Parajes)"
+            ],
+            "Total de Localidades": 12
+        },
+        "Citlaltépetl": {
+            "Localidades": [
+                "Rancho Nuevo",
+                "Rincon Del Higo",
+                "San Jeronimo",
+                "San Sebastian El Alto",
+                "Zapupal"
+            ],
+            "Total de Localidades": 5
+        },
+        "Coacoatzintla": {
+            "Localidades": [
+                "Paxtepec",
+                "Pueblo Viejo",
+                "Rincon De Chapultepec",
+                "Tlachinola"
+            ],
+            "Total de Localidades": 4
+        },
+        "Coahuitlán": {
+            "Localidades": [
+                "Progreso De Zaragoza",
+                "Tanque Miahuapan"
+            ],
+            "Total de Localidades": 2
+        },
+        "Coatepec": {
+            "Localidades": [
+                "Pacho Viejo",
+                "Puente Seco (Campo Viejo)",
+                "Puerto Rico",
+                "San Alfonso",
+                "Tapachapan",
+                "Tepeapulco",
+                "Tierra Grande",
+                "Tuzamapan",
+                "Vaqueria",
+                "Zimpizahua"
+            ],
+            "Total de Localidades": 10
+        },
+        "Coatzacoalcos": {
+            "Localidades": [
+                "Paso A Desnivel",
+                "Rincon Grande"
+            ],
+            "Total de Localidades": 2
+        },
+        "Coatzintla": {
+            "Localidades": [
+                "Palma Sola",
+                "Palmar De Zapata",
+                "Rancho Nuevo",
+                "San Fernando Coapechapa",
+                "San Isidro",
+                "Santa Maria",
+                "Troncones Y Potrerillos",
+                "Tuzapan",
+                "Ursulo Galvan"
+            ],
+            "Total de Localidades": 9
+        },
+        "Colipa": {
+            "Localidades": [
+                "Plan De San Luis",
+                "Santa Cruz"
+            ],
+            "Total de Localidades": 2
+        },
+        "Comapa": {
+            "Localidades": [
+                "Paso Carretas",
+                "Paso La Union",
+                "Paso Limon",
+                "Paso Pimienta",
+                "Pochote Nuevo",
+                "Potrero De La Cruz",
+                "Rancho Nuevo",
+                "San Cristobal",
+                "San Felipe De Jesus",
+                "San Francisco Nacaxtle",
+                "Sonora",
+                "Tenextla",
+                "Vista Hermosa",
+                "Vista Hermosa (La Pitahaya)",
+                "Xonotla"
+            ],
+            "Total de Localidades": 15
+        },
+        "Cosamaloapan de Carpio": {
+            "Localidades": [
+                "Nopaltepec",
+                "Nuevo Calatepec (El Once)",
+                "Palenque",
+                "Paraiso Novillero",
+                "Paso Nuevo",
+                "Pichoapa",
+                "Plan Bonito",
+                "Playa De Vaca (Agua Dulce)",
+                "Poblado Dos (Ampliacion Piedras Negras)",
+                "San Antonio Texas",
+                "San Francisco (Oyozontle)",
+                "San Isidro",
+                "Santa Cruz",
+                "Veinte De Noviembre"
+            ],
+            "Total de Localidades": 14
+        },
+        "Cosautlán de Carvajal": {
+            "Localidades": [
+                "Novillero",
+                "Palzoquitipan",
+                "Piedra Parada",
+                "Rancho Nuevo (Amatitla)",
+                "San Jose Tlapexcatl",
+                "San Miguel Tlapexcatl",
+                "Vaqueria",
+                "Xaliscuilo"
+            ],
+            "Total de Localidades": 8
+        },
+        "Coscomatepec": {
+            "Localidades": [
+                "Nicanor Espejo",
+                "Ocopa",
+                "Potrerillo",
+                "San Jose",
+                "Tamazolapa",
+                "Tecoac",
+                "Tenixtepec",
+                "Tetelzingo",
+                "Tetlaxco",
+                "Tlaltengo",
+                "Tozongo",
+                "Tres Aguas",
+                "Ursulo Galvan",
+                "Xalatlaco",
+                "Xaltenango",
+                "Xocotla",
+                "Zacatal",
+                "Zacatla",
+                "Zacatlapa"
+            ],
+            "Total de Localidades": 19
+        },
+        "Cosoleacaque": {
+            "Localidades": [
+                "Ojo De Agua",
+                "Paso La Lajilla",
+                "Predio Jardin De Las Flores",
+                "San Antonio",
+                "San Francisco Tierra Nueva",
+                "San Pedro Martir",
+                "Tulapan",
+                "Zacatal Victoria"
+            ],
+            "Total de Localidades": 8
+        },
+        "Cotaxtla": {
+            "Localidades": [
+                "Palmarillo",
+                "Palo Amarillo",
+                "Palo Gordo",
+                "Paso Acahual",
+                "Paso De La Vieja",
+                "Paso Del Obispo",
+                "Paso Espuela",
+                "Paso Faisan",
+                "Paso Real",
+                "Piedra Sola",
+                "Potrerillos",
+                "Pueblo Viejo",
+                "Rancho Cuesta",
+                "San Antonio",
+                "San Francisco",
+                "San Luis",
+                "Santa Gertrudis",
+                "Santa Lucia (Las Playas)",
+                "Santa Rita",
+                "Veladero",
+                "Vista Clara",
+                "Vista Hermosa"
+            ],
+            "Total de Localidades": 22
+        },
+        "Coxquihui": {
+            "Localidades": [
+                "Ojital",
+                "Ojite De Matamoros",
+                "Piedras De Afilar (El Cafetal)",
+                "Sabanas De Xalostoc",
+                "Sabaneta",
+                "Tuncuhuini (Encinal)"
+            ],
+            "Total de Localidades": 6
+        },
+        "Coyutla": {
+            "Localidades": [
+                "San Andrecito",
+                "San Marcos",
+                "Tulapilla"
+            ],
+            "Total de Localidades": 3
+        },
+        "Cuichapa": {
+            "Localidades": [
+                "Providencia",
+                "Toluquilla Buena Vista"
+            ],
+            "Total de Localidades": 2
+        },
+        "Cuitláhuac": {
+            "Localidades": [
+                "Piedra Gorda",
+                "Puente Chico",
+                "Puente Quebrado",
+                "Rincon Zapote",
+                "San Francisco (Mata Clara)",
+                "San Jose De Abajo",
+                "San Rafael",
+                "Trapiche Meza"
+            ],
+            "Total de Localidades": 8
+        },
+        "Córdoba": {
+            "Localidades": [
+                "Ojo De Agua (El Gallego)",
+                "Paredones",
+                "Puente Barranca Honda",
+                "Quinta Manzana Del Barreal",
+                "Rancho Quemado (Cerro La Totola)",
+                "San Aparicio Buena Vista",
+                "San Bartolo",
+                "San Isidro Palotal",
+                "San Jose De Tapia",
+                "San Jose Loma Grande",
+                "San Matias",
+                "San Pedro",
+                "San Rafael Caleria",
+                "Santa Elena",
+                "Santa Elena (Congregacion El Barreal)",
+                "Tecama Caleria (Sabana Larga)",
+                "Veinte De Noviembre",
+                "Zacatepec"
+            ],
+            "Total de Localidades": 18
+        },
+        "El Higo": {
+            "Localidades": [
+                "Primera Ampliacion Del Chote",
+                "Rancho Alegre",
+                "San Andres",
+                "Segunda Ampliacion Del Chote",
+                "Vega De Los Marcos",
+                "Vega Del Paso"
+            ],
+            "Total de Localidades": 6
+        },
+        "Emiliano Zapata": {
+            "Localidades": [
+                "Ojo De Agua",
+                "Pacho Nuevo",
+                "Pajaritos",
+                "Palmar De Perez",
+                "Palmarejo",
+                "Palo Gacho",
+                "Paso Grande [Estacion El Chico]",
+                "Paso Ladrillo",
+                "Pinoltepec",
+                "Plan Del Rio",
+                "Rancho Nuevo",
+                "Rancho Viejo",
+                "Rinconada",
+                "Roma",
+                "Tres Pasos",
+                "Villa Emiliano Zapata (El Carrizal)",
+                "Xoltepec"
+            ],
+            "Total de Localidades": 17
+        },
+        "Espinal": {
+            "Localidades": [
+                "Nuevo Ojite",
+                "Ojo De Agua",
+                "Oriente Medio Dia",
+                "Oriente Meridiano",
+                "Poza Larga Miradores",
+                "Poza Larga Zapotal",
+                "San Francisco",
+                "San Leoncio Jamaya",
+                "San Pedro Miradores",
+                "Santa Isabel",
+                "Zacate Limon",
+                "Zapote Chico"
+            ],
+            "Total de Localidades": 12
+        },
+        "Fortín": {
+            "Localidades": [
+                "Parada Cocuyo",
+                "Paso Timon",
+                "Pueblo De Las Flores (Tlacotengo)",
+                "Puente Blanco",
+                "San Basilio",
+                "San Martin",
+                "Santa Martina",
+                "Villa Libertad",
+                "Villa Union",
+                "Zapoapita"
+            ],
+            "Total de Localidades": 10
+        },
+        "Gutiérrez Zamora": {
+            "Localidades": [
+                "Nuevo Renacimiento 2000",
+                "Paguas De Arroyo Grande",
+                "Paguas De Coronado",
+                "Palo Blanco",
+                "Rafael Valenzuela",
+                "San Miguel"
+            ],
+            "Total de Localidades": 6
+        },
+        "Hidalgotitlán": {
+            "Localidades": [
+                "Nueva Creacion Abundancia",
+                "Nuevo Paraiso",
+                "Palo Alto (Sitio Viejo)",
+                "Playa Grande",
+                "Primero De Mayo",
+                "Rodolfo Sanchez Taboada (Tercera Seccion)",
+                "Salvador Diaz Miron",
+                "San Antonio",
+                "San Carlos",
+                "San Jose",
+                "San Marcos",
+                "Urbina",
+                "Vicente Guerrero"
+            ],
+            "Total de Localidades": 13
+        },
+        "Huatusco": {
+            "Localidades": [
+                "Naranjos",
+                "Paso Catalina",
+                "Peregrina",
+                "Puentecilla",
+                "Rincon Ramirez",
+                "Rincon Tlazalo (San Miguel)",
+                "Sabanas",
+                "San Diego Tetitlan",
+                "San Isidro",
+                "San Jose Chapa",
+                "Sochibebeca",
+                "Tenejapa",
+                "Tepampa",
+                "Tepetla",
+                "Tepetzingo",
+                "Tlamatoca",
+                "Tlavictepan",
+                "Tlaxopa",
+                "Xocotla"
+            ],
+            "Total de Localidades": 19
+        },
+        "Huayacocotla": {
+            "Localidades": [
+                "Ojo De Agua",
+                "Palo Bendito",
+                "Palo Hueco",
+                "Potrero De Monroy",
+                "Potrero Seco",
+                "Rafael Valenzuela (San Josecito)",
+                "Rancho Alegre",
+                "San Antonio Ixtatetla",
+                "San Juan La Laguna",
+                "Santiago",
+                "Tejocotes",
+                "Tenango De San Miguel",
+                "Tenantitlan",
+                "Teximalpa",
+                "Tzimentey (Las Piedras)",
+                "Tzimentey De Abajo",
+                "Viborillas",
+                "Zilacatipan (Tenaxcalzingo)",
+                "Zonzonapa"
+            ],
+            "Total de Localidades": 19
+        },
+        "Hueyapan de Ocampo": {
+            "Localidades": [
+                "Nacaxtle",
+                "Nacaxtlito",
+                "Norma",
+                "Ozuluama",
+                "Sabaneta",
+                "Samaria",
+                "Santa Catarina De Jara",
+                "Santa Rosa Cintepec",
+                "Santa Rosa Loma Larga",
+                "Soncoavital",
+                "Tierra Nueva",
+                "Veinte De Noviembre",
+                "Zapoapan De Amapan"
+            ],
+            "Total de Localidades": 13
+        },
+        "Huiloapan de Cuauhtémoc": {
+            "Localidades": [
+                "Paredon Viejo",
+                "San Cristobal"
+            ],
+            "Total de Localidades": 2
+        },
+        "Ignacio de la Llave": {
+            "Localidades": [
+                "Nuevo Paso Limon",
+                "Nuevo Santa Rosa",
+                "Palma Cuata",
+                "Palma De Coco",
+                "Paso De Las Mulas",
+                "Piedra De Azucar",
+                "Potrero Nuevo",
+                "Pozo De Arena",
+                "Rincon Del Tigre",
+                "Sabaneta",
+                "Vainillal (El Vainillal)",
+                "Zacate Colorado Primero (El Moral)",
+                "Zacate Colorado Segundo (Fraternidad)",
+                "Zanja Del Barro"
+            ],
+            "Total de Localidades": 14
+        },
+        "Ilamatlán": {
+            "Localidades": [
+                "Pahuayo Grande",
+                "Petlacuatla",
+                "San Gregorio",
+                "San Mateo",
+                "San Pablo Mitecatlan",
+                "Santa Cruz",
+                "Selekxiuiko",
+                "Tecapa",
+                "Tenexco",
+                "Tlamacuimpa",
+                "Tlatlazoquico",
+                "Toltepec",
+                "Xaltipa",
+                "Xoxocapa"
+            ],
+            "Total de Localidades": 14
+        },
+        "Isla": {
+            "Localidades": [
+                "Nuevo Canton",
+                "Nuevo Potrero",
+                "Nuevo Viloria",
+                "Oro Verde (El Arenal)",
+                "Palmarillo",
+                "Palo Blanco",
+                "Potrerillos",
+                "Rodolfo Fierro",
+                "Salsipuedes",
+                "San Anastacio (Tachicon)",
+                "San Luis",
+                "San Nicolas Zacapexco",
+                "San Pedro Martir",
+                "San Simon Ii",
+                "Solerilla",
+                "Totoloche",
+                "Viloria Viejo",
+                "Vista Hermosa"
+            ],
+            "Total de Localidades": 18
+        },
+        "Ixcatepec": {
+            "Localidades": [
+                "Palmas Altas",
+                "Placetas",
+                "Poza Azul (Piedras Clavadas)",
+                "Siete Palmas",
+                "Tancuban",
+                "Tinaja",
+                "Tzicuatitla",
+                "Xochitepetl",
+                "Zacamango"
+            ],
+            "Total de Localidades": 9
+        },
+        "Ixhuacán de los Reyes": {
+            "Localidades": [
+                "Tecpitla",
+                "Tetlaxca",
+                "Tlalchy",
+                "Tlaltetela",
+                "Villa Nueva",
+                "Xivizil",
+                "Xixilacatla",
+                "Xixitla"
+            ],
+            "Total de Localidades": 8
+        },
+        "Ixhuatlancillo": {
+            "Localidades": [
+                "Rancho De Pala",
+                "Rancho Del Cristo",
+                "Rancho Vera",
+                "San Isidro",
+                "Union Y Progreso"
+            ],
+            "Total de Localidades": 5
+        },
+        "Ixhuatlán de Madero": {
+            "Localidades": [
+                "Naranjo Dulce",
+                "Ojital Cuayo",
+                "Oxitempa",
+                "Pahua Chica",
+                "Pahua Grande",
+                "Paso Amatitlan",
+                "Paso De Alamo",
+                "Paso De Ayolia",
+                "Piedra Grande",
+                "Piedra Grande Chijolito",
+                "Piedra Grande La Sierra",
+                "Pino Suarez",
+                "Pisaflores",
+                "Pitzocali",
+                "Plan Del Encinal (El Encinal)",
+                "Poza Grande",
+                "Progreso",
+                "Puyecaco",
+                "Rancho Nuevo",
+                "Reyixtla",
+                "San Bernardo",
+                "San Francisco",
+                "San Jose El Salto",
+                "San Martin",
+                "Santa Fe",
+                "Santa Maria Apipilhuasco",
+                "Siete Palmas Barrio Abajo",
+                "Siete Palmas Barrio Arriba",
+                "Tecalco",
+                "Tecanahua",
+                "Tecomate De Beltran",
+                "Tenextongo (San Antonio)",
+                "Teopancahuac",
+                "Tepetlaco",
+                "Tepozcalco",
+                "Tepozuapan",
+                "Tlachiquile",
+                "Tzapalote",
+                "Tzapohica",
+                "Tziltzacuapan",
+                "Tzocohuite",
+                "Villahermosa",
+                "Vista Alegre",
+                "Xochimilco",
+                "Xomulco",
+                "Zapote Bravo",
+                "Zimatla",
+                "Zolontla"
+            ],
+            "Total de Localidades": 48
+        },
+        "Ixhuatlán del Café": {
+            "Localidades": [
+                "Neveria",
+                "Ocotitlan",
+                "Ocotitlanapan",
+                "Opatla",
+                "Opatla Viejo (La Esperanza)",
+                "Plan De Ayala",
+                "Presidio",
+                "Rancho Nuevo",
+                "San Francisco Aviadero",
+                "San Jose La Troje",
+                "Tlamatoca Potrerillo",
+                "Zacamitla"
+            ],
+            "Total de Localidades": 12
+        },
+        "Ixhuatlán del Sureste": {
+            "Localidades": [
+                "Paraiso",
+                "Paraiso",
+                "Santa Clara"
+            ],
+            "Total de Localidades": 3
+        },
+        "Ixmatlahuacan": {
+            "Localidades": [
+                "Nueva Estancia (El Coyolar)",
+                "Pachuca",
+                "Peje Puerco",
+                "Toletillo"
+            ],
+            "Total de Localidades": 4
+        },
+        "Ixtaczoquitlán": {
+            "Localidades": [
+                "Nexca",
+                "Paredones",
+                "Potrerillo",
+                "Rancho Viejo",
+                "Rincon De Maravillas",
+                "Rincon De Tecolayo",
+                "Santa Rosa",
+                "Sumidero",
+                "Tuxpanguillo",
+                "Vista Hermosa",
+                "Zacatla",
+                "Zapoapan",
+                "Zoquitlan Viejo"
+            ],
+            "Total de Localidades": 13
+        },
+        "Jalacingo": {
+            "Localidades": [
+                "Nicolas Bravo",
+                "Ocotepec",
+                "Orilla Del Monte",
+                "Plan De Hidalgo",
+                "Plan De San Luis",
+                "San Isidro",
+                "Santa Ana",
+                "Vicente Guerrero",
+                "Vista Hermosa",
+                "Vista Hermosa Parte Alta (Cuartel Siete)"
+            ],
+            "Total de Localidades": 10
+        },
+        "Jalcomulco": {
+            "Localidades": [
+                "Santa Maria Tatetla",
+                "Tacotalpan"
+            ],
+            "Total de Localidades": 2
+        },
+        "Jamapa": {
+            "Localidades": [
+                "Paso De La Cruz"
+            ],
+            "Total de Localidades": 1
+        },
+        "Jesús Carranza": {
+            "Localidades": [
+                "Niños Heroes De Chapultepec (Zetina)",
+                "Nipojpolihuitl",
+                "Nueva Esperanza",
+                "Nueva Tapatia",
+                "Nuevo Paraiso",
+                "Nuevo Progreso (Las Huertas Medina)",
+                "Nuevo Zacatepec",
+                "Nuevo Zacualpan",
+                "Ojo De Agua",
+                "Palo Dulce",
+                "Revolucion",
+                "Ricardo Flores Magon",
+                "Rio Vista",
+                "San Cristobal",
+                "San Luis",
+                "San Marcos",
+                "San Martin",
+                "San Miguel Del Rio",
+                "Santa Amalia",
+                "Santa Lucrecia",
+                "Suchilapan Del Rio",
+                "Suchilapilla",
+                "Tecolotepec",
+                "Tepachillo",
+                "Veinticuatro De Febrero",
+                "Vista Hermosa (Colorado)"
+            ],
+            "Total de Localidades": 26
+        },
+        "Jilotepec": {
+            "Localidades": [
+                "Paso De San Juan",
+                "Piedra De Agua",
+                "Vista Hermosa Primera Manzana",
+                "Vista Hermosa Segunda Manzana",
+                "Zacatal"
+            ],
+            "Total de Localidades": 5
+        },
+        "José Azueta": {
+            "Localidades": [
+                "Nuevo San Jose (Cerro De Oro)",
+                "Paso De La Virgen",
+                "Pueblo Nuevo",
+                "Ramie Nuevo",
+                "Rancho Nuevo",
+                "San Antonio De Bravo",
+                "San Jeronimo",
+                "San Luis",
+                "Tenejapan (Tenejapan De Mata)",
+                "Tesechoacan",
+                "Tierra Y Libertad",
+                "Tinaja De Mata",
+                "Tres Lagunas",
+                "Vicente Guerrero (El Aguacate)",
+                "Villa Azueta"
+            ],
+            "Total de Localidades": 15
+        },
+        "Juan Rodríguez Clara": {
+            "Localidades": [
+                "Nopalapan",
+                "Nueva Esperanza",
+                "Nuevo Paso Novillo (Libertad Y Progreso)",
+                "Ojo De Agua",
+                "Pablo L. Sidar",
+                "Palo Miguel",
+                "Paso Del Ganado",
+                "Paso Del Ganado (La Loma)",
+                "San Antonio",
+                "San Benito",
+                "San Jose Tulapan (San Isidro)",
+                "San Lorenzo",
+                "San Pedro Del Llano",
+                "San Sebastian",
+                "Santa Rosa",
+                "Vicente Guerrero"
+            ],
+            "Total de Localidades": 16
+        },
+        "Juchique de Ferrer": {
+            "Localidades": [
+                "Plan De La Flor",
+                "Plan De Las Hayas",
+                "Porfirio Diaz (El Naranjal)",
+                "Rancho Alegre",
+                "San Alfonso",
+                "Santa Lucia",
+                "Santa Rosa Norte",
+                "Santa Rosa Sur",
+                "Santiago Xihuitlan"
+            ],
+            "Total de Localidades": 9
+        },
+        "Jáltipan": {
+            "Localidades": [
+                "Ranchoapan",
+                "San Antonio",
+                "San Lorenzo",
+                "Santa Elena",
+                "Tierra Colorada",
+                "Yancuigapan"
+            ],
+            "Total de Localidades": 6
+        },
+        "La Antigua": {
+            "Localidades": [
+                "Nicolas Blanco (San Pancho)",
+                "Playa Oriente",
+                "Salmoral"
+            ],
+            "Total de Localidades": 3
+        },
+        "La Perla": {
+            "Localidades": [
+                "Papalotla",
+                "Potrero Nuevo",
+                "Rancho Nuevo",
+                "Rancho Viejo",
+                "San Lorenzo",
+                "San Martin",
+                "San Miguel Chinela",
+                "San Miguel Pilancon",
+                "Tlamanixco Grande",
+                "Tuzantla",
+                "Villa Hermosa",
+                "Xometla"
+            ],
+            "Total de Localidades": 12
+        },
+        "Las Choapas": {
+            "Localidades": [
+                "Niños Heroes",
+                "Nueva Esperanza",
+                "Nueva Esperanza (Cerro Nanchital)",
+                "Nueva Tabasqueña",
+                "Nuevo Caleton",
+                "Nuevo Castrejon",
+                "Nuevo Ixtacomitan",
+                "Nuevo Paraiso",
+                "Nuevo Progreso",
+                "Nuevo Sacrificio",
+                "Once De Febrero",
+                "Plan De Iguala",
+                "Plutarco Elias Calles",
+                "Poblado Las Palmas",
+                "Primitivo R. Valencia",
+                "Privilegio",
+                "Pueblo Viejo",
+                "Rafael Murillo Vidal",
+                "Ramos Millan",
+                "Rancho Gilberto",
+                "Rancho Nuevo",
+                "Rancho Viejo",
+                "Rancho Viejo",
+                "Revolucion",
+                "Ricardo Flores Magon",
+                "Rio Pedregal",
+                "Rio Playas",
+                "Rio Playas (Los Robles)",
+                "Rivera Del Carmen",
+                "Samaria (Rio Playas)",
+                "San Antonio",
+                "San Antonio",
+                "San Antonio",
+                "San Juan De Ulua",
+                "San Lorenzo",
+                "San Martin",
+                "San Martin",
+                "San Miguel De Allende",
+                "San Pablo",
+                "San Pedro",
+                "Santa Cruz",
+                "Santa Rosa",
+                "Santa Teresa",
+                "Tecozautla",
+                "Tecuanapa (Vicente Guerrero)",
+                "Tierra Morada",
+                "Union Y Libertad",
+                "Union Y Progreso",
+                "Ursulo Galvan",
+                "Venustiano Carranza",
+                "Vicente Guerrero",
+                "Vista Hermosa",
+                "Xicotencatl",
+                "Xochitlan",
+                "Yucateco El Pedregal"
+            ],
+            "Total de Localidades": 55
+        },
+        "Las Minas": {
+            "Localidades": [
+                "Pueblo Nuevo",
+                "Quiahuixcuautla",
+                "Rinconada",
+                "Romerillos",
+                "Zomelahuacan"
+            ],
+            "Total de Localidades": 5
+        },
+        "Las Vigas de Ramírez": {
+            "Localidades": [
+                "Ranchillos",
+                "San Isidro",
+                "San Pablo",
+                "Tejerias",
+                "Tejocotal",
+                "Tepetates",
+                "Toxtlacuaya",
+                "Ursulo Galvan"
+            ],
+            "Total de Localidades": 8
+        },
+        "Lerdo de Tejada": {
+            "Localidades": [
+                "Santa Teresa"
+            ],
+            "Total de Localidades": 1
+        },
+        "Los Reyes": {
+            "Localidades": [
+                "Nexhuaca",
+                "Ocotepec",
+                "Tlamanca",
+                "Tlanestla",
+                "Tlaxamanilco",
+                "Totolatempa",
+                "Totolinga",
+                "Zacatla",
+                "Zoquiapan"
+            ],
+            "Total de Localidades": 9
+        },
+        "Magdalena": {
+            "Localidades": [
+                "Tepetzingo"
+            ],
+            "Total de Localidades": 1
+        },
+        "Maltrata": {
+            "Localidades": [
+                "Plan De La Cobranza (Loma Pelada)",
+                "Rodolfo Lozada Vallejo (Plan De San Jose)",
+                "Rueda De Ocote",
+                "San Jose Suchil",
+                "Zacatipan",
+                "Zacatonal"
+            ],
+            "Total de Localidades": 6
+        },
+        "Manlio Fabio Altamirano": {
+            "Localidades": [
+                "Paso Higuera (Mirador Y Anexos)",
+                "Paso Moral",
+                "Paso Real",
+                "Paso Seco",
+                "Paso Solis",
+                "Piedra Parada",
+                "Plataforma",
+                "Portezuelo",
+                "Rancho Nuevo",
+                "Rasga Bandera",
+                "San Cenobio",
+                "San Diego",
+                "San Juan De Estancia",
+                "San Martin Del Yagual",
+                "Tenenexpan",
+                "Ursulo Galvan",
+                "Villa Del Rio"
+            ],
+            "Total de Localidades": 17
+        },
+        "Mariano Escobedo": {
+            "Localidades": [
+                "Ocoxotla",
+                "Palmira",
+                "Paso Ganado",
+                "Rincon De Chicola",
+                "San Antonio (Rancho Nuevo)",
+                "San Baltazar",
+                "San Isidro El Berro",
+                "San Jose Pilancon",
+                "Temaxcaltitla",
+                "Tepoxtlan (Alpesur) [Granja]",
+                "Texmalaca",
+                "Texmola",
+                "Villahermosa",
+                "Vista Hermosa",
+                "Xiquila"
+            ],
+            "Total de Localidades": 15
+        },
+        "Martínez de la Torre": {
+            "Localidades": [
+                "Nueva Italia",
+                "Nueva Suriana",
+                "Plan De Limon",
+                "Pueblo Viejo Dos",
+                "Pueblo Viejo Uno",
+                "Salvador Diaz Miron",
+                "Tepetate",
+                "Tierra Blanca",
+                "Vega Redonda",
+                "Villanueva",
+                "Zapote Bueno"
+            ],
+            "Total de Localidades": 11
+        },
+        "Mecatlán": {
+            "Localidades": [
+                "Naranjales",
+                "Puxtla",
+                "Rancho Alegre",
+                "Ricardo Flores Magon"
+            ],
+            "Total de Localidades": 4
+        },
+        "Mecayapan": {
+            "Localidades": [
+                "Plan Agrario",
+                "San Andres Chamilpa",
+                "Tonalapa",
+                "Vicente Guerrero"
+            ],
+            "Total de Localidades": 4
+        },
+        "Medellín": {
+            "Localidades": [
+                "Palmira",
+                "Paso Chocolate",
+                "Paso Colorado",
+                "Paso De Los Arrieros",
+                "Paso Del Toro",
+                "Playa De Vacas",
+                "Plaza De Toros",
+                "Potrerillo",
+                "Primero De La Palma",
+                "Rancho Del Padre",
+                "Rincon De Perez",
+                "Rincon Del Copite",
+                "San Francisco",
+                "San Miguel",
+                "Santa Teresa [Agricola Tropical Del Golfo]"
+            ],
+            "Total de Localidades": 15
+        },
+        "Miahuatlán": {
+            "Localidades": [
+                "Pie De La Cuesta",
+                "Rancho Alegre (Los Mendez)",
+                "Yerbabuena"
+            ],
+            "Total de Localidades": 3
+        },
+        "Minatitlán": {
+            "Localidades": [
+                "Niño Artillero",
+                "Nopalapa",
+                "Norberto Aguirre Palancares",
+                "Nuevo Atoyac",
+                "Nuevo Cazones De Herrera",
+                "Nuevo Zaragoza",
+                "Ojochapa",
+                "Otapa",
+                "Palo Bonito",
+                "Plan De La Ceiba",
+                "Plan De Limones",
+                "Poblado Cinco De Mayo Dos",
+                "Potrero Grande",
+                "Progreso Del Mirador",
+                "Pueblo Viejo (Kilometro 4)",
+                "Rancho Nuevo Carrizal",
+                "Rancho Nuevo De Morelos",
+                "Romita",
+                "San Andres Loma Encerrada",
+                "San Cristobal",
+                "San Francisco Las Animas",
+                "San Jeronimo",
+                "San Jose Pochitoque",
+                "San Pedro Mezcalapa",
+                "San Placido",
+                "San Vicente",
+                "Santa Alejandrina",
+                "Santa Isabel",
+                "Sehualaca",
+                "Tacomango",
+                "Tecuanapilla",
+                "Tenochtitlan",
+                "Yucatecal",
+                "Zamorana"
+            ],
+            "Total de Localidades": 34
+        },
+        "Misantla": {
+            "Localidades": [
+                "Palchan",
+                "Palma Sola De Ramirez",
+                "Palmira De Hidalgo",
+                "Palpoala Ixcan",
+                "Paso Blanco",
+                "Pipianales (Ejido Pipianales)",
+                "Plan De Guerrero",
+                "Plan De La Vega",
+                "Poblado Ignacio Allende",
+                "Poxtitlan",
+                "Poza Del Tigre",
+                "Pueblo Viejo",
+                "Puerto Palchan",
+                "Rancheria Espaldilla",
+                "Rancheria Piedra Grande",
+                "Rancheria Vista Hermosa",
+                "Rancho Viejo",
+                "Salvador Diaz Miron",
+                "San Francisco",
+                "Santa Cecilia",
+                "Santa Clara",
+                "Santa Cruz Buena Vista",
+                "Santa Cruz Hidalgo",
+                "Santa Margarita",
+                "Tapapulum",
+                "Torrecillas",
+                "Troncones",
+                "Union Venustiano Carranza (Los Naranjos)",
+                "Venustiano Carranza",
+                "Vicente Guerrero",
+                "Villa Nueva"
+            ],
+            "Total de Localidades": 31
+        },
+        "Mixtla de Altamirano": {
+            "Localidades": [
+                "Ocotempa (Barrio Primero)",
+                "Teapa Ocotempa",
+                "Tecolotla",
+                "Tenexcalco",
+                "Tepecuitlapa",
+                "Tetzilquila",
+                "Tlachicuapa",
+                "Tlaxcantla (Ocomanalco)",
+                "Xala",
+                "Xochitla",
+                "Xometla",
+                "Zacaloma",
+                "Zacatilica"
+            ],
+            "Total de Localidades": 13
+        },
+        "Moloacán": {
+            "Localidades": [
+                "Nueva Palma Sola",
+                "Nuevo Teapa",
+                "Parcela Industrial De Las Viudas",
+                "San Juan De Los Reyes (Los Caimanes)",
+                "San Lorenzo Mezcalapa",
+                "San Martin",
+                "Tacomango",
+                "Tlacuilolapan",
+                "Trancas Viejas"
+            ],
+            "Total de Localidades": 9
+        },
+        "Nanchital de Lázaro Cárdenas del Río": {
+            "Localidades": [
+                "Nanchital De Lazaro Cardenas Del Rio"
+            ],
+            "Total de Localidades": 1
+        },
+        "Naolinco": {
+            "Localidades": [
+                "Naolinco De Victoria",
+                "Naranjillo",
+                "San Marcos Atesquilapan",
+                "San Miguel Aguazuelos",
+                "San Pablo Coapan",
+                "Tenampa"
+            ],
+            "Total de Localidades": 6
+        },
+        "Naranjal": {
+            "Localidades": [
+                "Naranjal",
+                "Nexca Naranjal",
+                "Tequecholapa",
+                "Xochitla",
+                "Zoquiapa"
+            ],
+            "Total de Localidades": 5
+        },
+        "Naranjos Amatlán": {
+            "Localidades": [
+                "Naranjos",
+                "Nueva Esperanza",
+                "Ojo De Brea",
+                "Rancho Nuevo",
+                "San Benito",
+                "Soledad Chiquita",
+                "Totomoxtepec",
+                "Zanja Zapupe",
+                "Zaragoza"
+            ],
+            "Total de Localidades": 9
+        },
+        "Nautla": {
+            "Localidades": [
+                "Nautla",
+                "Pedernales",
+                "Rancho Nuevo",
+                "Sebastian Camacho",
+                "Temazcales"
+            ],
+            "Total de Localidades": 5
+        },
+        "Nogales": {
+            "Localidades": [
+                "Nogales",
+                "Palo Verde",
+                "Paseo Nuevo",
+                "Rancho Viejo",
+                "Reforma",
+                "Santa Cruz Muyuapan",
+                "Sierra De Agua",
+                "Taza De Agua Ojo Zarco"
+            ],
+            "Total de Localidades": 8
+        },
+        "Oluta": {
+            "Localidades": [
+                "Oluta",
+                "Tenejapa"
+            ],
+            "Total de Localidades": 2
+        },
+        "Omealca": {
+            "Localidades": [
+                "Omealca",
+                "Palma Sola",
+                "Paso Amapa",
+                "Paso Carrillo",
+                "Paso Del Rosario",
+                "Paso Real",
+                "Puente Lagarto",
+                "Rancho Calzada",
+                "Rincon De Buena Vista",
+                "Rincon Viejo",
+                "Rio Moreno",
+                "San Pablo Ojo De Agua",
+                "Tenejapam De Mata",
+                "Victoria",
+                "Vista Hermosa (La Turbina)",
+                "Xuchiles"
+            ],
+            "Total de Localidades": 16
+        },
+        "Orizaba": {
+            "Localidades": [
+                "Orizaba"
+            ],
+            "Total de Localidades": 1
+        },
+        "Otatitlán": {
+            "Localidades": [
+                "Otatitlan",
+                "San Francisco"
+            ],
+            "Total de Localidades": 2
+        },
+        "Oteapan": {
+            "Localidades": [
+                "Oteapan"
+            ],
+            "Total de Localidades": 1
+        },
+        "Ozuluama de Mascareñas": {
+            "Localidades": [
+                "Ozuluama De Mascareñas",
+                "Palmar Alto",
+                "Paso Real",
+                "Poblado Tierra Y Libertad (Paso Piedra)",
+                "Potrerillos",
+                "Poza Del Tule",
+                "Punta De Loma Alta",
+                "Rancheria Cebadilla",
+                "Romerillos (Isla Juan A. Ramirez)",
+                "San Javier",
+                "San Luciano",
+                "Santa Mariquita",
+                "Santa Rosa (Los Chotes)",
+                "Tamontao (Paso Real)",
+                "Victor Santiago",
+                "Vijarras"
+            ],
+            "Total de Localidades": 16
+        },
+        "Pajapan": {
+            "Localidades": [
+                "Nuevo Mangal",
+                "Pajapan",
+                "Palma Real",
+                "San Juan Volador",
+                "San Miguel Temoloapan (Nuevo San Miguel)",
+                "Tecolapa",
+                "Toronjal",
+                "Ursulo Galvan"
+            ],
+            "Total de Localidades": 8
+        },
+        "Papantla": {
+            "Localidades": [
+                "Ocotillar",
+                "Ojital Nuevo",
+                "Ojital Viejo",
+                "Pabanco",
+                "Pajasco Limonar",
+                "Papantla De Olarte",
+                "Paso De Las Limas",
+                "Paso De Valencia",
+                "Paso Del Correo",
+                "Pipila",
+                "Plan De Hidalgo",
+                "Plan De Limon",
+                "Plan De Los Mangos",
+                "Plan Del Palmar",
+                "Polutla",
+                "Porvenir Numero Uno",
+                "Poza Larga",
+                "Poza Verde",
+                "Primero De Mayo",
+                "Pueblillo",
+                "Puente De Piedra",
+                "Puxtla",
+                "Rafael Rosas",
+                "Rancho Nuevo San Jose",
+                "Rancho Playa",
+                "Reforma Escolin",
+                "Residencial Tajin",
+                "Rio Claro",
+                "Riva Palacio",
+                "Rodolfo Curti",
+                "Sabana De La Estancia",
+                "San Antonio Carrizal",
+                "San Antonio Ojital",
+                "San Gotardo",
+                "San Jose",
+                "San Jose De Las Lajas",
+                "San Juan",
+                "San Lorenzo",
+                "San Manuel",
+                "San Pablo",
+                "Santa Agueda",
+                "Santa Rosa De Lima",
+                "Serafin Olarte",
+                "Solteros De Juan Rosas",
+                "Sombrerete",
+                "Talaxca",
+                "Teniente Coronel Simon Tiburcio",
+                "Tenixtepec",
+                "Tlahuanapa",
+                "Totomoxtle",
+                "Tres Cruces",
+                "Tres Flores",
+                "Tres Naciones",
+                "Union Y Progreso",
+                "Ursulo Galvan",
+                "Valsequillo",
+                "Veinte De Noviembre",
+                "Venustiano Carranza",
+                "Vicente Guerrero",
+                "Vicente Herrera",
+                "Vista Hermosa De Anaya",
+                "Vista Hermosa De Juarez",
+                "Vista Hermosa De Madero",
+                "Zapotal Santa Cruz"
+            ],
+            "Total de Localidades": 64
+        },
+        "Paso de Ovejas": {
+            "Localidades": [
+                "Palmaritos",
+                "Paso De Ovejas",
+                "Paso Panal",
+                "Patancan",
+                "Plan Del Manantial",
+                "Pozo De Mata Ramirez",
+                "Puente Jula",
+                "Rancho Nuevo",
+                "Tamarindo (Tamarindillo)",
+                "Tierra Colorada",
+                "Tolome",
+                "Xocotitla",
+                "Yucatan",
+                "Zapotito"
+            ],
+            "Total de Localidades": 14
+        },
+        "Paso del Macho": {
+            "Localidades": [
+                "Paso Azucar",
+                "Paso Del Burro",
+                "Paso Del Macho",
+                "Paso Frijol",
+                "Paso Garrapata",
+                "Paso Gavilan",
+                "Paso Grande",
+                "Paso Ilama",
+                "Paso Limon",
+                "Paso Mulato",
+                "Paso Vaquero",
+                "Piedra Fina",
+                "Pocitos Y Cañamazo",
+                "Potrerillo",
+                "Potrero Grande (Remudadero Rancho Nuevo)",
+                "Rancho Chico",
+                "Rancho Nuevo",
+                "Rincon De La Soledad",
+                "Rincon De Los Toros",
+                "Salvador Esquer Apodaca [Unidad Habitacional]",
+                "San Antonio",
+                "San Jose Balsa Camaron (La Colmena)",
+                "Santa Rosa",
+                "Santa Teresa"
+            ],
+            "Total de Localidades": 24
+        },
+        "Perote": {
+            "Localidades": [
+                "Perote",
+                "Rancho Nuevo",
+                "San Antonio Buenavista (El Tecolote)",
+                "San Antonio Limon (Totalco)",
+                "San Antonio Tenextepec",
+                "Sierra De Agua",
+                "Veinte De Noviembre (Colonia Agricola)",
+                "Xaltepec (San Isidro Xaltepec)",
+                "Zalayeta (Alchichica Y El Bordo)"
+            ],
+            "Total de Localidades": 9
+        },
+        "Platón Sánchez": {
+            "Localidades": [
+                "Octayo Viejo",
+                "Platon Sanchez",
+                "San Francisco",
+                "Tasajeras",
+                "Tecalantla",
+                "Tecomate",
+                "Tepetatipan",
+                "Terrero",
+                "Tlalpani",
+                "Zacatianguis",
+                "Zapotalito"
+            ],
+            "Total de Localidades": 11
+        },
+        "Playa Vicente": {
+            "Localidades": [
+                "Nuevo Arroyo Del Tigre",
+                "Nuevo Arroyo Grande",
+                "Nuevo Arroyo Zacate (Pueblo Nuevo)",
+                "Nuevo Cosolapa Sarmiento",
+                "Nuevo Ixcatlan",
+                "Nuevo Ojitlan",
+                "Nuevo Pescadito De Arriba",
+                "Nuevo Raya Caracol (Zanja Seca)",
+                "Nuevo San Martin",
+                "Piedra De Cal",
+                "Playa Vicente",
+                "Rancho Grande",
+                "Rancho Las Brisas",
+                "Ruiz Cortines Revolucion",
+                "San Felipe Zapotal",
+                "San Francisco",
+                "San Gabriel",
+                "San Isidro",
+                "San Jose Chilapa",
+                "San Ramon Segundo",
+                "Santa Elena",
+                "Santa Rosa",
+                "Tierra Nueva",
+                "Tomate Rio Manso",
+                "Tomatillo",
+                "Ursulo Galvan (La Primavera)",
+                "Vega Del Joval",
+                "Vicente Guerrero",
+                "Zanja De Caña"
+            ],
+            "Total de Localidades": 29
+        },
+        "Poza Rica de Hidalgo": {
+            "Localidades": [
+                "Poza Rica De Hidalgo"
+            ],
+            "Total de Localidades": 1
+        },
+        "Pueblo Viejo": {
+            "Localidades": [
+                "Ojital",
+                "Paciencia Y Aguacate (Santa Fe)",
+                "Primero De Mayo (Los Mangos)"
+            ],
+            "Total de Localidades": 3
+        },
+        "Puente Nacional": {
+            "Localidades": [
+                "Pachuquilla",
+                "Paso De La Venta",
+                "Paso De Varas",
+                "Paso Mariano",
+                "Potrerillos",
+                "Puente Nacional",
+                "Rincon Panal",
+                "San Isidro",
+                "San Jose Chipila",
+                "Tamarindo",
+                "Teopanapan"
+            ],
+            "Total de Localidades": 11
+        },
+        "Pánuco": {
+            "Localidades": [
+                "Nuevo Chicayan",
+                "Nuevo Michoacan (La Michoacana)",
+                "Ochoa",
+                "Oviedo",
+                "Paciencia",
+                "Paisabel",
+                "Palmas Reales",
+                "Panuco",
+                "Panuco (La Pitahaya) [Nuevo Centro De Poblacion]",
+                "Paso Potrero",
+                "Paso Real (Buenavista)",
+                "Pavos (Tirada De Pavos)",
+                "Payte",
+                "Pemuxtitla Ii",
+                "Potrero De La Isleta",
+                "Punta Arena",
+                "Reventadero",
+                "Salsipuedes",
+                "San Cristobal",
+                "San Jose",
+                "San Pedro",
+                "Tamante",
+                "Tamboyoche Y Topila",
+                "Tamos",
+                "Tampalache E Isleta Grande (Las Animas)",
+                "Tampuche",
+                "Tanchicuin Boca Del Estero",
+                "Tanchicuin Piedras",
+                "Techupezco",
+                "Tlaxcalita",
+                "Uno Dicha",
+                "Ursulo Galvan",
+                "Vega Cercada",
+                "Vega De Otates",
+                "Vichinchijol Nuevo",
+                "Villa Cacalilao Dos",
+                "Vuelta De Las Adjuntas"
+            ],
+            "Total de Localidades": 37
+        },
+        "Rafael Delgado": {
+            "Localidades": [
+                "Omiquila",
+                "Rafael Delgado",
+                "Tzoncolco",
+                "Xaltititla"
+            ],
+            "Total de Localidades": 4
+        },
+        "Rafael Lucio": {
+            "Localidades": [
+                "Piletas",
+                "Rafael Lucio",
+                "Teapan"
+            ],
+            "Total de Localidades": 3
+        },
+        "Río Blanco": {
+            "Localidades": [
+                "Rio Blanco"
+            ],
+            "Total de Localidades": 1
+        },
+        "Saltabarranca": {
+            "Localidades": [
+                "Paso Saltabarranca",
+                "Saltabarranca",
+                "Zamora Caleton"
+            ],
+            "Total de Localidades": 3
+        },
+        "San Andrés Tenejapan": {
+            "Localidades": [
+                "Petlacala",
+                "Quiniatla",
+                "San Andres Tenejapan",
+                "Teopancahualco",
+                "Tierra Colorada"
+            ],
+            "Total de Localidades": 5
+        },
+        "San Andrés Tuxtla": {
+            "Localidades": [
+                "Nacimientos De Xogapan (Francisco I. Madero)",
+                "Nuevo Progreso",
+                "Ocelota",
+                "Ohuilapan",
+                "Paso De La Via",
+                "Pizapan",
+                "Playa Hermosa",
+                "Puerta Nueva Xoteapan (Puerta Nueva)",
+                "Rancho Nuevo (La Ceiba De Abajo)",
+                "Revolucion",
+                "Ricardo Flores Magon",
+                "Rio De Tuxtla",
+                "Roberto Enriquez Ruiz",
+                "Salinas Roca Partida",
+                "Salto De Eyipantla",
+                "Salvador Diaz Miron (El Salto Huatusco)",
+                "San Andres Tuxtla",
+                "San Isidro Xoteapan (San Isidro Texcaltitan)",
+                "San Juan De La Gloria",
+                "San Leopoldo",
+                "Santa Rosa Abata",
+                "Sihuapan",
+                "Soyata",
+                "Tepancan",
+                "Texalpan De Abajo",
+                "Texalpan De Arriba",
+                "Texcaltitan Xoteapan (Texcaltitan)",
+                "Tilapan",
+                "Tonalapan",
+                "Toro Prieto",
+                "Totlalli (Loma Caballo)",
+                "Tres Zapotes",
+                "Tulapan",
+                "Ursulo Galvan",
+                "Vista Hermosa Ii",
+                "Xoteapan"
+            ],
+            "Total de Localidades": 36
+        },
+        "San Juan Evangelista": {
+            "Localidades": [
+                "Nuevo Mexico (Colonia Agricola)",
+                "Poblado Los Arco Iris",
+                "Pozole",
+                "Quetzalapa (El Refugio)",
+                "Rancho Alegre",
+                "Rancho Nuevo",
+                "Raya De Las Carolinas",
+                "San Felipe De Jesus",
+                "San Felipe De Jesus",
+                "San Jose",
+                "San Juan Evangelista",
+                "San Juanito",
+                "San Pedro Tulapan",
+                "Santa Rosa De Lima",
+                "Tizamar",
+                "Vista Hermosa",
+                "Zacatal"
+            ],
+            "Total de Localidades": 17
+        },
+        "San Rafael": {
+            "Localidades": [
+                "Nuevo Faisan",
+                "Paso De Telaya",
+                "Puntilla Aldama",
+                "San Rafael",
+                "Tepetates",
+                "Tres Bocas",
+                "Tres Encinos",
+                "Ursulo Galvan",
+                "Vega De San Marcos",
+                "Zanjas De Arena"
+            ],
+            "Total de Localidades": 10
+        },
+        "Santiago Sochiapan": {
+            "Localidades": [
+                "Niños Heroes",
+                "Nueva Boca Del Monte",
+                "Puebla",
+                "San Antonio La Libertad",
+                "San Cristobal",
+                "San Gabriel De La Chinantla",
+                "Santa Margarita Yogopi",
+                "Santa Teresa",
+                "Tatahuicapa",
+                "Vista Hermosa",
+                "Xochiapa"
+            ],
+            "Total de Localidades": 11
+        },
+        "Santiago Tuxtla": {
+            "Localidades": [
+                "Ojo De Agua",
+                "Omeapan",
+                "Paso Del Amate",
+                "Pixixiapan",
+                "Popoctepetl",
+                "Pueblo Nuevo Del Mostal",
+                "Rancho Nuevo",
+                "Rincon De Lucia",
+                "Rincon De Sosa",
+                "Rincon De Zapatero",
+                "Rio Grande",
+                "Sabaneta",
+                "Salto De Agua De Los Islaba",
+                "Salto De Agua De Pio (Dos Caminos)",
+                "San Antonio De La Huerta",
+                "San Diego",
+                "San Marcos",
+                "San Miguel",
+                "San Simon",
+                "Santa Isabel",
+                "Santiago Tuxtla",
+                "Sehualaca",
+                "Sesecapan",
+                "Sinapan",
+                "Tamoanchan Totlalli",
+                "Tapalapan",
+                "Tetax Sesecapan",
+                "Texcochapan De Abajo",
+                "Tibernal",
+                "Tierra Colorada",
+                "Tlapacoyan",
+                "Tlapacoyan De Abajo",
+                "Tres Zapotes",
+                "Tres Zapotes Dos A (Palo Herrado)",
+                "Tres Zapotes Dos B",
+                "Tres Zapotes Uno",
+                "Vista Hermosa",
+                "Xig",
+                "Zacatal (San Jose Buena Vista)"
+            ],
+            "Total de Localidades": 39
+        },
+        "Sayula de Alemán": {
+            "Localidades": [
+                "Nuevo Centro De Poblacion",
+                "Nuevo Mundo",
+                "Palma Morena",
+                "Paraiso Naranjo",
+                "Romero Rubio",
+                "Ruben M. Jaramillo",
+                "San Francisco El Moral",
+                "San Isidro",
+                "San Jose Del Palmar",
+                "San Luis",
+                "Santa Rosa De Amapan",
+                "Santa Teresita",
+                "Sayula De Aleman",
+                "Valle Hermoso",
+                "Veinte De Noviembre",
+                "Veintisiete De Septiembre"
+            ],
+            "Total de Localidades": 16
+        },
+        "Sochiapa": {
+            "Localidades": [
+                "Rancho Nuevo",
+                "Santa Maria",
+                "Sochiapa",
+                "Sochiapa",
+                "Tomatlancillo"
+            ],
+            "Total de Localidades": 5
+        },
+        "Soconusco": {
+            "Localidades": [
+                "Palmarillo",
+                "Soconusco"
+            ],
+            "Total de Localidades": 2
+        },
+        "Soledad Atzompa": {
+            "Localidades": [
+                "Porvenir",
+                "San Juan De Los Lagos",
+                "Soledad Atzompa",
+                "Teotlalco",
+                "Tepaxapa",
+                "Tepexpan",
+                "Tetla (Ixtacahuatitla)",
+                "Tetlatzinga",
+                "Texmoltitla",
+                "Tlalpan",
+                "Tlatilpa",
+                "Tlatzala",
+                "Villa Nueva",
+                "Xiquila",
+                "Xonotla",
+                "Zacatepec"
+            ],
+            "Total de Localidades": 16
+        },
+        "Soledad de Doblado": {
+            "Localidades": [
+                "Oaxaquilla",
+                "Paso Cabestro",
+                "Paso Don Roque",
+                "Paso Lagarto",
+                "Paso Las Pintas",
+                "Paso Naranjo Oriente",
+                "Paso Naranjo Poniente",
+                "Paso Santiago",
+                "Paso Solano (Ejido Mirador Y Anexos)",
+                "Penjamo",
+                "Playa Azul (El Degollado)",
+                "Puerta De Mata Anona",
+                "Rincon De Los Toros",
+                "Rincon Sabroso",
+                "Santa Cruz",
+                "Santa Rita",
+                "Santa Rosa",
+                "Soledad De Doblado",
+                "Tamarindo De San Miguel",
+                "Tamarindo Uno (Tamarindo De Conrado)",
+                "Tepetates",
+                "Tizaltepec",
+                "Tres Higueras",
+                "Vista Hermosa",
+                "Vista Hermosa Sur"
+            ],
+            "Total de Localidades": 25
+        },
+        "Soteapan": {
+            "Localidades": [
+                "Nuevo Mexico",
+                "Ocotal Chico",
+                "Ocotal Grande",
+                "Ocozotepec",
+                "Pop-Sojnas",
+                "Rancho Michapa",
+                "Reforma Agraria",
+                "San Antonio",
+                "San Fernando",
+                "San Martin",
+                "San Pedrito",
+                "Santa Martha",
+                "Soteapan",
+                "Tierra Y Libertad"
+            ],
+            "Total de Localidades": 14
+        },
+        "Tamalín": {
+            "Localidades": [
+                "Palmarillo",
+                "Rancho Nuevo",
+                "Rancho Nuevo",
+                "Saladero",
+                "San Jeronimo (La Guasima)",
+                "Tamalin"
+            ],
+            "Total de Localidades": 6
+        },
+        "Tamiahua": {
+            "Localidades": [
+                "Naranjalito",
+                "Palma Sola",
+                "Palo Blanco",
+                "Papatlar",
+                "Paso De Leon",
+                "Paso De San Lorenzo",
+                "Paso Del Norte",
+                "Paso Grande",
+                "Poza Honda",
+                "Raya Obscura",
+                "San Marcos",
+                "San Sebastian Tierra Blanca",
+                "Tamiahua",
+                "Tampache",
+                "Tancochin",
+                "Tanhuijo",
+                "Tantalamos",
+                "Tarabitas",
+                "Tenechaco",
+                "Tierra Y Libertad",
+                "Totolapa",
+                "Tres Garantias",
+                "Venustiano Carranza",
+                "Xonacates"
+            ],
+            "Total de Localidades": 24
+        },
+        "Tampico Alto": {
+            "Localidades": [
+                "Perera",
+                "Punta De Bustos",
+                "Rancheria Quebrache",
+                "San Isidro",
+                "Tampico Alto",
+                "Tres Morillos",
+                "Zapotal"
+            ],
+            "Total de Localidades": 7
+        },
+        "Tancoco": {
+            "Localidades": [
+                "Santos Degollado (San Francisco)",
+                "Tancoco",
+                "Toteco",
+                "Zacamixtle"
+            ],
+            "Total de Localidades": 4
+        },
+        "Tantima": {
+            "Localidades": [
+                "Nuevo Ocampo (Congregacion De Ocampo)",
+                "Nuevo Xuchitl",
+                "Pastoria",
+                "Rancho Abajo",
+                "Rancho Alegre",
+                "San Alfonso",
+                "San Andres",
+                "San Lorenzo",
+                "San Sebastian",
+                "Santiago Chiconcillo",
+                "Tanquian",
+                "Tantima",
+                "Terrero Cucharas",
+                "Vicente Guerrero (Palo Blanco)"
+            ],
+            "Total de Localidades": 14
+        },
+        "Tantoyuca": {
+            "Localidades": [
+                "Nuevo Laredo",
+                "Palma Alta",
+                "Palma Redonda",
+                "Palma Solita",
+                "Palmar Aquiche Primero",
+                "Palmital San Lorenzo",
+                "Palmito",
+                "Palo De Rosa",
+                "Palo Solo",
+                "Palo Verde",
+                "Paredones",
+                "Paso Del Limon",
+                "Pastoria",
+                "Pecero",
+                "Pensador Mexicano",
+                "Piedra De Cal",
+                "Placetas",
+                "Potrero Primero",
+                "Potrero San Gabriel",
+                "Potrero Segundo",
+                "Rancho Nuevo",
+                "Rancho Nuevo San Jose",
+                "Rancho Viejo",
+                "San Antonio",
+                "San Antonio Pecero",
+                "San Diego",
+                "San Jeronimo",
+                "San Juan Chijolar",
+                "San Sebastian",
+                "Santa Clara",
+                "Santa Monica",
+                "Santa Rita",
+                "Santa Rosa",
+                "Sombrerillo",
+                "Tametate",
+                "Tampatel",
+                "Tantoyuca",
+                "Tanzaquil",
+                "Tazajera",
+                "Tecomate",
+                "Tepatlan",
+                "Tepatlan Chico",
+                "Terrero",
+                "Terrero Tametate",
+                "Tetillas",
+                "Tianguis",
+                "Tierra Blanca",
+                "Xiloxuchitl",
+                "Zanja Maria",
+                "Zapotal",
+                "Zapotal",
+                "Zapotal Primero",
+                "Zapotal San Lorenzo",
+                "Zapupe"
+            ],
+            "Total de Localidades": 54
+        },
+        "Tatahuicapan de Juárez": {
+            "Localidades": [
+                "Ocotal Texizapan",
+                "Peña Hermosa",
+                "Piedra Labrada",
+                "Pilapillo",
+                "San Francisco (Agua Fria)",
+                "Santanon Rodriguez",
+                "Sochapa De Alvaro Obregon",
+                "Tatahuicapan",
+                "Tecuanapa",
+                "Ursulo Galvan",
+                "Venustiano Carranza",
+                "Zapoapan",
+                "Zapotitlan"
+            ],
+            "Total de Localidades": 13
+        },
+        "Tatatila": {
+            "Localidades": [
+                "Piedra Parada",
+                "Pilhuatepec",
+                "Plan De Gallos",
+                "San Antonio De Cordoba",
+                "San Juan Tezontemoc",
+                "Santa Rita",
+                "Santiago Mextla",
+                "Tatatila",
+                "Tenexpanoya"
+            ],
+            "Total de Localidades": 9
+        },
+        "Tecolutla": {
+            "Localidades": [
+                "Paso Del Progreso",
+                "Paso Del Rio",
+                "Paso Real",
+                "Pino Suarez",
+                "Plan De Villa Cuauhtemoc (El Negro)",
+                "Plan Del Carrizo",
+                "Ricardo Flores Magon",
+                "Rio Blanco",
+                "San Isidro El Hular",
+                "Tecolutla",
+                "Vista Hermosa (El Aguacate)",
+                "Vista Hermosa Calichal"
+            ],
+            "Total de Localidades": 12
+        },
+        "Tehuipango": {
+            "Localidades": [
+                "Ocotelica",
+                "Ocotitlan",
+                "Ojo De Agua",
+                "Opotzinga",
+                "Santa Cruz Atitla",
+                "Tehuipango",
+                "Tepecuitlapa",
+                "Tepeica",
+                "Tepepa",
+                "Tepetlampa",
+                "Terrero",
+                "Ticoma",
+                "Tilica",
+                "Tlachicolatempa",
+                "Tlajcoltepec",
+                "Tlalchichicaspa",
+                "Tlalchichilco",
+                "Tlalcospa",
+                "Tlalixtlahuac",
+                "Tlaquexpa",
+                "Tolapa",
+                "Tonalapa",
+                "Totutla",
+                "Tuxpango",
+                "Tzacuala Primero",
+                "Tzacuala Segundo",
+                "Tzompoalecca Segundo",
+                "Tzompoalecca Uno",
+                "Xaltepec",
+                "Xiujtempa",
+                "Xonacayojca",
+                "Xopilapa",
+                "Zacatecoxco",
+                "Zacatlaixco"
+            ],
+            "Total de Localidades": 34
+        },
+        "Tempoal": {
+            "Localidades": [
+                "Palma Sola",
+                "Palo Solo",
+                "Pochuco",
+                "Potrero De Brasil",
+                "Potrero Horcon",
+                "Rancho Nuevo",
+                "Rancho Nuevo Limon",
+                "Rangel",
+                "San Isidro",
+                "San Rafael",
+                "Santa Fe",
+                "Santiago Sanchez (Sancudo)",
+                "Sardo",
+                "Tancheche",
+                "Tancholin",
+                "Tancoy",
+                "Tempoal De Sanchez",
+                "Teresa Morales De Delgado",
+                "Tierra Colorada",
+                "Tres Palmas",
+                "Valantin",
+                "Vega Rica",
+                "Zapotalito",
+                "Zapotalito"
+            ],
+            "Total de Localidades": 24
+        },
+        "Tenampa": {
+            "Localidades": [
+                "Santa Rita",
+                "Sochapa",
+                "Tenampa",
+                "Tenampa",
+                "Xopilapa"
+            ],
+            "Total de Localidades": 5
+        },
+        "Tenochtitlán": {
+            "Localidades": [
+                "Tenochtitlan",
+                "Tetlepanquetzalt",
+                "Tonalmil",
+                "Trojillas"
+            ],
+            "Total de Localidades": 4
+        },
+        "Teocelo": {
+            "Localidades": [
+                "Santa Rosa",
+                "Tejeria",
+                "Teocelo",
+                "Texin"
+            ],
+            "Total de Localidades": 4
+        },
+        "Tepatlaxco": {
+            "Localidades": [
+                "Palo Gacho",
+                "San Jose Tenejapa",
+                "Tepatlaxco",
+                "Tercera Manzana"
+            ],
+            "Total de Localidades": 4
+        },
+        "Tepetlán": {
+            "Localidades": [
+                "Rincon Grande",
+                "San Lorenzo",
+                "Tepetlan",
+                "Totoyac",
+                "Vicente Guerrero (Tepetates)"
+            ],
+            "Total de Localidades": 5
+        },
+        "Tepetzintla": {
+            "Localidades": [
+                "San Jose",
+                "Tecomate",
+                "Tenexco",
+                "Tepetzintla",
+                "Tierra Blanca"
+            ],
+            "Total de Localidades": 5
+        },
+        "Tequila": {
+            "Localidades": [
+                "Ocotempa",
+                "Ocotla",
+                "Ocoxotla",
+                "Oxtotitla",
+                "Poxcautla",
+                "Santa Cruz",
+                "Teotzacualco",
+                "Tepapalotla",
+                "Tepecuitlapa",
+                "Tequila",
+                "Tlecuaxco",
+                "Tolapa",
+                "Xalxocotla",
+                "Yoloxochititla",
+                "Zacatlamanca Ii",
+                "Zincalco"
+            ],
+            "Total de Localidades": 16
+        },
+        "Texcatepec": {
+            "Localidades": [
+                "Pie De La Cuesta",
+                "Texcatepec",
+                "Tzicatlan"
+            ],
+            "Total de Localidades": 3
+        },
+        "Texhuacán": {
+            "Localidades": [
+                "Palulca",
+                "Texala",
+                "Texhuacan",
+                "Texutzingo (Los Pinos)",
+                "Tlalca",
+                "Tlaxcantitla",
+                "Xochititla"
+            ],
+            "Total de Localidades": 7
+        },
+        "Texistepec": {
+            "Localidades": [
+                "Ojo De Agua",
+                "Paso De Los Indios",
+                "San Lorenzo Potrero Nuevo",
+                "San Lorenzo Tenochtitlan",
+                "Texistepec",
+                "Venustiano Carranza (Peña Blanca)",
+                "Villa Alta",
+                "Xochiltepec",
+                "Xochitlan (Palmillas)",
+                "Xochitlan Monte Negro",
+                "Yatepec",
+                "Zacatal"
+            ],
+            "Total de Localidades": 12
+        },
+        "Tezonapa": {
+            "Localidades": [
+                "Nicoxcotla",
+                "Ojo De Agua Chico",
+                "Ojo De Agua Grande",
+                "Palmarito",
+                "Paraiso La Reforma",
+                "Pocitos",
+                "Potrerillo",
+                "Presidio (Plan De Libres)",
+                "Puente Chilapa",
+                "Rancho Nuevo",
+                "Raya Caracol",
+                "San Agustin Del Palmar",
+                "San Antonio",
+                "San Gabriel",
+                "San Isidro",
+                "San Isidro (San Isidro Villa Nueva)",
+                "San Jeronimo Manzanares",
+                "San Jose Atitla",
+                "San Jose Las Lajas (Villa Nueva)",
+                "San Juan (Villa Nueva)",
+                "San Miguel Tenejapa",
+                "Santa Cruz Olintzi",
+                "Soyatla (Tenexapa)",
+                "Tepecoxtla",
+                "Tepetlampa",
+                "Tepetzingo",
+                "Tezonapa",
+                "Tilica",
+                "Tres Cruces",
+                "Union Agricola",
+                "Union Y Progreso (Villa Nueva)",
+                "Ursulo Galvan",
+                "Vazquez Vela",
+                "Villa Hermosa (Villa Nueva)",
+                "Villa Nueva (Primera Manzana)",
+                "Villa Nueva Panteon",
+                "Vista Hermosa",
+                "Xinicuila (Paso Viejo)",
+                "Xocoapa",
+                "Xometla",
+                "Xonotla",
+                "Yololtepec"
+            ],
+            "Total de Localidades": 42
+        },
+        "Tierra Blanca": {
+            "Localidades": [
+                "Nopiloa",
+                "Nueva Reforma",
+                "Nuevo Arroyo Tambor",
+                "Nuevo Laguna Escondida",
+                "Nuevo Masamila (Los Caños)",
+                "Nuevo Porvenir De Hidalgo (Dicha Tuerta)",
+                "Otapa",
+                "Palma Sola",
+                "Palmerinda",
+                "Paso Bobo",
+                "Paso Coyote",
+                "Paso De La Palma",
+                "Paso Del Ganado",
+                "Paso Hachote",
+                "Paso Julian",
+                "Paso Magueyito",
+                "Paso Nuevo",
+                "Paso Viejo",
+                "Pitalillo (Pinolillo)",
+                "Plan De Villa",
+                "Poblado Cinco (Nuevo Villa Ojitlan)",
+                "Quechuleño",
+                "Rancho Alegre",
+                "Rancho Nuevo",
+                "Rincon De Iguanas (El Iguanero)",
+                "Rincon Zacaiste",
+                "Roberto Barrios",
+                "Rodriguez Tejeda",
+                "Salvador Gonzalo Garcia",
+                "San Francisco (Piedra Gorda)",
+                "San Francisco El Viejo",
+                "San Joaquin",
+                "San Jose (Paso Del Burro)",
+                "San Jose Del Cacao",
+                "San Miguel",
+                "San Nicolas",
+                "San Nicolas (La Burrera)",
+                "San Salvador",
+                "Santa Lucia",
+                "Serenilla De Abajo",
+                "Tierra Adentro",
+                "Tierra Blanca",
+                "Trece De Septiembre",
+                "Ursulo Galvan (Las Charcas)",
+                "Vicente Guerrero",
+                "Zapotillo"
+            ],
+            "Total de Localidades": 46
+        },
+        "Tihuatlán": {
+            "Localidades": [
+                "Nicolas Pacheco Santes",
+                "Nuevo Progreso (Kilometro 12)",
+                "Ocotepec",
+                "Ojo De Agua",
+                "Palo De Rosa",
+                "Papatlarillo",
+                "Paso Del Pital",
+                "Paso La Uno",
+                "Piedra Clavada",
+                "Plan De Ayala",
+                "Poza Azul De Los Reyes",
+                "Progreso De Maravillas",
+                "Pueblo Viejo",
+                "Ramon Caracas Lara",
+                "Rancho Alegre",
+                "Rancho Nuevo",
+                "Ricardo Flores Magon",
+                "San Angel",
+                "San Isidro",
+                "San Miguel Mecatepec (Manantial)",
+                "San Nicolas",
+                "San Pedro Miahuapan",
+                "Santa Cruz",
+                "Santa Fe (Kilometro 8)",
+                "Sebastian Lerdo De Tejada",
+                "Sector Cinco",
+                "Sector La Ceiba (Ejido Poza De Cuero)",
+                "Tecomate",
+                "Tecoxtempa",
+                "Tecoxtempa Segundo",
+                "Tihuatlan",
+                "Totolapa",
+                "Tumbadero",
+                "Ursulo Galvan",
+                "Vegas De Acuatempa",
+                "Venustiano Carranza (El Mozuelo)",
+                "Xocotla",
+                "Zacate Colorado",
+                "Zapotal Santa Cruz",
+                "Zipatlan"
+            ],
+            "Total de Localidades": 40
+        },
+        "Tlachichilco": {
+            "Localidades": [
+                "Nuevo Chintipan",
+                "Otatitlan",
+                "Poza Seca",
+                "Queretaro (Queretano)",
+                "San Jose Naranjal",
+                "San Miguel",
+                "Texca Chiquito",
+                "Tierra Colorada",
+                "Tlachichilco",
+                "Tuzancalli",
+                "Victor Rosales",
+                "Xalame",
+                "Xicotencatl (Palos Altos)"
+            ],
+            "Total de Localidades": 13
+        },
+        "Tlacojalpan": {
+            "Localidades": [
+                "Playa Maria (San Jose)",
+                "Tlacojalpan"
+            ],
+            "Total de Localidades": 2
+        },
+        "Tlacolulan": {
+            "Localidades": [
+                "Omeapa",
+                "Potrero De Garcia",
+                "Rincon De San Andres",
+                "San Andres",
+                "San Jose",
+                "Santa Clara",
+                "Teapan",
+                "Tengonapa",
+                "Tlacolulan",
+                "Tlacolulan El Viejo",
+                "Treinta De Abril",
+                "Xoxotla"
+            ],
+            "Total de Localidades": 12
+        },
+        "Tlacotalpan": {
+            "Localidades": [
+                "Palma Sola",
+                "Perez Y Jimenez",
+                "Playa Martinez",
+                "Remolino De Aguilera",
+                "Remolino De Pavan",
+                "San Antonio",
+                "San Jose De Chazaro",
+                "San Pedro",
+                "Santa Julia",
+                "Santa Rosalia",
+                "Seis De Enero",
+                "Tlacotalpan"
+            ],
+            "Total de Localidades": 12
+        },
+        "Tlacotepec de Mejía": {
+            "Localidades": [
+                "Tlacotepec De Mejia"
+            ],
+            "Total de Localidades": 1
+        },
+        "Tlalixcoyan": {
+            "Localidades": [
+                "Nuevo Arroyo Caracol",
+                "Otapan",
+                "Palma Sola",
+                "Palo Gacho",
+                "Paso Carretas",
+                "Paso De La Boca",
+                "Paso Del Bote",
+                "Paso Metate",
+                "Piedras Negras",
+                "Piedras Negras",
+                "Plan Sexenal (El Limoncito)",
+                "Pozuelo",
+                "Rancho Nuevo",
+                "Recreo Segundo",
+                "Rojas",
+                "San Antonio",
+                "San Joaquin Limon",
+                "Santa Ana (Mata De Caña)",
+                "Santa Eulalia",
+                "Tarcuaya",
+                "Tenacalco",
+                "Tlalixcoyan",
+                "Torrecillas",
+                "Tuzales"
+            ],
+            "Total de Localidades": 24
+        },
+        "Tlalnelhuayocan": {
+            "Localidades": [
+                "Naranjillos",
+                "Otilpan",
+                "Potrero Del Bordo (Santa Maria)",
+                "Rancho Viejo",
+                "San Antonio Hidalgo",
+                "Tlalnelhuayocan",
+                "Xocotla"
+            ],
+            "Total de Localidades": 7
+        },
+        "Tlaltetela": {
+            "Localidades": [
+                "Ohuapan",
+                "Paso Limon",
+                "Pinillo",
+                "Pochotla",
+                "Poxtla",
+                "Rancho Viejo",
+                "Rincon De Poxtla",
+                "Teopanapa",
+                "Tigrillos",
+                "Tlaltetela",
+                "Toningo",
+                "Xotla",
+                "Zayacatla"
+            ],
+            "Total de Localidades": 13
+        },
+        "Tlapacoyan": {
+            "Localidades": [
+                "Otra Banda",
+                "Piedra Pinta",
+                "Platanozapan",
+                "Pochotitan",
+                "San Isidro",
+                "San Pedro Tlapacoyan",
+                "Tlapacoyan",
+                "Tomata",
+                "Vega Chica"
+            ],
+            "Total de Localidades": 9
+        },
+        "Tlaquilpa": {
+            "Localidades": [
+                "Ocotitla",
+                "Pitzcuautla",
+                "Quetzaltototl",
+                "Tenexcalco",
+                "Tepepa",
+                "Tlaltenango",
+                "Tlaquetzaltitla",
+                "Tlaquilpa",
+                "Tletlistaka",
+                "Vista Hermosa"
+            ],
+            "Total de Localidades": 10
+        },
+        "Tlilapan": {
+            "Localidades": [
+                "Tlilapan",
+                "Tonalixco"
+            ],
+            "Total de Localidades": 2
+        },
+        "Tomatlán": {
+            "Localidades": [
+                "San Martin",
+                "Tecama",
+                "Tecamilla",
+                "Tecolotla",
+                "Tomatlan"
+            ],
+            "Total de Localidades": 5
+        },
+        "Tonayán": {
+            "Localidades": [
+                "Piedras Grandes",
+                "Puentezuelos",
+                "Tejocotal",
+                "Tonayan",
+                "Zacatal"
+            ],
+            "Total de Localidades": 5
+        },
+        "Totutla": {
+            "Localidades": [
+                "Naranjos",
+                "Navatepec",
+                "Oteapa (Calzada Al Rio)",
+                "Palmaritos",
+                "Palmas",
+                "Rincon De Calcahualco",
+                "Tecomatla",
+                "Tepetlapa",
+                "Tlacuatzintla",
+                "Tlapala",
+                "Totolapa (Cruz Verde)",
+                "Totutla",
+                "Zapotitla"
+            ],
+            "Total de Localidades": 13
+        },
+        "Tres Valles": {
+            "Localidades": [
+                "Novara",
+                "Nuevo Mondongo",
+                "Nuevo San Jose Independencia",
+                "Paraiso Rio Tonto",
+                "Paso Corral",
+                "Plan De Allende",
+                "Playa De Margarita",
+                "Poblado Tres",
+                "Sabaneta Chica",
+                "San Andres De Las Yaguas (Mala Tierra)",
+                "San Antonio (El Chamizal)",
+                "San Pedro",
+                "Santo Domingo",
+                "Tres Valles",
+                "Vista Hermosa",
+                "Zapote Colorado",
+                "Zapote Palizada",
+                "Zapote Reforma"
+            ],
+            "Total de Localidades": 18
+        },
+        "Tuxpan": {
+            "Localidades": [
+                "Nalua",
+                "Nueva Esperanza",
+                "Ojite Rancho Nuevo",
+                "Otatal",
+                "Paises Bajos (Kilometro 8)",
+                "Palma De Morelos",
+                "Peña Alta",
+                "Peña De Afuera",
+                "Playa Emiliano Zapata",
+                "Praxedis Guerrero (Kilometro 18)",
+                "Puente Don Diego",
+                "Sabanillas",
+                "San Antonio",
+                "San Antonio",
+                "San Jose El Grande",
+                "Santiago De La Peña",
+                "Tampiquillo",
+                "Tebanco",
+                "Tierra Blanca",
+                "Tronconal De Herrera Beltran",
+                "Tuxpam De Rodriguez Cano",
+                "Villa Mar Chile Frio",
+                "Zapotal Zaragoza",
+                "Zapotalillo",
+                "Zapote Domingo"
+            ],
+            "Total de Localidades": 25
+        },
+        "Tuxtilla": {
+            "Localidades": [
+                "Tuxtilla"
+            ],
+            "Total de Localidades": 1
+        },
+        "Ursulo Galván": {
+            "Localidades": [
+                "Paso De Doña Juana",
+                "Playa De Chachalacas",
+                "Real Del Oro",
+                "Ursulo Galvan",
+                "Zempoala"
+            ],
+            "Total de Localidades": 5
+        },
+        "Uxpanapa": {
+            "Localidades": [
+                "Narciso Mendoza",
+                "Niños Heroes (Los Juanes)",
+                "Norberto Aguirre Palancares",
+                "Nueva Esperanza",
+                "Nuevo Acapulco",
+                "Nuevo Canton (Poblado Siete)",
+                "Nuevo Cordoba",
+                "Nuevo Naranjos",
+                "Paso Del Moral",
+                "Plan De Arroyo",
+                "Poblado 10",
+                "Poblado Cinco",
+                "Primitivo R. Valencia",
+                "Progreso Chapultepec (Linda Estrella)",
+                "Rafael Murillo Vidal",
+                "Rio Azul (Licenciado Rafael Murillo Vidal)",
+                "Rio Uxpanapa (Poblado Catorce)",
+                "Saltabarranca Segundo",
+                "Saturnino Cedillo (Poblado Uno)",
+                "Vidal Diaz Muñoz"
+            ],
+            "Total de Localidades": 20
+        },
+        "Vega de Alatorre": {
+            "Localidades": [
+                "Paso Del Toro",
+                "Paso Viejo",
+                "Rancho Nuevo",
+                "Tacahuite Viejo",
+                "Vega De Alatorre"
+            ],
+            "Total de Localidades": 5
+        },
+        "Veracruz": {
+            "Localidades": [
+                "Paso San Juan",
+                "San Julian",
+                "Santa Elena",
+                "Santa Rita",
+                "Unidad Antorchista",
+                "Valente Diaz",
+                "Vargas",
+                "Veracruz",
+                "Villarin"
+            ],
+            "Total de Localidades": 9
+        },
+        "Villa Aldama": {
+            "Localidades": [
+                "San Andres Buenavista",
+                "Villa Aldama"
+            ],
+            "Total de Localidades": 2
+        },
+        "Xalapa": {
+            "Localidades": [
+                "San Antonio Paso Del Toro",
+                "Tronconal",
+                "Xalapa-Enriquez",
+                "Xoloxtla"
+            ],
+            "Total de Localidades": 4
+        },
+        "Xico": {
+            "Localidades": [
+                "Oxtlapa",
+                "Paso Panal",
+                "Rusia",
+                "San Jose Paso Nuevo",
+                "San Marcos De Leon (San Marcos)",
+                "Tembladeras",
+                "Ticuatipan",
+                "Tlacuilolan",
+                "Tonalaco",
+                "Xico",
+                "Xico Viejo"
+            ],
+            "Total de Localidades": 11
+        },
+        "Xoxocotla": {
+            "Localidades": [
+                "Tecalatzompa",
+                "Tecuaque",
+                "Tenexapa",
+                "Tepeyolulco",
+                "Tlilcalco",
+                "Tula",
+                "Xoxocotla",
+                "Zolihua"
+            ],
+            "Total de Localidades": 8
+        },
+        "Yanga": {
+            "Localidades": [
+                "Palmillas",
+                "San Francisco De Las Mesillas",
+                "San Miguel El Grande (Doctor Vertiz)",
+                "San Rafael (La Tranca Del Perro)",
+                "Santa Ana",
+                "Yanga"
+            ],
+            "Total de Localidades": 6
+        },
+        "Yecuatla": {
+            "Localidades": [
+                "Nueva Reforma",
+                "Paz De Enriquez",
+                "Plan De Almanza",
+                "Plan De Naranjos",
+                "Plan Del Cedral",
+                "Progreso De Juarez",
+                "Roca De Oro",
+                "Santa Julia",
+                "Yecuatla"
+            ],
+            "Total de Localidades": 9
+        },
+        "Zacualpan": {
+            "Localidades": [
+                "Pueblo Nuevo",
+                "Pueblo Viejo",
+                "Puerto Chico",
+                "Puerto Grande",
+                "Tlachichilquillo",
+                "Tzocohuite",
+                "Zacualpan",
+                "Zacualpilla"
+            ],
+            "Total de Localidades": 8
+        },
+        "Zaragoza": {
+            "Localidades": [
+                "San Miguel",
+                "Zaragoza"
+            ],
+            "Total de Localidades": 2
+        },
+        "Zentla": {
+            "Localidades": [
+                "Potrero (Potrerillo)",
+                "Puentecilla",
+                "Rincon Cazuela",
+                "Rincon Coria (Rincon Tlacuache)",
+                "Rincon Mariano",
+                "Rincon Patiño",
+                "San Miguel",
+                "San Rafael Piña",
+                "Tenanzintla",
+                "Zapotal",
+                "Zentla",
+                "Zocapa Del Rosario"
+            ],
+            "Total de Localidades": 12
+        },
+        "Zongolica": {
+            "Localidades": [
+                "Nacaxtla",
+                "Nepopoalco",
+                "Nochitla",
+                "Ochitla",
+                "Olla Chica",
+                "Palapa",
+                "Palenque Cotlaixco",
+                "Palma Sola",
+                "Piedras Blancas",
+                "Puente Porras",
+                "Quetzaltototl",
+                "Real Del Monte",
+                "San Francisco Atitla",
+                "San Geronimo Tonacalco",
+                "San Isidro",
+                "San Jose Chininiapan",
+                "San Jose Independencia",
+                "San Sebastian",
+                "Tecopango (Chahuilera)",
+                "Tecoxco",
+                "Tehuilango",
+                "Temaxcalapa",
+                "Temaxcalapa Chico",
+                "Teocotla",
+                "Tepanticpac",
+                "Tepecuitlapa",
+                "Tepecuitlapa",
+                "Tepenacaxtla",
+                "Tepepa I",
+                "Tepetitlanapa",
+                "Tepetlampa",
+                "Tepetlampa",
+                "Tepetlixpa",
+                "Tepetzala",
+                "Tetlapanga",
+                "Tezizapa",
+                "Tlacuilola",
+                "Tlacuiloltecatl Chico (Nogales)",
+                "Tlacuiloltecatl Grande",
+                "Tlacuitlapa Chico",
+                "Tlacuitlapa Grande",
+                "Tlaixco",
+                "Tlanecpaquila",
+                "Tonalixco Chico",
+                "Tonalixco Grande",
+                "Totolacatla",
+                "Totomochapa",
+                "Vicente Guerrero",
+                "Xochiojca",
+                "Xochiotepec",
+                "Xonamanca",
+                "Yoloxochio",
+                "Yoloxochititla",
+                "Zacatal Chico",
+                "Zacatal Grande",
+                "Zapaltecatl",
+                "Zomajapa",
+                "Zongolica"
+            ],
+            "Total de Localidades": 58
+        },
+        "Zontecomatlán de López y Fuentes": {
+            "Localidades": [
+                "Otlatzintla",
+                "Pachitla",
+                "Pahuatla",
+                "Papalocuatla",
+                "Pochoco",
+                "Santa Ana",
+                "Santa Maria La Victoria",
+                "Santiago Ateno",
+                "Tecomajapa",
+                "Tecuapa",
+                "Tenamicoya",
+                "Tenexaco",
+                "Tetlilco",
+                "Tetzacual",
+                "Xilotla",
+                "Xochilamatla",
+                "Zacamola",
+                "Zacayahual",
+                "Zontecomatlan De Lopez Y Fuentes"
+            ],
+            "Total de Localidades": 19
+        },
+        "Zozocolco de Hidalgo": {
+            "Localidades": [
+                "Plan De Ayala",
+                "San Carlos",
+                "San Javier Del Estero",
+                "Tahuaxni Norte",
+                "Tahuaxni Sur",
+                "Tecuantepec",
+                "Tlalpila",
+                "Tres Cruces Uno",
+                "Zapotal",
+                "Zozocolco De Guerrero",
+                "Zozocolco De Hidalgo"
+            ],
+            "Total de Localidades": 11
+        },
+        "Álamo Temapache": {
+            "Localidades": [
+                "Nuevo Jardin",
+                "Nuevo Paso Real",
+                "Ojital Ciruelo",
+                "Ojital La Guadalupe",
+                "Ojital Santa Maria",
+                "Otatal",
+                "Palo Blanco",
+                "Palo Blanco Ii (Chontla)",
+                "Paso De Alamo (La Pita)",
+                "Paso Del Perro (La Pimienta)",
+                "Potrero Del Llano",
+                "Potrero Del Llano",
+                "Rancho Nuevo",
+                "Raudal Nuevo",
+                "Raya Obscura",
+                "Rodriguez Clara",
+                "San Carlos",
+                "San Fernando",
+                "San Miguel",
+                "Santa Emilia",
+                "Santa Martha",
+                "Santa Rosalia (Camalote)",
+                "Sierra De San Miguel",
+                "Sierra Doctor Montes De Oca (La Sierrita)",
+                "Solis De Allende",
+                "Sombrerete Grande",
+                "Tablones",
+                "Tamatoco",
+                "Temapache",
+                "Tepetzintlilla",
+                "Tierra Amarilla",
+                "Tierra Blanca Booxter",
+                "Tierra Blanca Booxter",
+                "Tincontlan",
+                "Tohaco (Piedras Negras)",
+                "Tumbadero",
+                "Tumbadero Del Aguila",
+                "Ursulo Galvan Ii",
+                "Ursulo Galvan Uno (El Limonar)",
+                "Vara Alta",
+                "Vegas De La Soledad Y Soledad Dos",
+                "Venustiano Carranza",
+                "Vicente Guerrero",
+                "Villa Hermosa",
+                "Xochicoatepetl",
+                "Xoyotitla",
+                "Zacatal",
+                "Zanja Del Bote",
+                "Zapotal Solis (San Jose Solis)",
+                "Zapotitlan"
+            ],
+            "Total de Localidades": 50
+        }
+    },
+    "Total de Localidades": 2534,
+    "Total de Municipios": 207
+}

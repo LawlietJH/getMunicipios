@@ -1,0 +1,605 @@
+{
+    "Municipios": {
+        "Amacuzac": {
+            "Localidades": [
+                "Amacuzac",
+                "Cajones",
+                "Campo Nuevo",
+                "Casahuatlan",
+                "Coahuixtla",
+                "Colonia Ejidal",
+                "Colonia El Campamento",
+                "Colonia Ojo De Agua",
+                "Huajintlan",
+                "Miahuatlan (El Cuiji)",
+                "Rancho Nuevo",
+                "San Gabriel Las Palmas",
+                "Teacalco",
+                "Zoquital"
+            ],
+            "Total de Localidades": 14
+        },
+        "Atlatlahucan": {
+            "Localidades": [
+                "Atlatlahucan",
+                "Colonia Kilometro 88",
+                "Colonia Pozo Mancera",
+                "Colonia San Francisco",
+                "El Astillero",
+                "Fraccionamiento Lomas De Cocoyoc",
+                "Las Minas",
+                "Los Cerritos",
+                "San Diego Tepantongo",
+                "San Juan Texcalpan",
+                "Santa Ines",
+                "Tlaltetelco (San Miguel Tlaltetelco)",
+                "Unidad Habitacional Vicente Guerrero"
+            ],
+            "Total de Localidades": 13
+        },
+        "Axochiapan": {
+            "Localidades": [
+                "Ahuaxtla",
+                "Atlacahualoya",
+                "Axochiapan",
+                "Campo Jicamal",
+                "Cayehuacan",
+                "Joaquin Cama?O",
+                "La Toma",
+                "Los Gavilanes",
+                "Marcelino Rodriguez (San Ignacio)",
+                "Palo Blanco",
+                "Quebrantadero",
+                "Telixtac",
+                "Tlalayo"
+            ],
+            "Total de Localidades": 13
+        },
+        "Ayala": {
+            "Localidades": [
+                "Abelardo L. Rodriguez",
+                "Agua Salada",
+                "Anenecuilco",
+                "Anenecuilco",
+                "Benito Juarez",
+                "Buena Vista",
+                "Chinameca",
+                "Ciudad Ayala",
+                "Colonia Ampliacion Cruz Verde",
+                "Colonia General Emiliano Zapata (El Chivatero)",
+                "Colonia Las Arboledas",
+                "Colonia Leopoldo Heredia",
+                "Constancio Farfan (La Pascuala)",
+                "El Salitre",
+                "El Vergel",
+                "Huacatlaco (Los Anonos)",
+                "Huitzililla",
+                "Jalostoc",
+                "Loma Bonita",
+                "Moyotepec",
+                "Ni?Os Heroes",
+                "Olintepec",
+                "Palo Blanco",
+                "Rancho El Pa?Uelo",
+                "Rincon De Los Sauces",
+                "San Juan Ahuehueyo",
+                "San Pedro Apatlaco",
+                "San Vicente De Juarez (Las Piedras)",
+                "Tecomalco",
+                "Tenextepango",
+                "Tlayecac",
+                "Unidad Habitacional 10 De Abril",
+                "Unidad Habitacional Mariano Matamoros",
+                "Valle De Morelos"
+            ],
+            "Total de Localidades": 34
+        },
+        "Coatlán del Río": {
+            "Localidades": [
+                "Apancingo",
+                "Benito Juarez",
+                "Buenavista De Aldama",
+                "Chavarria",
+                "Coatlan Del Rio",
+                "Cocoyotla",
+                "Colonia Cuauhtemoc",
+                "Colonia Morelos",
+                "El Axixintle (El Treinta Y Cinco)",
+                "Michapa",
+                "San Antonio",
+                "Tilancingo"
+            ],
+            "Total de Localidades": 12
+        },
+        "Cuautla": {
+            "Localidades": [
+                "19 De Febrero De 1812",
+                "Ampliacion Biznaga Uno",
+                "Ampliacion Francisco I. Madero",
+                "Ampliacion Gabriel Tepepa",
+                "Ampliacion Iztaccihuatl",
+                "Ampliacion Narciso Mendoza",
+                "Calderon",
+                "Campo Nuevo",
+                "Casasano",
+                "Colonia El Paraiso",
+                "Cuautla",
+                "El Polvorin",
+                "Empleado Municipal",
+                "Eusebio Jauregui (La Angostura)",
+                "Ex-Hacienda El Hospital",
+                "Narciso Mendoza",
+                "Pe?A Flores (Palo Verde)",
+                "Puxtla",
+                "Tierra Larga (Campo Nuevo)"
+            ],
+            "Total de Localidades": 19
+        },
+        "Cuernavaca": {
+            "Localidades": [
+                "Buenavista Del Monte",
+                "Colonia Nueva Santa Maria",
+                "Colonia Paraiso",
+                "Colonia Rodolfo Lopez De Nava (Los Naranjos)",
+                "Cuernavaca",
+                "El Cebadal",
+                "Fraccionamiento Lomas De Ahuatlan",
+                "Fraccionamiento Universo",
+                "La Ca?Ada",
+                "La Union",
+                "Loma Del Tzompantle",
+                "Lomas De Ahuatepec",
+                "Lomas De Chamilpa",
+                "Nueva Jerusalen",
+                "Santa Maria",
+                "Villa Santiago"
+            ],
+            "Total de Localidades": 16
+        },
+        "Emiliano Zapata": {
+            "Localidades": [
+                "Colonia El Guante",
+                "Colonia Modesto Rangel",
+                "Emiliano Zapata",
+                "Palo Escrito (Colonia Benito Juarez)",
+                "Paraje Palo Escrito",
+                "San Jose De Las Cumbres",
+                "Tepetzingo",
+                "Tetecalita",
+                "Tezoyuca",
+                "Tres De Mayo"
+            ],
+            "Total de Localidades": 10
+        },
+        "Huitzilac": {
+            "Localidades": [
+                "Coajomulco",
+                "Colonia Antonio Segura",
+                "Fierro Del Toro",
+                "Fraccionamiento Sierra Encantada",
+                "Huitzilac",
+                "Rincon Del Bosque (La Palma)",
+                "Tres Marias"
+            ],
+            "Total de Localidades": 7
+        },
+        "Jantetelco": {
+            "Localidades": [
+                "Amayuca",
+                "Chalcatzingo",
+                "Colonia Cuatro Caminos",
+                "Colonia Manuel Alarcon",
+                "Colonia Mariano Matamoros (Puente Colorado)",
+                "Jantetelco",
+                "San Antonio La Esperanza",
+                "Tenango (Santa Ana)"
+            ],
+            "Total de Localidades": 8
+        },
+        "Jiutepec": {
+            "Localidades": [
+                "Ampliacion Las Fuentes",
+                "Calera Chica",
+                "Cliserio Alanis (San Gaspar)",
+                "Colonia Loma Bonita",
+                "El Texcal",
+                "Fraccionamiento El Paraje (Kilometro 14)",
+                "Independencia",
+                "Jiutepec",
+                "Lomas De Chapultepec",
+                "Progreso",
+                "San Francisco Texcalpan"
+            ],
+            "Total de Localidades": 11
+        },
+        "Jojutla": {
+            "Localidades": [
+                "Chisco",
+                "Colonia Ampliacion Santa Maria",
+                "Colonia El Paraiso (Colonia Vicente Guerrero)",
+                "Colonia Guadalupe",
+                "Colonia La Azuchilera",
+                "Higueron",
+                "Hornos Cuates",
+                "Jicarero",
+                "Jojutla",
+                "Nicolas Bravo",
+                "Pedro Amaro",
+                "Rio Seco",
+                "Tehuixtla",
+                "Tequesquitengo",
+                "Tlatenchi",
+                "Unidad Habitacional Jose Maria Morelos Y Pavon",
+                "Vicente Aranda (San Rafael)"
+            ],
+            "Total de Localidades": 17
+        },
+        "Jonacatepec": {
+            "Localidades": [
+                "Amacuitlapilco",
+                "Colonia Emiliano Zapata",
+                "Colonia San Martin",
+                "Jonacatepec",
+                "Santa Cruz",
+                "Tetelilla",
+                "Tlayca"
+            ],
+            "Total de Localidades": 7
+        },
+        "Mazatepec": {
+            "Localidades": [
+                "Colonia El Florido",
+                "Colonia Justo Sierra",
+                "Cuauchichinola",
+                "Mazatepec",
+                "Santa Cruz Vista Alegre"
+            ],
+            "Total de Localidades": 5
+        },
+        "Miacatlán": {
+            "Localidades": [
+                "Coatetelco",
+                "Colonia Alvaro Obregon",
+                "El Arroyo Seco (La Cuajiotera)",
+                "El Muelle",
+                "El Rincon",
+                "El Rodeo",
+                "El Terrero",
+                "Emiliano Zapata",
+                "General Pedro Saavedra",
+                "La Campesina (Colonia Los Tulipanes)",
+                "Miacatlan",
+                "Palo Grande",
+                "Palpan De Baranda",
+                "Rancho Viejo",
+                "Tlajotla",
+                "Xochicalco (Cirenio Longares)"
+            ],
+            "Total de Localidades": 16
+        },
+        "Ocuituco": {
+            "Localidades": [
+                "Huecahuasco",
+                "Huejotengo (San Marcos)",
+                "Huepalcalco (San Miguel)",
+                "Jumiltepec",
+                "Metepec",
+                "Ocoxaltepec",
+                "Ocuituco",
+                "Santa Monica"
+            ],
+            "Total de Localidades": 8
+        },
+        "Puente de Ixtla": {
+            "Localidades": [
+                "24 De Febrero",
+                "Ahuehuetzingo",
+                "Ampliacion Benito Juarez",
+                "Ampliacion Colonia Jardines De La Herradura",
+                "Ampliacion Colonia Norte",
+                "Colonia Apozonalco",
+                "Colonia Morelos",
+                "Colonia Valle Bonito (Los Arcos Caidos)",
+                "El Coco",
+                "El Estudiante",
+                "El Naranjo",
+                "El Salto",
+                "El Zapote",
+                "Guadalupe Victoria",
+                "La Tigra",
+                "Loma Florida",
+                "Los Epazotes",
+                "Los Idolos",
+                "Puente De Ixtla",
+                "Puente El Naranjo",
+                "San Jose Vista Hermosa",
+                "Tilzapotla",
+                "Xoxocotla"
+            ],
+            "Total de Localidades": 23
+        },
+        "Temixco": {
+            "Localidades": [
+                "Campo El Rayo (Acatlipa)",
+                "Colonia Aeropuerto (Campo Los Lechosos)",
+                "Colonia Santa Ursula",
+                "Cuentepec",
+                "Eterna Primavera",
+                "Lomas Del Carril",
+                "San Agustin Tetlama",
+                "Solidaridad",
+                "Temixco"
+            ],
+            "Total de Localidades": 9
+        },
+        "Temoac": {
+            "Localidades": [
+                "Amilcingo",
+                "Huazulco",
+                "Popotlan (Barrio Santo Tomas)",
+                "Temoac"
+            ],
+            "Total de Localidades": 4
+        },
+        "Tepalcingo": {
+            "Localidades": [
+                "Adolfo Lopez Mateos",
+                "Atotonilco",
+                "Colonia Buenos Aires",
+                "Cruz De Jaramalla (Colonia Lauro Ortega)",
+                "El Limon De Cuauchichinola",
+                "El Tepehuaje",
+                "Emiliano Zapata",
+                "Huitchila",
+                "Ixtlilco El Chico",
+                "Ixtlilco El Grande",
+                "Las Joyas",
+                "Los Sauces",
+                "Pitzotlan",
+                "Tepalcingo",
+                "Zacapalco"
+            ],
+            "Total de Localidades": 15
+        },
+        "Tepoztlán": {
+            "Localidades": [
+                "Acolapan",
+                "Amatlan De Quetzalcoatl",
+                "Colonia Angel Bocanegra (Adolfo Lopez Mateos)",
+                "Colonia Del Carmen",
+                "Colonia Loma Esmeralda",
+                "Colonia Obrera",
+                "San Andres De La Cal",
+                "San Juan Tlacotenco",
+                "Santa Catarina",
+                "Santiago Tepetlapa",
+                "Santo Domingo Ocotitlan",
+                "Tepoztlan",
+                "Texio",
+                "Tlaltepetl"
+            ],
+            "Total de Localidades": 14
+        },
+        "Tetecala": {
+            "Localidades": [
+                "Actopan",
+                "Colonia El Charco",
+                "Colonia Francisco Sarabia",
+                "Colonia Mariano Matamoros",
+                "Colonia Sonora",
+                "Contlalco",
+                "Cuautlita",
+                "Tetecala"
+            ],
+            "Total de Localidades": 8
+        },
+        "Tetela del Volcán": {
+            "Localidades": [
+                "Hueyapan (San Andres Hueyapan)",
+                "Lomas Lindas",
+                "San Miguel",
+                "Tetela Del Volcan",
+                "Tlalcomulco",
+                "Tlalmimilulpan (San Pedro)",
+                "Zacapechpa (Zacapezuca)"
+            ],
+            "Total de Localidades": 7
+        },
+        "Tlalnepantla": {
+            "Localidades": [
+                "El Pedregal",
+                "El Vigia (San Nicolas Del Monte)",
+                "Felipe Neri (Cuatepec)",
+                "Tlalnepantla"
+            ],
+            "Total de Localidades": 4
+        },
+        "Tlaltizapán de Zapata": {
+            "Localidades": [
+                "Acamilpa",
+                "Ampliacion Zaragoza",
+                "Barranca Honda",
+                "Bonifacio Garcia (Colonia Alejandra)",
+                "Colonia 10 De Mayo (La Matanza)",
+                "Colonia Echeverria",
+                "Colonia Palo Prieto (Chipitongo)",
+                "El Mirador",
+                "Huatecalco",
+                "Otilio Monta?O",
+                "Pueblo Nuevo",
+                "San Pablo Hidalgo",
+                "San Rafael Zaragoza",
+                "Santa Rosa Treinta",
+                "Temilpa Nuevo",
+                "Temilpa Viejo",
+                "Temimilcingo",
+                "Ticuman",
+                "Tlaltizapan"
+            ],
+            "Total de Localidades": 19
+        },
+        "Tlaquiltenango": {
+            "Localidades": [
+                "Ajuchitlan",
+                "Alfredo V. Bonfil (Chacampalco)",
+                "Chimalacatlan",
+                "Coaxitlan",
+                "Colonia 3 De Mayo (El Tepiolol)",
+                "Colonia Manzanarez",
+                "El Perillo",
+                "Huautla",
+                "Huaxtla",
+                "Huixastla",
+                "La Era (Calalpa)",
+                "La Mezquitera (El Astillero)",
+                "Las Bovedas",
+                "Las Carpas",
+                "Lorenzo Vazquez (Santa Cruz)",
+                "Los Dormidos",
+                "Los Elotes (San Miguel De Los Elotes)",
+                "Miguel Hidalgo",
+                "Nexpa",
+                "Palo Grande",
+                "Paso De Palapa",
+                "Pueblo Viejo",
+                "Quilamula",
+                "Rancho Viejo",
+                "San Jose De Pala",
+                "Santiopa",
+                "Tlaquiltenango",
+                "Unidad Habitacional Emiliano Zapata",
+                "Valle De Vazquez (Los Hornos)",
+                "Xicatlacotla",
+                "Xochipala"
+            ],
+            "Total de Localidades": 31
+        },
+        "Tlayacapan": {
+            "Localidades": [
+                "Amatlipac (San Agustin Amatlipac)",
+                "Colonia Jerico",
+                "Colonia Texalo (La Ceramica)",
+                "Cuauhtempan (San Andres Cuauhtempan)",
+                "El Golan",
+                "Ex-Hacienda Pantitlan",
+                "Las Vivianas",
+                "Los Laureles (San Jose De Los Laureles)",
+                "Nacatongo",
+                "Tlayacapan"
+            ],
+            "Total de Localidades": 10
+        },
+        "Totolapan": {
+            "Localidades": [
+                "Ahuatlan (Asuncion Ahuatlan)",
+                "Barrio San Marcos (El Moral)",
+                "El Fuerte (San Miguel)",
+                "El Llanito",
+                "La Ca?Ada (San Sebastian)",
+                "Nepopualco",
+                "Tepetlixpita",
+                "Totolapan",
+                "Villa Nicolas Zapata"
+            ],
+            "Total de Localidades": 9
+        },
+        "Xochitepec": {
+            "Localidades": [
+                "Alpuyeca",
+                "Ampliacion Miguel Hidalgo",
+                "Atlacholoaya",
+                "Benito Juarez (La Calera)",
+                "Chiconcuac",
+                "Colonia 3 De Mayo (El Puente)",
+                "Colonia Humberto Gutierrez Corona",
+                "Colonia La Pintora",
+                "Colonia Las Flores",
+                "Colonia Lazaro Cardenas",
+                "Francisco Villa",
+                "La Esperanza",
+                "Las Palmas",
+                "Real Del Puente (El Gallito)",
+                "Unidad Habitacional General Lazaro Cardenas (Ingenio Emiliano Zapata)",
+                "Unidad Habitacional Jose Maria Morelos Y Pavon",
+                "Xochitepec"
+            ],
+            "Total de Localidades": 17
+        },
+        "Yautepec": {
+            "Localidades": [
+                "Ampliacion Atlihuayan",
+                "Cocoyoc",
+                "Colonia Miguel Hidalgo (Los Cuartos)",
+                "Colonia Paracas",
+                "Corral Grande",
+                "Diego Ruiz",
+                "El Caracol (Campo Chiquito)",
+                "El Caudillo Del Sur",
+                "El Fortin",
+                "El Rocio",
+                "El Zarco",
+                "Emiliano Zapata (Palo Mocho)",
+                "Ignacio Bastida (Santa Catarina Tlayca)",
+                "Itzamatitlan",
+                "Jose Ortiz (San Martin)",
+                "La Joya",
+                "La Nopalera",
+                "Lazaro Cardenas (El Empalme)",
+                "Los Arcos",
+                "Lucio Moreno",
+                "Oacalco",
+                "Oaxtepec",
+                "San Isidro",
+                "Yautepec De Zaragoza"
+            ],
+            "Total de Localidades": 24
+        },
+        "Yecapixtla": {
+            "Localidades": [
+                "Achichipico",
+                "Adolfo Lopez Mateos",
+                "Colonia Aquiles Serdan",
+                "Colonia Paraiso Escondido",
+                "Colonia Paraiso Las Flores",
+                "Huexca",
+                "Juan Morales",
+                "La Estacion De Yecapixtla",
+                "Los Capulines",
+                "Los Limones",
+                "Mixtlalcingo",
+                "Pazulco",
+                "Tecajec",
+                "Texcala",
+                "Tezontetelco",
+                "Tlamomulco",
+                "Xochitlan",
+                "Yecapixteca",
+                "Yecapixtla",
+                "Zacahuacatla"
+            ],
+            "Total de Localidades": 20
+        },
+        "Zacatepec": {
+            "Localidades": [
+                "Ampliacion Plutarco Elias Calles",
+                "Colonia Poza Honda",
+                "San Antonio Chiverias",
+                "San Nicolas Galeana",
+                "Zacatepec De Hidalgo"
+            ],
+            "Total de Localidades": 5
+        },
+        "Zacualpan": {
+            "Localidades": [
+                "Colonia Emiliano Zapata",
+                "Colonia Mariano Escobedo (Campo Las Trancas)",
+                "La Presa (El Cerro De La Era)",
+                "Tlacotepec",
+                "Zacualpan De Amilpas"
+            ],
+            "Total de Localidades": 5
+        }
+    },
+    "Total de Localidades": 435,
+    "Total de Municipios": 33
+}

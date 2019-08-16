@@ -1,0 +1,4211 @@
+{
+    "Municipios": {
+        "Acajete": {
+            "Localidades": [
+                "Acajete",
+                "Apango De Zaragoza",
+                "Buenavista",
+                "Cristo Rey",
+                "La Cardenista (Colonia Lazaro Cardenas)",
+                "La Magdalena Tetela Morelos",
+                "La Providencia",
+                "Nuestra Se?Ora Del Monte",
+                "San Agustin Tlaxco",
+                "San Antonio Tlacamilco",
+                "San Bartolo Pinal",
+                "San Javier",
+                "San Jeronimo Ocotitlan",
+                "San Jose El Tintero",
+                "San Juan Tepulco",
+                "San Martin La Joya",
+                "Santa Isabel Tepetzala",
+                "Santa Maria Nenetzintla",
+                "Tlacamilco"
+            ],
+            "Total de Localidades": 19
+        },
+        "Acateno": {
+            "Localidades": [
+                "Ampliacion Tilapa Ejido",
+                "Arroyo Blanco",
+                "Copales",
+                "Dos Aguas",
+                "Dos Caminos",
+                "Ejido Copalillo (Topila Palo Gacho)",
+                "El Guayabal",
+                "Jiliapan",
+                "La Nueva Esperanza (Placido Rios)",
+                "Monte Limpio",
+                "Palmartepec (Cerro De Palmartepec)",
+                "Palo Gacho",
+                "Plan De Maria",
+                "San Jose Acateno",
+                "Tierra Nueva (Ejido De San Jose Acateno)",
+                "Topila",
+                "Tzontecomapa"
+            ],
+            "Total de Localidades": 17
+        },
+        "Acatlán": {
+            "Localidades": [
+                "3 De Mayo",
+                "Acatlan De Osorio",
+                "Amate Redondo",
+                "Amatitlan De Azueta",
+                "Barrio De Guadalupe",
+                "Barrio Santiago Ilamacingo",
+                "Colonia Allende",
+                "El Cuajilote",
+                "El Garambuyo",
+                "El Maguey",
+                "El Tehuixtle",
+                "Garzones (Santa Gertrudis)",
+                "Hermenegildo Galeana",
+                "Ilamacingo",
+                "Juan R. Rojas (Los Cocos)",
+                "La Huerta",
+                "La Noria Chica",
+                "La Palma",
+                "La Trinidad (Los Hobos)",
+                "Las Nieves",
+                "Los Parajes",
+                "Nuevos Horizontes",
+                "Pe?A Colorada",
+                "Rancho Nuevo",
+                "San Bernardo",
+                "San Cristobal",
+                "San Francisco Rancho Nuevo",
+                "San Gabriel",
+                "San Miguel Amatitlanes",
+                "San Miguel San Bernardo",
+                "San Vicente Boqueron",
+                "Tecomate",
+                "Tetelcingo",
+                "Tianguistengo",
+                "Tres Cruces Ilamacingo",
+                "Zimatlan Buena Vista"
+            ],
+            "Total de Localidades": 36
+        },
+        "Acatzingo": {
+            "Localidades": [
+                "Acatzingo De Hidalgo",
+                "Actipan De Morelos (Santa Maria Actipan)",
+                "Apipilolco (Los Alamos)",
+                "Campus Acatzingo",
+                "Carmen Serdan",
+                "El Capulin",
+                "Guadalupe Morelos",
+                "Hernandez",
+                "La Coyotera",
+                "Nicolas Bravo",
+                "Progreso De Juarez",
+                "San Antonio",
+                "San Jeronimo Tamariz",
+                "San Jose",
+                "San Marcos El Viejo",
+                "San Pedro Ovando (Ex-Hda. San Pedro Ovando)",
+                "San Sebastian Teteles",
+                "San Sebastian Villanueva",
+                "Virreyes De Juarez"
+            ],
+            "Total de Localidades": 19
+        },
+        "Acteopan": {
+            "Localidades": [
+                "Acteopan",
+                "San Felipe Toctla",
+                "Santa Maria Atzitzintla"
+            ],
+            "Total de Localidades": 3
+        },
+        "Ahuacatlán": {
+            "Localidades": [
+                "Agua Fria",
+                "Ahuacatlan",
+                "Analco",
+                "Camino De San Marcos (Palenque)",
+                "Cuacuilco",
+                "Ixtlahuaca",
+                "Pochalcatl",
+                "Rancho Nuevo",
+                "San Francisco Ixquihuacan",
+                "San Jeronimo Coaltepec",
+                "San Marcos Eloxochitlan",
+                "Tecomatepec Tres Cruces",
+                "Tlacomulco",
+                "Tlacotepec (San Mateo)",
+                "Tlalacal",
+                "Tlayehualancingo",
+                "Tonalapa (Santa Barbara)",
+                "Xochicuautla"
+            ],
+            "Total de Localidades": 18
+        },
+        "Ahuatlán": {
+            "Localidades": [
+                "Ahuatlan",
+                "El Carrizo (Paraje Michihuacan)",
+                "Guadalupe",
+                "La Sabila",
+                "Lagunilla",
+                "Patlanoaya (San Salvador Patlanoaya)",
+                "San Isidro Mimilulco (Mimilulco)",
+                "San Jose El Rodeo (El Rodeo)",
+                "San Lucas Tejaluca"
+            ],
+            "Total de Localidades": 9
+        },
+        "Ahuazotepec": {
+            "Localidades": [
+                "Ahuacatla",
+                "Ahuazotepec",
+                "Beristain",
+                "Ejido Mesa Chica",
+                "La Estacion De Ahuazotepec",
+                "La Mesa Chica (Las Milpillas)",
+                "Laguna Seca",
+                "San Antonio Buenavista",
+                "San Miguel Ayotla",
+                "Tejamaniles",
+                "Tenejaque"
+            ],
+            "Total de Localidades": 11
+        },
+        "Ahuehuetitla": {
+            "Localidades": [
+                "Ahuehuetitla",
+                "El Papayo",
+                "El Pe?On (San Vicente El Pe?On)",
+                "Guadalupe Alchipini",
+                "Las Palomas (El Boludo)"
+            ],
+            "Total de Localidades": 5
+        },
+        "Ajalpan": {
+            "Localidades": [
+                "Achichinalco",
+                "Ahuatepec",
+                "Ahuatla",
+                "Bella Vista",
+                "Boca Del Monte",
+                "Buenavista",
+                "Chichicapa",
+                "Cinco De Mayo",
+                "Cinco Se?Ores",
+                "Ciudad De Ajalpan",
+                "Coatzingo",
+                "Comulco",
+                "Coxolico",
+                "Cuabcapula",
+                "Cuahuichotla",
+                "Cuautotolapan (San Jose)",
+                "Cuautzintlica",
+                "Cuaxuxpa",
+                "El Mirador",
+                "Esperanza",
+                "Huaxtitla",
+                "Huitzmaloc",
+                "La Escondida",
+                "La Joya",
+                "La Soledad (Castillogco)",
+                "Loma Bonita",
+                "Macuilcuautitla",
+                "Macuilquila",
+                "Mazatianquixco",
+                "Mexcaltochintla",
+                "Moyotepec",
+                "Nativitas (Santa Maria)",
+                "Ocotempa",
+                "Piscuautla",
+                "Playa Vicente",
+                "Rancho Nuevo",
+                "Rancho Viejo",
+                "Rancho Viejo",
+                "San Isidro El Mirador",
+                "San Jose Buena Vista",
+                "San Sebastian Alcomunga",
+                "Tecpantzacoalco",
+                "Tepepa",
+                "Tepepa De Zaragoza",
+                "Tepetlampa",
+                "Tierra Blanca",
+                "Tlacxitla",
+                "Tlazolapa",
+                "Vista Hermosa Zayulapa",
+                "Xala",
+                "Xochitzinga",
+                "Zacatecochco",
+                "Zacatlamanic",
+                "Zacayucan"
+            ],
+            "Total de Localidades": 54
+        },
+        "Albino Zertuche": {
+            "Localidades": [
+                "Acaxtlahuacan De Albino Zertuche"
+            ],
+            "Total de Localidades": 1
+        },
+        "Aljojuca": {
+            "Localidades": [
+                "Aljojuca",
+                "Jalapasco El Grande",
+                "San Antonio Jalapasco",
+                "San Antonio Las Cuchillas",
+                "San Miguel Tecuitlapa"
+            ],
+            "Total de Localidades": 5
+        },
+        "Altepexi": {
+            "Localidades": [
+                "Altepexi",
+                "Altepexi",
+                "Hidalgo",
+                "Texcalco"
+            ],
+            "Total de Localidades": 4
+        },
+        "Amixtlán": {
+            "Localidades": [
+                "Amixtlan",
+                "Cacochon",
+                "Cuautotola",
+                "El Ocotal",
+                "Mirasol"
+            ],
+            "Total de Localidades": 5
+        },
+        "Amozoc": {
+            "Localidades": [
+                "Amozoc De Mota",
+                "Casa Blanca",
+                "Concepcion Capulac (La Ex-Hacienda)",
+                "Guadalupe Victoria (Guadalupe Del Moral)",
+                "San Jacinto",
+                "San Jose La Laguna",
+                "San Miguel Cuauhtenco"
+            ],
+            "Total de Localidades": 7
+        },
+        "Aquixtla": {
+            "Localidades": [
+                "Aquixtla",
+                "Atecoxco",
+                "Atexcac",
+                "Ayocuantla",
+                "Chaucingo",
+                "Chichicaxtla",
+                "Chignahuacingo",
+                "Coayuca",
+                "Cuautieco",
+                "Cuautolanico",
+                "Ecapactla",
+                "El Terrero",
+                "Ilotepec",
+                "La Loma",
+                "Pachuquilla",
+                "San Alfonso",
+                "Tlachiapa",
+                "Tlacomulco",
+                "Tlacuitlapa",
+                "Tlaltempa"
+            ],
+            "Total de Localidades": 20
+        },
+        "Atempan": {
+            "Localidades": [
+                "Apatauyan",
+                "Atempan",
+                "Atzalan",
+                "Cala Norte",
+                "Cala Sur",
+                "El Cuatro",
+                "Huexoteno",
+                "Las Canoas",
+                "Las Delicias",
+                "San Ambrosio",
+                "San Nicolas (Animazco)",
+                "Tacopan",
+                "Tanhuixco",
+                "Tezhuatepec",
+                "Tezompan"
+            ],
+            "Total de Localidades": 15
+        },
+        "Atexcal": {
+            "Localidades": [
+                "Agua El Gabriel",
+                "Colonia Solidaridad",
+                "Las Cumbres De Chicometepec",
+                "San Lucas Teteletitlan",
+                "San Martin Atexcal",
+                "San Nicolas Tepoxtitlan (Nepoxtitlan)",
+                "Santa Catarina Tehuixtla",
+                "Santiago Nopala",
+                "Santo Tomas Otlaltepec"
+            ],
+            "Total de Localidades": 9
+        },
+        "Atlequizayan": {
+            "Localidades": [
+                "Atlequizayan",
+                "Ignacio Allende (Concepcion)"
+            ],
+            "Total de Localidades": 2
+        },
+        "Atlixco": {
+            "Localidades": [
+                "Atlixco",
+                "Col. Agricola De Ocotepec (Colonia San Jose)",
+                "Diez De Abril",
+                "El Carmen",
+                "El Pajar",
+                "Emiliano Zapata Los Molinos",
+                "Emiliano Zapata Nexatengo",
+                "Ex-Hacienda San Agustin",
+                "Ex-Hacienda San Felix",
+                "Francisco Villa",
+                "Guadalupe Huexocuapan",
+                "Juan Uvera",
+                "La Magdalena",
+                "La Sabana (San Juan La Sabana)",
+                "Martir De Chinameca",
+                "San Agustin Huixaxtla",
+                "San Agustin Ixtahuixtla",
+                "San Alfonso",
+                "San Esteban Zoapiltepec",
+                "San Felipe Xonacayucan",
+                "San Felix Hidalgo",
+                "San Isidro Huilotepec",
+                "San Jeronimo Caleras",
+                "San Jeronimo Coyula",
+                "San Juan Ocotepec",
+                "San Juan Portezuelo",
+                "San Juan Tejaluca",
+                "San Pedro Benito Juarez",
+                "Santa Ana Yancuitlalpan (Chilhuacan)",
+                "Santa Cruz Tehuixpango",
+                "Santa Lucia Cosamaloapan",
+                "Santo Domingo Atoyatempan",
+                "Solares De Tenextepec",
+                "Tolometla De Benito Juarez"
+            ],
+            "Total de Localidades": 34
+        },
+        "Atoyatempan": {
+            "Localidades": [
+                "Atoyatempan",
+                "Tlacomulco"
+            ],
+            "Total de Localidades": 2
+        },
+        "Atzala": {
+            "Localidades": [
+                "Atzala"
+            ],
+            "Total de Localidades": 1
+        },
+        "Atzitzihuacán": {
+            "Localidades": [
+                "El Potrero",
+                "Emiliano Zapata (Col. Agrarista)",
+                "San Francisco Xochiteopan",
+                "San Juan Amecac",
+                "San Juan Tejupa",
+                "San Mateo Coatepec",
+                "San Miguel Aguacomulican",
+                "San Pedro Ixhuatepec",
+                "Santiago Atzitzihuacan"
+            ],
+            "Total de Localidades": 9
+        },
+        "Atzitzintla": {
+            "Localidades": [
+                "Atzitzintla",
+                "Chichipica",
+                "Guadalupe Xochiloma",
+                "Paso Carretas",
+                "Plan Del Capulin",
+                "San Antonio El Alto (Rancho Montiel)",
+                "San Jose El Despacho (Despacho Aserradero)",
+                "San Juan Huiloapan",
+                "San Juanero",
+                "San Manuel De La Sierra",
+                "Santa Cruz Cuyachapa",
+                "Santa Cruz Texmalaquilla",
+                "Toluca"
+            ],
+            "Total de Localidades": 13
+        },
+        "Axutla": {
+            "Localidades": [
+                "Axutla",
+                "Huehuepiaxtla",
+                "Tlaxixinca"
+            ],
+            "Total de Localidades": 3
+        },
+        "Ayotoxco de Guerrero": {
+            "Localidades": [
+                "Arenal",
+                "Ayotoxco De Guerrero",
+                "Buena Vista",
+                "Copales",
+                "Cuauhtemoc (Tlacuilolostoc)",
+                "El Roble",
+                "Gachupinate (Rancho Nuevo)",
+                "La Lagunilla",
+                "La Manigua",
+                "La Union",
+                "Nanacatepec",
+                "San Antonio Metzonapa",
+                "Trapiche Viejo",
+                "Uruapan"
+            ],
+            "Total de Localidades": 14
+        },
+        "Calpan": {
+            "Localidades": [
+                "El Palmar (La Ocotera Seca)",
+                "Pueblo Nuevo",
+                "San Andres Calpan",
+                "San Lucas Atzala",
+                "San Lucas Atzala",
+                "San Mateo Ozolco"
+            ],
+            "Total de Localidades": 6
+        },
+        "Caltepec": {
+            "Localidades": [
+                "Acatepec",
+                "Actipan (San Isidro)",
+                "Atecoxco",
+                "Caltepec",
+                "Coatepec",
+                "La Compa?Ia",
+                "Marrubio",
+                "Plan De San Miguel",
+                "Sabino Farol",
+                "San Juan Acatitlan",
+                "San Luis Atolotitlan (Atolotitlan)",
+                "San Simon Tlacuilotepec",
+                "Zotolin"
+            ],
+            "Total de Localidades": 13
+        },
+        "Camocuautla": {
+            "Localidades": [
+                "Camocuautla",
+                "Katlucu (Tacxcoy)",
+                "La Pila",
+                "San Bernardino",
+                "Tapayula"
+            ],
+            "Total de Localidades": 5
+        },
+        "Caxhuacan": {
+            "Localidades": [
+                "Caxhuacan",
+                "Cucuchuchut"
+            ],
+            "Total de Localidades": 2
+        },
+        "Cañada Morelos": {
+            "Localidades": [
+                "Barrio De Guadalupe",
+                "Barrio La Soledad",
+                "Boca Nopal",
+                "Buena Vista",
+                "Centro De Ahuatepec (El Pilancon)",
+                "Cerro Gordo",
+                "Garcias",
+                "Guadalupe Fresnal",
+                "Lazaro Cardenas",
+                "Llano Grande Ahuatepec",
+                "Llano Grande Ixtapa",
+                "Morelos Ca?Ada",
+                "Puerta Ca?Ada",
+                "San Antonio Soledad",
+                "San Cayetano",
+                "San Jose Ixtapa",
+                "San Lucas",
+                "San Miguel Cuesta Chica",
+                "Santa Ana Ocotepec",
+                "Santa Cruz",
+                "Santa Cruz Soledad",
+                "Temaxcalapa",
+                "Tezuapan (San Isidro)"
+            ],
+            "Total de Localidades": 23
+        },
+        "Chalchicomula de Sesma": {
+            "Localidades": [
+                "Ahuatepec Del Camino",
+                "Alvaro Obregon",
+                "Ciudad Serdan",
+                "Concepcion Oviedo (Rancho Viejo)",
+                "Dolores Buenpais",
+                "El Veladero (Santa Cruz Veladero)",
+                "Guadalupe Sabinal",
+                "Jesus Maria",
+                "Jesus Nazareno (Rancho Nuevo)",
+                "Los Ricardos",
+                "Maravillas",
+                "San Blas Tecolotepec (Gaviotas)",
+                "San Diego Texmelucan",
+                "San Francisco Cuautlancingo (El Barrio)",
+                "San Isidro Canoas Altas",
+                "San Juan Arcos Ojo De Agua",
+                "San Martin Ojo De Agua",
+                "San Miguel Ocotenco",
+                "San Pedro Concepcion Candelaria (Candelaria)",
+                "San Pedro Temamatla",
+                "Santa Ines Borbolla",
+                "Santa Maria Techachalco"
+            ],
+            "Total de Localidades": 22
+        },
+        "Chapulco": {
+            "Localidades": [
+                "Aquiles Serdan",
+                "Chapulco",
+                "Puente Colorado"
+            ],
+            "Total de Localidades": 3
+        },
+        "Chiautla": {
+            "Localidades": [
+                "Ca?Ada Grande",
+                "Cascalote De Bravo",
+                "Centeocala",
+                "Chahuapa",
+                "Chiauzumba",
+                "Ciudad De Chiautla De Tapia",
+                "Cruz Blanca (Titilintzin)",
+                "Cruz Verde",
+                "El Limon",
+                "La Cantera (San Miguel La Cantera)",
+                "La Cienega",
+                "La Palma",
+                "Mexicalcingo De Los Llanos",
+                "Nahuituxco",
+                "Pilcaya (San Juan Pilcaya)",
+                "Quetzotla (San Miguel)",
+                "San Juan De Los Rios (San Juan Del Rio)",
+                "San Miguel Chicotitlan",
+                "San Miguel Ejido (Ejido San Miguel)",
+                "Santa Ana Tecolapa",
+                "Tepoxmatla",
+                "Tlancualpican",
+                "Vista Hermosa"
+            ],
+            "Total de Localidades": 23
+        },
+        "Chiautzingo": {
+            "Localidades": [
+                "San Agustin Atzompa",
+                "San Antonio Tlatenco",
+                "San Juan Tetla",
+                "San Lorenzo Chiautzingo",
+                "San Nicolas Zecalacoayan"
+            ],
+            "Total de Localidades": 5
+        },
+        "Chichiquila": {
+            "Localidades": [
+                "Acalocotla",
+                "Amaxochitla",
+                "Atlaxco",
+                "Barrio Del Carmen",
+                "Chichiquila",
+                "Cinco De Mayo",
+                "Colonia Guadalupe",
+                "Dos Rios",
+                "El Mirador",
+                "El Palmar",
+                "El Progreso",
+                "El Rosario",
+                "El Triunfo",
+                "Ermita",
+                "Huaxcaleca",
+                "Jesus Maria Acatla",
+                "La Providencia",
+                "La Union",
+                "Lancho",
+                "Las Trincheras",
+                "Nenehuaca",
+                "Ojo De Agua",
+                "Rancho Nuevo",
+                "San Antonio",
+                "San Diego Del Palmar",
+                "San Jose",
+                "San Jose Acatla",
+                "San Jose De La Raya",
+                "San Jose De Las Flores",
+                "San Luis Esperanza",
+                "San Martin Comalapa",
+                "Santiago",
+                "Tepehuacan",
+                "Tizapa",
+                "Vista Hermosa",
+                "Xochihuixtla",
+                "Xochimilco",
+                "Xochimilco",
+                "Xopanapa"
+            ],
+            "Total de Localidades": 39
+        },
+        "Chiconcuautla": {
+            "Localidades": [
+                "Acalama",
+                "Axocopactla",
+                "Benito Juarez",
+                "Chiconcuautla",
+                "Cosamaloapan",
+                "Cuetzalingo",
+                "Huautla",
+                "Huixtlacuatla",
+                "Itlantixcali",
+                "Ixtaczoquitla",
+                "Macuilacatla",
+                "Mimitla",
+                "Palzoquitla",
+                "San Lorenzo Tlaxipehuala",
+                "Tlalhuapan",
+                "Tlaltenango",
+                "Tlaxco (Santiago Tlaxco)",
+                "Toxtla",
+                "Zacatepec",
+                "Zempoala"
+            ],
+            "Total de Localidades": 20
+        },
+        "Chietla": {
+            "Localidades": [
+                "Ahuehuetzingo",
+                "Atencingo",
+                "Buenavista De Benito Juarez",
+                "Chietla",
+                "Cofradia",
+                "Don Roque",
+                "Escape De Lagunillas",
+                "Ex-Hacienda De Jaltepec",
+                "La Palma (El Trinquete)",
+                "La Soledad",
+                "Lagunillas De Rayon (Alchichica)",
+                "Pueblo Nuevo De Porfirio Diaz",
+                "San Antonio Coayuca",
+                "San Isidro El Organal",
+                "San Isidro La Sabila",
+                "San Jose Chietla",
+                "San Jose Los Laureles",
+                "San Lucas Huajotitlan",
+                "San Miguel La Toma",
+                "San Miguel Tecolacio",
+                "San Nicolas Tenexcalco",
+                "Santa Cruz El Mirador",
+                "Temaxcalapa De Gabino Barreda",
+                "Tzompahuacan",
+                "Viborillas De Hidalgo"
+            ],
+            "Total de Localidades": 25
+        },
+        "Chigmecatitlán": {
+            "Localidades": [
+                "Chigmecatitlan"
+            ],
+            "Total de Localidades": 1
+        },
+        "Chignahuapan": {
+            "Localidades": [
+                "Acoculco (Alamedilla)",
+                "Acolihuia",
+                "Ajolotla",
+                "Atlamaxac",
+                "Buenos Aires (Presa San Francisco)",
+                "Ca?Ada De Piedras",
+                "Calapa",
+                "Capulaquito",
+                "Cienega Larga",
+                "Ciudad De Chignahuapan",
+                "Coacoyunga",
+                "Cruz Colorada",
+                "Cuautelolulco",
+                "Ejido De Atlamaxac (Estados Unidos)",
+                "El Eco",
+                "El Fresno",
+                "El Manzanito",
+                "El Paredon",
+                "El Reparo",
+                "El Sifon",
+                "El Tesmolar",
+                "General Rafael Avila Camacho (Teopan)",
+                "Ixtlahuaca (Palancingo)",
+                "Jonuco Pedernales",
+                "La Gloria (Segunda Seccion)",
+                "La Yerba",
+                "Las Mesas",
+                "Llano Grande (El Aserradero)",
+                "Llano Verde",
+                "Loma Alta",
+                "Los Reyes",
+                "Matlahuacala",
+                "Matlahuacales De Aquiles Serdan",
+                "Michac",
+                "Nacayolo",
+                "Ocojala",
+                "Ojo De Agua",
+                "Paxtla",
+                "Piedra Ancha",
+                "Potrerillos",
+                "Pueblo Nuevo (Pe?Uelas)",
+                "Rinconada",
+                "Rio Chico",
+                "San Antonio Matlahuacales",
+                "San Claudio",
+                "San Francisco Terrerillos",
+                "San Isidro Coliuca",
+                "San Jose Atzintlimeya",
+                "San Jose Corral Blanco",
+                "San Luis Del Valle",
+                "San Miguel Lastiri",
+                "Sebastopol",
+                "Tecoloquillo",
+                "Tecoyuca",
+                "Tenancingo",
+                "Tenextla",
+                "Teoconchila",
+                "Teotlalcingo",
+                "Toltempan",
+                "Tres Cabezas",
+                "Tzitla",
+                "Villa Cuauhtemoc",
+                "Zotoltepec"
+            ],
+            "Total de Localidades": 63
+        },
+        "Chignautla": {
+            "Localidades": [
+                "Analco",
+                "Chignautla",
+                "Coahuixco",
+                "Coatzala",
+                "Crutzitzin",
+                "El Encanto",
+                "Encino Rico",
+                "Huapaltepec (Zacatamanix)",
+                "La Aguardientera",
+                "Los Humeros",
+                "Los Parajes (Zompanateno)",
+                "San Isidro",
+                "Sosa",
+                "Talzintan",
+                "Tepepan",
+                "Tequimila",
+                "Tezohuatepec (Tezotepec)",
+                "Yopi"
+            ],
+            "Total de Localidades": 18
+        },
+        "Chila": {
+            "Localidades": [
+                "Chila",
+                "Estancia Blanca (Rancho La Estancia Blanca)",
+                "Francisco Ibarra Ramos",
+                "La Estancia Colorada",
+                "La Trinidad",
+                "Las Sidras",
+                "San Isidro",
+                "San Jose Chapultepec",
+                "Santa Ana Los Vazquez",
+                "Santa Cruz El Molino",
+                "Santiago La Pedrera"
+            ],
+            "Total de Localidades": 11
+        },
+        "Chila de la Sal": {
+            "Localidades": [
+                "Chila De La Sal",
+                "San Pedro Ocotlan"
+            ],
+            "Total de Localidades": 2
+        },
+        "Chilchotla": {
+            "Localidades": [
+                "Acocomotla",
+                "Alto Lucero",
+                "Cerro De Guadalupe (Molotla)",
+                "Cozalapa",
+                "El Carmen",
+                "Emiliano Zapata (San Isidro)",
+                "Francisco I. Madero",
+                "Ignacio Zaragoza",
+                "Ixtacapa",
+                "La Candelaria",
+                "La Luz",
+                "La Providencia",
+                "La Reforma",
+                "La Trinidad",
+                "Ocoxochitl",
+                "Rafael J. Garcia",
+                "San Antonio",
+                "San Jose Chicalotla",
+                "San Jose Manzanitos",
+                "San Juan Del Valle",
+                "San Miguel Calixitla (Miguel Hidalgo)",
+                "Santa Cruz La Joya",
+                "Teteltitla",
+                "Vicente Guerrero",
+                "Xaltepec"
+            ],
+            "Total de Localidades": 25
+        },
+        "Chinantla": {
+            "Localidades": [
+                "Amatepetlan",
+                "Buenavista (San Miguel)",
+                "Chinantla",
+                "Cuatecontla",
+                "Cuicatlan",
+                "Tehuixtla (San Francisco)"
+            ],
+            "Total de Localidades": 6
+        },
+        "Coatepec": {
+            "Localidades": [
+                "Coatepec"
+            ],
+            "Total de Localidades": 1
+        },
+        "Coatzingo": {
+            "Localidades": [
+                "Barro Azul",
+                "Coatzingo",
+                "San Vicente",
+                "Zaragoza"
+            ],
+            "Total de Localidades": 4
+        },
+        "Cohetzala": {
+            "Localidades": [
+                "El Platanar (San Jose El Platanar)",
+                "Santa Maria Cohetzala",
+                "Santa Monica"
+            ],
+            "Total de Localidades": 3
+        },
+        "Cohuecan": {
+            "Localidades": [
+                "Cohuecan",
+                "Los Reyes Teolco",
+                "San Andres Ahuatelco",
+                "San Felipe Cuapexco",
+                "San Francisco Tepango"
+            ],
+            "Total de Localidades": 5
+        },
+        "Coronango": {
+            "Localidades": [
+                "San Antonio Mihuacan",
+                "San Francisco Ocotlan",
+                "San Francisco Ocotlan (Ocotlan)",
+                "San Martin Zoquiapan",
+                "Santa Maria Coronango"
+            ],
+            "Total de Localidades": 5
+        },
+        "Coxcatlán": {
+            "Localidades": [
+                "Benito Juarez",
+                "Ca?Ada Del Zapote",
+                "Calipan",
+                "Calpuhuacan",
+                "Chichiltepec",
+                "Coxcatlan",
+                "Donato Bravo Izquierdo",
+                "Guadalupe Victoria (Pueblo Nuevo)",
+                "Ocotlamanic",
+                "Pala",
+                "Pala",
+                "Potrero",
+                "San Jose Tilapa",
+                "San Rafael",
+                "Tecoltepec",
+                "Tepeyoloc",
+                "Tequexpalco",
+                "Tres Ocotes",
+                "Vigastepec",
+                "Xacalco"
+            ],
+            "Total de Localidades": 20
+        },
+        "Coyomeapan": {
+            "Localidades": [
+                "Ahuatepec",
+                "Ahuatla",
+                "Atempa",
+                "Aticpac",
+                "Bella Vista",
+                "Caxalli",
+                "Chimalhuaca",
+                "Colonia Morelos",
+                "Cuarta Seccion",
+                "Cuitzala",
+                "Huilulco",
+                "Huitzilatl",
+                "Ixtacxochitla",
+                "Ixtlahuac",
+                "Loma Bonita",
+                "Matlahuacala",
+                "Mexcaltcorral",
+                "San Gabriel Vista Hermosa",
+                "San Juan Cuautla",
+                "San Marcos Tlaltlalkilotl",
+                "San Miguel",
+                "Santa Maria Coyomeapan",
+                "Segunda Seccion",
+                "Tecuantiopa",
+                "Tepepa De Zaragoza",
+                "Tepoxtla",
+                "Tequitlale",
+                "Tequixtepec De Juarez",
+                "Tlixco",
+                "Xaltilica",
+                "Xochiapa",
+                "Xochitlalpa",
+                "Xocotla",
+                "Xomapa",
+                "Yehualtepec",
+                "Yerba Santa",
+                "Yohuajca",
+                "Zayoyojca"
+            ],
+            "Total de Localidades": 38
+        },
+        "Coyotepec": {
+            "Localidades": [
+                "Nativitas Cuautempan",
+                "San Mateo Zoyamazalco",
+                "San Vicente Coyotepec"
+            ],
+            "Total de Localidades": 3
+        },
+        "Cuapiaxtla de Madero": {
+            "Localidades": [
+                "Cuapiaxtla De Madero",
+                "Lazaro Cardenas",
+                "Miguel Negrete"
+            ],
+            "Total de Localidades": 3
+        },
+        "Cuautempan": {
+            "Localidades": [
+                "Ahuatlan",
+                "Cerro Verde (Ejecatepeco)",
+                "Hueytentan",
+                "Ixtolco De Morelos",
+                "Papalotla",
+                "San Esteban Cuautempan",
+                "San Jose Rio Bravo",
+                "Tecapagco",
+                "Tenepanigia (Santa Elena)",
+                "Tepizila (Primera Seccion)",
+                "Texamanila",
+                "Tlapacholoya",
+                "Totocuautla",
+                "Totomoxtla",
+                "Vista Hermosa"
+            ],
+            "Total de Localidades": 15
+        },
+        "Cuautinchán": {
+            "Localidades": [
+                "Almoloya (San Jeronimo Almoloya)",
+                "Alpatlahuac (San Pedro Alpatlahuac)",
+                "Apapasco",
+                "Concepcion Pardi?As",
+                "Cuautinchan",
+                "Huexocalco",
+                "Jose Maria Morelos",
+                "Santa Cruz Alpuyeca",
+                "Torija (San Baltazar Torija)"
+            ],
+            "Total de Localidades": 9
+        },
+        "Cuautlancingo": {
+            "Localidades": [
+                "Barrio De Nuevo Leon",
+                "San Juan Cuautlancingo",
+                "San Lorenzo Almecatla",
+                "Sanctorum"
+            ],
+            "Total de Localidades": 4
+        },
+        "Cuayuca de Andrade": {
+            "Localidades": [
+                "Ca?Ada Chica",
+                "Cerro Gordo",
+                "Cuajilote",
+                "Debora Carrizal",
+                "El Mirador El Grande",
+                "El Naranjo",
+                "La Junta",
+                "La Providencia",
+                "La Vibora",
+                "Michapa",
+                "San Antonio Cuayuca",
+                "San Pedro Cuayuca",
+                "Santa Cruz Organal",
+                "Tlacotepec"
+            ],
+            "Total de Localidades": 14
+        },
+        "Cuetzalan del Progreso": {
+            "Localidades": [
+                "Acaxiloco",
+                "Alahuacapan",
+                "Atalpan",
+                "Atemolon",
+                "Atequiza",
+                "Atmolon",
+                "Ayotzinapan",
+                "Cacatecuauta",
+                "Cahuayogco",
+                "Calatepec",
+                "Caxaltepec",
+                "Cedral Atalpan",
+                "Cerro De Nectepec",
+                "Chichicazapan",
+                "Chicueyaco",
+                "Ciudad De Cuetzalan",
+                "Cohuatichan",
+                "Cozamalomila",
+                "Cuahutamanca",
+                "Cuamono",
+                "Cuatro Caminos",
+                "Cuauhtamazaco",
+                "Cuauhtapanaloyan",
+                "Cuetzaltepec",
+                "Cuichat",
+                "El Aguacate",
+                "Equimita",
+                "Ixtahuata",
+                "Kapola",
+                "La Galera",
+                "Las Hamacas",
+                "Limonco",
+                "Limontitan",
+                "Macuilacaco",
+                "Nahuiogpan",
+                "Nectepec",
+                "Olopioco",
+                "Pahpatapan",
+                "Pahuatahu",
+                "Pepexta",
+                "Pesmapan",
+                "Pilinchaco",
+                "Pinahuista",
+                "Quezapa",
+                "Reyeshogpan De Hidalgo (El Mirador)",
+                "Santa Cruz Tatempa",
+                "Santiago Yancuitlalpan",
+                "Tacopizacta",
+                "Tacuapan",
+                "Tajkuilol",
+                "Taltzintan",
+                "Tatahuictaltipan",
+                "Taxipehuatl",
+                "Tecazo",
+                "Tecolapa",
+                "Tecoltepec",
+                "Tecuahuta",
+                "Tenango",
+                "Tenanikan",
+                "Tencuix",
+                "Tenextepec",
+                "Tepango",
+                "Tepetitan Chico",
+                "Tepetitan Reyeshogpan De Hidalgo",
+                "Tepetitan Zacatipan",
+                "Tepetzalan",
+                "Tepetzalan De Miguel Hidalgo",
+                "Tepetzingo",
+                "Tepetzintan",
+                "Texochico",
+                "Tixapan",
+                "Tonalix",
+                "Tuzamapan Xiloxochico",
+                "Tzanatco",
+                "Tzicuilan",
+                "Tzinacapan",
+                "Tzojiaco",
+                "Tzoncomala",
+                "Vista Hermosa",
+                "Xalcuahuta",
+                "Xalpanat",
+                "Xalpantzingo",
+                "Xaltepec",
+                "Xalticpac",
+                "Xaltipan",
+                "Xaltzinta",
+                "Xilcuahuta",
+                "Xiliapan",
+                "Xiloxochico De Rafael Avila Camacho",
+                "Xiloxuchitl",
+                "Xochical",
+                "Xocota",
+                "Xocoyolo",
+                "Yohualichan",
+                "Zacatipan",
+                "Ziltepec",
+                "Zuapilaco"
+            ],
+            "Total de Localidades": 97
+        },
+        "Cuyoaco": {
+            "Localidades": [
+                "Allende (Colonia Ignacio Allende)",
+                "Buenavista Guerrero",
+                "Cuyoaco",
+                "El Calvario",
+                "El Valle",
+                "Emiliano Zapata (Chilapa)",
+                "Francisco I. Madero",
+                "Guadalupe Victoria",
+                "Independencia",
+                "La Gloria",
+                "La Trinidad Pochinto",
+                "Morelos",
+                "San Andres Payuca",
+                "San Miguel Barrientos",
+                "Santiago Xonacatlan",
+                "Temextla",
+                "Texcal"
+            ],
+            "Total de Localidades": 17
+        },
+        "Domingo Arenas": {
+            "Localidades": [
+                "Domingo Arenas",
+                "La Puerta"
+            ],
+            "Total de Localidades": 2
+        },
+        "Eloxochitlán": {
+            "Localidades": [
+                "Amatitla",
+                "Atexacapa",
+                "Atiocuabtitla",
+                "Atlalaquia",
+                "Atzitzicatla",
+                "Buena Vista",
+                "Ca?Ada Rica",
+                "Campo Nuevo Dos",
+                "Campo Nuevo Uno",
+                "Chiapa",
+                "Cuabtlajapa",
+                "El Crucero",
+                "El Mirador",
+                "El Tepeyac",
+                "Eloxochitlan",
+                "Itzcuintonalco",
+                "Laguna Seca",
+                "Loma Bonita",
+                "Macuiltepec",
+                "Ojo De Agua",
+                "Papaloapan",
+                "Rancho La Victoria",
+                "Tecamachalco",
+                "Tepepan",
+                "Tepeticpac",
+                "Tepetzala",
+                "Tetziquitla",
+                "Tlacotepetl",
+                "Tlalachialco",
+                "Tlazolapa",
+                "Tuxtla",
+                "Union Y Progreso",
+                "Xonotipan De Juarez",
+                "Zacacoapan"
+            ],
+            "Total de Localidades": 34
+        },
+        "Epatlán": {
+            "Localidades": [
+                "Emiliano Zapata",
+                "Las Tres Cruces",
+                "San Juan Epatlan",
+                "San Mateo Oxtotla",
+                "San Miguel El Pedregal",
+                "Santa Ana Necoxtla",
+                "Tepeacatzingo"
+            ],
+            "Total de Localidades": 7
+        },
+        "Esperanza": {
+            "Localidades": [
+                "Ahuatepec De La Presa (Ahuatepec)",
+                "Benito Juarez (Chicalote)",
+                "Boca Del Monte",
+                "Esperanza",
+                "Guadalupe Piletas (Puente Negro)",
+                "Guadalupe Potreros",
+                "Majada Rayo",
+                "Otilio Monta?O",
+                "San Antonio De Abajo",
+                "San Jose Cuyachapa",
+                "San Jose Esperanza",
+                "San Manuel La Puerta",
+                "Santa Catarina Los Reyes"
+            ],
+            "Total de Localidades": 13
+        },
+        "Francisco Z. Mena": {
+            "Localidades": [
+                "Agua Salada",
+                "Benito Juarez",
+                "Buenavista (Cerro Del Tablon)",
+                "Cerco De Piedra",
+                "Coyolito (El Coyol)",
+                "El Cerro Altamirano",
+                "El Laberinto",
+                "El Ojital",
+                "El Serranito (El Llano)",
+                "El Tecomate",
+                "Huitzilac",
+                "Jaltocan",
+                "La Ceiba",
+                "La Esperanza",
+                "La Guadalupe",
+                "La Maquina",
+                "La Mina",
+                "La Pahua",
+                "Las Balsas",
+                "Los Naranjos",
+                "Los Planes",
+                "Metlaltoyuca",
+                "Moctezuma (Guayabal)",
+                "Palma Real De Adentro",
+                "Paso Del Arroyo",
+                "Plan De Arroyo",
+                "Rio Verde",
+                "Salsipuedes",
+                "Tixtepec"
+            ],
+            "Total de Localidades": 29
+        },
+        "General Felipe Ángeles": {
+            "Localidades": [
+                "Candelaria Portezuelo",
+                "Guadalupe Analco",
+                "San Antonio Portezuelo",
+                "San Jose Buenavista",
+                "San Pablo De Las Tunas",
+                "San Pedro Candelaria",
+                "Santa Ursula Chiconquiac",
+                "Santiago Tenango"
+            ],
+            "Total de Localidades": 8
+        },
+        "Guadalupe": {
+            "Localidades": [
+                "Colonia Las Flores",
+                "El Limon (San Miguel)",
+                "El Mirador (Santa Cruz)",
+                "Guadalupe",
+                "Guadalupito",
+                "La Angostura (San Miguel)",
+                "La Providencia",
+                "Mixquitepec",
+                "San Antonio Chiltepec",
+                "San Isidro Jehuital",
+                "Vista Hermosa"
+            ],
+            "Total de Localidades": 11
+        },
+        "Guadalupe Victoria": {
+            "Localidades": [
+                "Canoitas (San Antonio Canoitas)",
+                "Carmen Serdan",
+                "El Progreso",
+                "Guadalupe Buenavista (El Tecolote)",
+                "Guadalupe Victoria",
+                "Hacienda Nueva (San Pedro El Aguila)",
+                "Maravillas",
+                "Quechulac (Santa Cruz)",
+                "San Juan La Muralla",
+                "San Luis Atexcac",
+                "San Rafael"
+            ],
+            "Total de Localidades": 11
+        },
+        "Hermenegildo Galeana": {
+            "Localidades": [
+                "Agua Zarca",
+                "Bienvenido",
+                "Cacatzala",
+                "Calpuhuan",
+                "Caxtiyu",
+                "Coyay",
+                "Coyoy",
+                "Cuanixtepec",
+                "El Plan",
+                "El Zecna",
+                "Francisco Osorno",
+                "Ignacio Ramirez",
+                "La China",
+                "La Fabrica",
+                "La Pila",
+                "Lacanuy",
+                "San Antonio Cuanixtepec",
+                "San Antonio Hermenegildo Galeana",
+                "Tampatapo"
+            ],
+            "Total de Localidades": 19
+        },
+        "Honey": {
+            "Localidades": [
+                "Amapoloa",
+                "Buena Vista",
+                "Chila De Juarez",
+                "El Manzano",
+                "Honey",
+                "Huehuetlilla",
+                "La Cumbre Del Manzano",
+                "La Magdalena",
+                "Rincon De Chila",
+                "Tonalixco",
+                "Vista Hermosa"
+            ],
+            "Total de Localidades": 11
+        },
+        "Huaquechula": {
+            "Localidades": [
+                "Ahuatlan",
+                "Cacaloxuchitl",
+                "Champusco (Esc.Secundaria Tecnica Numero 4)",
+                "El Progreso",
+                "Huaquechula",
+                "Huejotal (Santiago Huejotal)",
+                "La Libertad (San Lorenzo Tajonar)",
+                "La Venta",
+                "Martir Cuauhtemoc (San Jose Cuauhtemoc)",
+                "Morelos Matlala",
+                "Rancho Nuevo Michapita (Michapita)",
+                "San Antonio Cuautla",
+                "San Diego El Organal",
+                "San Juan Bautista",
+                "San Juan Huiluco (Huiluco)",
+                "San Juan Vallarta",
+                "San Lucas Matlala",
+                "San Pedro Contla",
+                "Santa Ana Coatepec",
+                "Santa Cruz Yancuitlalpan",
+                "Santiago Tetla",
+                "Soledad Morelos",
+                "Soto Y Gama",
+                "Teacalco De Dorantes (San Jose Teacalco)",
+                "Tezonteopan De Bonilla",
+                "Tlapetlahuaya (San Bartolo Tlapetlahuaya)",
+                "Tronconal"
+            ],
+            "Total de Localidades": 27
+        },
+        "Huatlatlauca": {
+            "Localidades": [
+                "Ahuatempan (San Lucas Ahuatempan)",
+                "Alvaro Obregon (Barranca San Miguel)",
+                "Alvaro Obregon Ejido",
+                "Chimala",
+                "Copalcotitla",
+                "Emiliano Zapata",
+                "Huatlatlahuca",
+                "Huatlatlauca",
+                "Quetzalapa (San Baltazar Quetzalapa)",
+                "San Miguel Cosahuatla",
+                "San Nicolas Atlalpan",
+                "San Pablo Zoyatitlanapan",
+                "Santa Maria Coacuacan",
+                "Santo Tomas Atlixilihuian",
+                "Tempexquixtla",
+                "Tepanacitla (Guadalupe Tepanacitla)",
+                "Tepetzitzintla",
+                "Tochmatzintla"
+            ],
+            "Total de Localidades": 18
+        },
+        "Huauchinango": {
+            "Localidades": [
+                "Ahuacatlan",
+                "Alseseca",
+                "Ayohuixcuautla",
+                "Chicuase",
+                "Colonia Pemex (Hueyatlagco)",
+                "Cuacuila",
+                "Cuahueyatla",
+                "Cuautlita",
+                "Cuauxinca",
+                "Cuaxicala",
+                "El Mirador",
+                "El Paraiso",
+                "Huauchinango",
+                "Huilacapixtla",
+                "Ixhuacatla",
+                "Las Colonias De Hidalgo",
+                "Los Capulines",
+                "Los Tiradores",
+                "Matlaluca",
+                "Mesa De Capulines",
+                "Michiuca",
+                "Nopala",
+                "Ocpaco",
+                "Ozomatlan",
+                "Papatlatla",
+                "Papatlazolco",
+                "Patoltecoya",
+                "Puga",
+                "San Miguel Acuautla",
+                "Santiago",
+                "Santiago (Buena Vista)",
+                "Tenango De Las Flores",
+                "Tenohuatlan",
+                "Teopancingo",
+                "Tepehuaquila",
+                "Tepetzintla De Galeana",
+                "Tlachichila (Tecoxtenco)",
+                "Tlacomulco",
+                "Tlalcoyunga",
+                "Tlalmaya",
+                "Totolapa (El Sifon)",
+                "Tzahuinco",
+                "Venta Grande",
+                "Xaltepec",
+                "Xilocuautla",
+                "Xopanapa"
+            ],
+            "Total de Localidades": 46
+        },
+        "Huehuetla": {
+            "Localidades": [
+                "Chilocoyo Del Carmen",
+                "Cinco De Mayo",
+                "Francisco I. Madero",
+                "Huehuetla",
+                "Kuwik Chuchut",
+                "Leacaman",
+                "Lipuntahuaca",
+                "Ozelonacaxtla",
+                "Putaxcat",
+                "Putlunichuchut (Vista Hermosa)",
+                "Xonalpu"
+            ],
+            "Total de Localidades": 11
+        },
+        "Huehuetlán el Chico": {
+            "Localidades": [
+                "Ayoxuxtla (Ayoxuxtla De Zapata)",
+                "Huehuetlan El Chico",
+                "La Palma",
+                "San Miguel El Terrero",
+                "Tzicatlan"
+            ],
+            "Total de Localidades": 5
+        },
+        "Huehuetlán el Grande": {
+            "Localidades": [
+                "Analco",
+                "Colonia Agricola Hidalgo",
+                "Ixtlahuacan",
+                "San Agustin Ahuehuetla",
+                "San Antonio Coatepec (Tierra Blanca)",
+                "San Juan Coatetelco",
+                "San Martin Atempan",
+                "San Miguel Atlapulco",
+                "San Nicolas Huajuapan",
+                "San Pedro Ajalpan",
+                "Santa Ana Otzolotepec",
+                "Santo Domingo Huehuetlan"
+            ],
+            "Total de Localidades": 12
+        },
+        "Huejotzingo": {
+            "Localidades": [
+                "Alvaro Obregon",
+                "Benito Juarez",
+                "El Carmen",
+                "Gustavo Diaz Ordaz (La Cuenca)",
+                "Huejotzingo",
+                "Jose Lopez Portillo",
+                "San Diego Buenavista",
+                "San Juan Pancoac",
+                "San Luis Coyotzingo",
+                "San Mateo Capultitlan",
+                "San Miguel Tianguizolco",
+                "Santa Ana Xalmimilulco",
+                "Santa Elena",
+                "Santa Maria Atexcac",
+                "Santa Maria Nepopualco",
+                "Santa Maria Tianguistenco",
+                "Santo Domingo Cienega Honda"
+            ],
+            "Total de Localidades": 17
+        },
+        "Hueyapan": {
+            "Localidades": [
+                "Ahuatepec",
+                "Atmoloni",
+                "Buenavista",
+                "Colostitan",
+                "Gardenias",
+                "Hueyapan",
+                "La Aurora",
+                "Maloapan",
+                "Nexpan",
+                "Paso Real",
+                "Talzintan",
+                "Tanamacoyan",
+                "Tepetitanapan",
+                "Tetelilla"
+            ],
+            "Total de Localidades": 14
+        },
+        "Hueytamalco": {
+            "Localidades": [
+                "Amatetel",
+                "Arroyo Blanco",
+                "Atehuetzin",
+                "Atepetaco",
+                "Ayahualo",
+                "Coapal Grande",
+                "Colonia Del Valle",
+                "Colonia La Virgen",
+                "Colonia Morelos",
+                "Conta",
+                "Dos Cerros",
+                "Dos Rios Nuevo",
+                "Ejido Hueytamalco",
+                "El Anayal",
+                "El Mangal",
+                "El Mirador (Mirador Tenexapa)",
+                "El Mohon",
+                "El Progreso",
+                "El Pueblillo",
+                "Hueytamalco",
+                "Hueytamalco (Papaloapan)",
+                "Jabalinco",
+                "La Esmeralda",
+                "La Esperanza (Limonateno Chico)",
+                "La Linea",
+                "La Soledad",
+                "Las Margaritas",
+                "Limonateno (Limonateno Grande)",
+                "Limontitan Chico",
+                "Limontitan Grande",
+                "Llagostera",
+                "Loma Alta",
+                "Loma Bonita",
+                "Manlio Fabio Altamirano",
+                "Mazolapa",
+                "Mecatepetl",
+                "Montecelli",
+                "Palmagtitan",
+                "Paxta",
+                "Pezmaco",
+                "Puente De Palo",
+                "Rancho Viejo",
+                "San Angel Cuauxocota",
+                "San Antonio Del Sol",
+                "San Carlos",
+                "San Ignacio (San Ignacio Del Progreso)",
+                "San Lucas",
+                "San Luis",
+                "San Martin",
+                "Santa Fe",
+                "Solorzano",
+                "Tacotalpa",
+                "Tacuba",
+                "Tenexapa De Azueta",
+                "Tenexate (Ejido Tenexate)",
+                "Tepactipan",
+                "Tepozoteco",
+                "Teteyahualco",
+                "Tilapa",
+                "Tlacuilolapa",
+                "Tonalmeyoco",
+                "Vega Chica",
+                "Vega De Montecelli (El Aguilar)",
+                "Vista Hermosa",
+                "Xalteno",
+                "Xoyoquila",
+                "Zanzontla",
+                "Zompanico",
+                "Zompaquisoyan (Colihui)"
+            ],
+            "Total de Localidades": 69
+        },
+        "Hueytlalpan": {
+            "Localidades": [
+                "Cajalan",
+                "Chililix",
+                "El Arenal",
+                "El Crucero",
+                "El Cuyo",
+                "Hueytlalpan",
+                "La Cruz De Chaca",
+                "La Esperanza",
+                "La Palma",
+                "La Tranca",
+                "Pomaxhca",
+                "Skansipi",
+                "Zitlala"
+            ],
+            "Total de Localidades": 13
+        },
+        "Huitzilan de Serdán": {
+            "Localidades": [
+                "Acuitapilco",
+                "Chagchaloyan De Isidro Burgos",
+                "Chagchaloyan De Zapata",
+                "El Paraiso",
+                "Huitzilan",
+                "Pezmata (Papalocontitlan)",
+                "Pilactitan",
+                "Quinta Seccion",
+                "San Antonio Taltzintan",
+                "San Jose Aocotzota",
+                "San Miguel Acateno",
+                "San Miguel Del Progreso",
+                "Segunda Seccion",
+                "Tepetalzinta",
+                "Tepetzintla",
+                "Tlacaloco",
+                "Totutla",
+                "Xinachapan De Allende",
+                "Zoyotla"
+            ],
+            "Total de Localidades": 19
+        },
+        "Huitziltepec": {
+            "Localidades": [
+                "Dolores Hidalgo",
+                "Santa Ana Coapan",
+                "Santa Clara Huitziltepec"
+            ],
+            "Total de Localidades": 3
+        },
+        "Ixcamilpa de Guerrero": {
+            "Localidades": [
+                "Buenavista De Zapata",
+                "Cuatlaxtecoma",
+                "El Organal",
+                "Ixcamilpa",
+                "Linderos Del Sur",
+                "San Miguel Ahuelitlalpan",
+                "Tlanipatla",
+                "Toltecamila"
+            ],
+            "Total de Localidades": 8
+        },
+        "Ixcaquixtla": {
+            "Localidades": [
+                "Barrio De Dolores",
+                "Cuatro Rayas",
+                "La Soledad",
+                "Pixtiopan",
+                "San Juan Ixcaquixtla",
+                "San Juan Nepomuceno (Rancho Chico)",
+                "Santa Cecilia Clavijero"
+            ],
+            "Total de Localidades": 7
+        },
+        "Ixtacamaxtitlán": {
+            "Localidades": [
+                "Acayucan",
+                "Acoculco (Alcaparra)",
+                "Ahuateno",
+                "Almeya",
+                "Almonamique",
+                "Analco (Chancuagco)",
+                "Atexquilla Cuapazola",
+                "Bordo Blanco",
+                "Calpaneria Atezquilla",
+                "Capolictic",
+                "Capuluapan De Las Aguas",
+                "Chaucingo Atezquilla",
+                "Chaucingo Tiloxtoc",
+                "Chipilo (Cuatexmola)",
+                "Cristalaco",
+                "Cruz De Leon",
+                "Cruz De Ocote",
+                "Cuahuigtic",
+                "Cuatexmola (Xonacatitla)",
+                "Cuatro Caminos",
+                "Cuxac (San Antonio)",
+                "El Capulin Ocojala",
+                "El Cerro",
+                "El Encanto",
+                "El Mirador",
+                "El Paredon",
+                "El Sabinal (San Pedro)",
+                "Guadalupe",
+                "Guadalupe Victoria",
+                "Huixcolotla",
+                "Iliyucan",
+                "Ixtacamaxtitlan",
+                "La Fabrica",
+                "La Mesa",
+                "La Union Ejido Mexcaltepec",
+                "La Vega",
+                "Lagunilla Pedernales",
+                "Las Barrancas",
+                "Loma Larga",
+                "Los Potrerillos",
+                "Mexcaltepec",
+                "Minatitlan",
+                "Minillas",
+                "Minillas (La Garita)",
+                "Nacayolo",
+                "Ocotitlan",
+                "Ocotla",
+                "Oyametepec",
+                "Plan De Guadalupe",
+                "Plan De La Flor",
+                "Ranchitos",
+                "Rancho Viejo",
+                "San Antonio",
+                "San Antonio De Los Pinos",
+                "San Jose Providencia",
+                "Santa Maria Zotoltepec",
+                "Tagcotepec",
+                "Tatempango",
+                "Tateno",
+                "Tateno Xoco",
+                "Tatoxcac",
+                "Tecoltemic",
+                "Tenamigtic",
+                "Tenextepecuaco",
+                "Tentzoncuahuigtic",
+                "Tepecuahuixco (El Llanete)",
+                "Tepexoxuca",
+                "Texocotla",
+                "Texocuictic",
+                "Texocuixpan",
+                "Tiloxtoc",
+                "Tlacuela",
+                "Tlajomulco",
+                "Tlalmotolo",
+                "Tlanana (Atecoxco)",
+                "Tlaxcalancingo",
+                "Tonalapa",
+                "Tuligtic (San Miguel)",
+                "Vista Hermosa De Lazaro Cardenas",
+                "Vista Hermosa De Morelos",
+                "Xalcomulco",
+                "Xiuquenta",
+                "Xocoxiutla",
+                "Xonacatla",
+                "Xopanac",
+                "Zacatepec",
+                "Zaragoza"
+            ],
+            "Total de Localidades": 87
+        },
+        "Ixtepec": {
+            "Localidades": [
+                "Cajinanin (San Rafael)",
+                "Caxtamusin",
+                "Escatachuchut",
+                "Ixtepec",
+                "Patiy",
+                "San Martin",
+                "Takaltzaps"
+            ],
+            "Total de Localidades": 7
+        },
+        "Izúcar de Matamoros": {
+            "Localidades": [
+                "Abelardo L. Rodriguez",
+                "Agua Escondida (Santa Cruz Agua Escondida)",
+                "Amatitlanes",
+                "Ayutla (San Felipe Ayutla)",
+                "El Aguacate",
+                "El Calvario",
+                "El Carmen",
+                "Guadalupe Las Chichihuas",
+                "Huaxtepec",
+                "Izucar De Matamoros",
+                "Jaltianguis (San Jose Jaltianguis)",
+                "La Galarza",
+                "La Soledad Pizotla",
+                "Las Casitas",
+                "Las Piletas",
+                "Lomas De Alchichica",
+                "Los Amates",
+                "Los Limones",
+                "Matzaco",
+                "Mexquitepec",
+                "San Antonio Las Iguanas",
+                "San Carlos Buenavista",
+                "San Francisco (San Francisco Rancho Nuevo)",
+                "San Isidro",
+                "San Jose Las Bocas",
+                "San Juan Colon",
+                "San Juan Raboso",
+                "San Lucas Colucan",
+                "San Manuel La Parota",
+                "San Martin La Flor (La Flor Colorada)",
+                "San Miguel Las Minas",
+                "San Pedro Calantla",
+                "San Rafael",
+                "San Sebastian Puctla",
+                "Santa Maria Xuchapa",
+                "Vista Hermosa"
+            ],
+            "Total de Localidades": 36
+        },
+        "Jalpan": {
+            "Localidades": [
+                "Acoyotitla",
+                "Agua Hedionda",
+                "Agua Linda",
+                "Apapantilla",
+                "Benito Juarez",
+                "Cuatro Hermanas",
+                "Ejido Apapantilla",
+                "Ejido De Jalpan (La Zona)",
+                "Ejido Munixkan",
+                "El Manantial",
+                "El Paraiso (La Mesa)",
+                "El Pi?Al",
+                "El Pochote",
+                "El Retiro",
+                "Emiliano Zapata",
+                "Guadalupe Victoria",
+                "Jalpan",
+                "La Cuchilla",
+                "La Garza",
+                "La Gloria",
+                "La Pimientilla",
+                "La Reforma",
+                "Linda Vista",
+                "Los Pinos (Emiliano Zapata)",
+                "Nuevo Chalma",
+                "Nuevo Jerusalen",
+                "Nuevo Zoquiapan",
+                "Panhuatlan",
+                "Piedras Negras",
+                "Pozo Del Tigre",
+                "Pueblo America",
+                "Santa Maria",
+                "Techalotla",
+                "Tenanguito",
+                "Vista Hermosa",
+                "Zoquiapan"
+            ],
+            "Total de Localidades": 36
+        },
+        "Jolalpan": {
+            "Localidades": [
+                "Azoquitempan",
+                "El Salado",
+                "Huachinantla",
+                "Jolalpan",
+                "La Nopalera",
+                "Las Pilas",
+                "San Vicente",
+                "Santiago Mitepec",
+                "Tehuictzingo (Tlacotitla)",
+                "Teotlalcingo",
+                "Tepemexquitla",
+                "Teutla",
+                "Xochitepec",
+                "Zacacuautla"
+            ],
+            "Total de Localidades": 14
+        },
+        "Jonotla": {
+            "Localidades": [
+                "Buena Vista",
+                "Colonia Tiburcio Juarez",
+                "Ecatlan (Santiago Ecatlan)",
+                "El Tozan",
+                "Jonotla",
+                "Paso Del Jardin",
+                "San Antonio Rayon",
+                "Tecpantzingo",
+                "Tepetitlan",
+                "Tepetzinat",
+                "Xiloxochit"
+            ],
+            "Total de Localidades": 11
+        },
+        "Jopala": {
+            "Localidades": [
+                "Arroyo Hondo",
+                "Buenos Aires",
+                "Chicontla",
+                "Cuamaxalco",
+                "El Encinal",
+                "Izquimpan",
+                "Jopala",
+                "Patla",
+                "Rancho Nuevo",
+                "San Martin",
+                "San Pedro Tlaolantongo",
+                "Tecuantla (Los Reyes)",
+                "Zataxcahuatl"
+            ],
+            "Total de Localidades": 13
+        },
+        "Juan C. Bonilla": {
+            "Localidades": [
+                "Cuanala",
+                "Santa Maria Zacatepec"
+            ],
+            "Total de Localidades": 2
+        },
+        "Juan Galindo": {
+            "Localidades": [
+                "Dos Caminos",
+                "Necaxaltepetl",
+                "Nuevo Necaxa"
+            ],
+            "Total de Localidades": 3
+        },
+        "Juan N. Méndez": {
+            "Localidades": [
+                "Animas Guadalupe",
+                "Atenayuca",
+                "Colonia Miguel Hidalgo",
+                "Guadalupe Victoria",
+                "Magdalena Alquizapan",
+                "San Jeronimo Zoyatitlanapan",
+                "Zamarrilla De Alvaro Obregon"
+            ],
+            "Total de Localidades": 7
+        },
+        "La Magdalena Tlatlauquitepec": {
+            "Localidades": [
+                "La Magdalena Tlatlauquitepec"
+            ],
+            "Total de Localidades": 1
+        },
+        "Lafragua": {
+            "Localidades": [
+                "Agua De La Mina",
+                "Cuauhtemoc",
+                "Francisco I. Madero (El Sabinal)",
+                "Gonzalez Ortega",
+                "La Ermita",
+                "Las Trancas (Santa Cruz)",
+                "Loma Bonita (Santa Cruz)",
+                "Los Capulines",
+                "Pocitos (San Miguel)",
+                "Saltillo",
+                "San Isidro",
+                "Tlanalapan",
+                "Vista Hermosa"
+            ],
+            "Total de Localidades": 13
+        },
+        "Libres": {
+            "Localidades": [
+                "Ahuateno",
+                "Alvaro Obregon (San Francisco)",
+                "Ayehualaco (San Martin)",
+                "Bella Vista",
+                "Ciudad De Libres",
+                "Cuauhtzolco",
+                "Guadalupe Victoria",
+                "La Ca?Ada",
+                "La Noria",
+                "La Noria Gonzalez Covarrubias",
+                "Las Chapas",
+                "Loma Bella",
+                "Nuevo Mexico (El Sabinal)",
+                "Pedernales",
+                "Progreso",
+                "Rancho Viejo",
+                "San Carlos",
+                "San Isidro",
+                "San Jeronimo Palmaritos",
+                "San Jose La Libertad",
+                "San Jose Morelos",
+                "San Juan",
+                "San Martin",
+                "San Pedro",
+                "Tehuatzingo",
+                "Teoloyucan",
+                "Timimilco"
+            ],
+            "Total de Localidades": 27
+        },
+        "Los Reyes de Juárez": {
+            "Localidades": [
+                "Benito Juarez",
+                "Buenavista De Juarez",
+                "La Concordia",
+                "Los Reyes De Juarez",
+                "San Juan Acozac"
+            ],
+            "Total de Localidades": 5
+        },
+        "Mazapiltepec de Juárez": {
+            "Localidades": [
+                "Estacion De Rinconada",
+                "Mazapiltepec De Juarez",
+                "San Luis Sesma",
+                "San Martin Rinconada"
+            ],
+            "Total de Localidades": 4
+        },
+        "Mixtla": {
+            "Localidades": [
+                "San Francisco Mixtla",
+                "San Simon Coatepec"
+            ],
+            "Total de Localidades": 2
+        },
+        "Molcaxac": {
+            "Localidades": [
+                "Molcaxac",
+                "San Andres Mimiahuapan",
+                "San Jose De Gracia",
+                "San Luis Tehuizotla",
+                "Santa Cruz Huitziltepec"
+            ],
+            "Total de Localidades": 5
+        },
+        "Naupan": {
+            "Localidades": [
+                "Achiautla (Xiagtla)",
+                "Alambique",
+                "Chachahuantla",
+                "Copila",
+                "Cozolapa",
+                "Cuahuihuitzotitla",
+                "Cueyatla",
+                "Iczotitla",
+                "Metztla Abajo",
+                "Naupan",
+                "Tenextitla",
+                "Teopanzolco",
+                "Tlaxpanaloya"
+            ],
+            "Total de Localidades": 13
+        },
+        "Nauzontla": {
+            "Localidades": [
+                "Cuahutapehual De Benito Juarez",
+                "La Union",
+                "Nauzontla",
+                "San Rafael Axolota",
+                "Santa Lucia Atioyan",
+                "Tepanyehual"
+            ],
+            "Total de Localidades": 6
+        },
+        "Nealtican": {
+            "Localidades": [
+                "San Buenaventura Nealtican"
+            ],
+            "Total de Localidades": 1
+        },
+        "Nicolás Bravo": {
+            "Localidades": [
+                "Azumbilla",
+                "Azumbilla",
+                "Barrio De La Luz",
+                "Huajotzingo",
+                "Loma De Los Camotes",
+                "Los Tabacos",
+                "Nicolas Bravo",
+                "San Isidro Ahuatlampa",
+                "Santa Ana"
+            ],
+            "Total de Localidades": 9
+        },
+        "Nopalucan": {
+            "Localidades": [
+                "El Rincon Citlaltepetl",
+                "Erendira",
+                "Juan De La Granja",
+                "Manuel Avila Camacho (La Cima)",
+                "Nopalucan De La Granja",
+                "San Antonio Tamariz",
+                "San Jose Ovando",
+                "San Juan Sosa",
+                "Santa Cruz Del Bosque",
+                "Santa Maria Ixtiyucan"
+            ],
+            "Total de Localidades": 10
+        },
+        "Ocotepec": {
+            "Localidades": [
+                "Buenos Aires",
+                "El Mirador (San Francisco)",
+                "El Progreso",
+                "Guadalupe Victoria",
+                "Loma Larga (Oyametita)",
+                "Ocotepec",
+                "San Nicolas Contla",
+                "Taxtitlan (San Pedro)",
+                "Tezoquiticpac",
+                "Xochitonal"
+            ],
+            "Total de Localidades": 10
+        },
+        "Ocoyucan": {
+            "Localidades": [
+                "Chalchihuapan",
+                "Emilio Portes Gil",
+                "Francisco Sarabia",
+                "La Pastoria",
+                "San Bernabe Temoxtitla",
+                "San Bernardino Chalchihuapan",
+                "San Hipolito Achiapa",
+                "San Isidro Petlacatl",
+                "Santa Clara Ocoyucan",
+                "Santa Clara Ocoyucan",
+                "Santa Cruz Hidalgo (Santa Martha Hidalgo)",
+                "Santa Maria Malacatepec",
+                "Santa Martha Hidalgo",
+                "Santiago Coltzingo"
+            ],
+            "Total de Localidades": 14
+        },
+        "Olintla": {
+            "Localidades": [
+                "Bibiano Hernandez",
+                "Caztin",
+                "Chipahuatlan",
+                "Dimas Lopez",
+                "Ignacio Zaragoza",
+                "Lacapan Camallagne",
+                "Lkuyum Chuchut",
+                "Lugua",
+                "Mocot",
+                "Olintla",
+                "Pasuanca",
+                "Santa Barbara",
+                "Santa Catarina",
+                "Scontaman",
+                "Vicente Guerrero",
+                "Xpiyut"
+            ],
+            "Total de Localidades": 16
+        },
+        "Oriental": {
+            "Localidades": [
+                "Jesus Carranza",
+                "La Coco",
+                "La Fortuna",
+                "Miravalles",
+                "Oriental",
+                "San Antonio Virreyes",
+                "San Antonio Virreyes",
+                "San Jose Zacatepec",
+                "Santa Cruz Magdalena"
+            ],
+            "Total de Localidades": 9
+        },
+        "Pahuatlán": {
+            "Localidades": [
+                "Acahuales (El Aguacate)",
+                "Acalapa",
+                "Agua Del Carrizo",
+                "Ahila",
+                "Ahuacatitla",
+                "Almoloya",
+                "Atla",
+                "Atlantongo",
+                "Chipotla",
+                "Ciudad De Pahuatlan De Valle",
+                "Cuauneutla De La Paz",
+                "Lindavista",
+                "Los Angeles",
+                "Mamiquetla",
+                "Montellano",
+                "Naranjastitla",
+                "Paciotla",
+                "San Pablito",
+                "Tlalcruz De Libres",
+                "Xilepa",
+                "Xochimilco",
+                "Xolotla",
+                "Zacapehuaya",
+                "Zoyatla De Guerrero"
+            ],
+            "Total de Localidades": 24
+        },
+        "Palmar de Bravo": {
+            "Localidades": [
+                "Amozoquillo Piletas",
+                "Bellavista De Victoria (San Jose Bellavista)",
+                "Contreras",
+                "Cuacnopalan",
+                "Cuesta Blanca",
+                "Cuesta Chica Piletas",
+                "Encrucijada Primera Seccion",
+                "Guadalupe Piletas",
+                "La Purisima",
+                "Loma Bella (Loma Del Pato)",
+                "Los Reyes Altamira",
+                "Palmar De Bravo",
+                "Rancho De Vera",
+                "Rancho Verde",
+                "San Francisco Piletas",
+                "San Isidro Monterrosas",
+                "San Miguel Xaltepec",
+                "Santa Cruz Monterrosas",
+                "Santa Cruz Ocotlan",
+                "Santa Isabel Sabinal",
+                "Tehuitzo",
+                "Trinidad El Arenal (La Nigua)"
+            ],
+            "Total de Localidades": 22
+        },
+        "Pantepec": {
+            "Localidades": [
+                "Agua Linda",
+                "Ameluca",
+                "Barrio Chico",
+                "Buena Vista",
+                "Ca?Ada De Colotla",
+                "Cayhuapan",
+                "Cebadillas",
+                "Ejido Agua Linda (Dos Arroyos)",
+                "Ejido Ca?Ada Colotla",
+                "Ejido Carrizal Viejo",
+                "Ejido Cerro Del Tablon",
+                "El Limonar",
+                "El Pacifico",
+                "El Pozo",
+                "El Terrero",
+                "El Zapotal",
+                "El Zapote",
+                "Ignacio Zaragoza",
+                "Ixtololoya",
+                "La Ceiba Chica",
+                "La Sabana",
+                "La Union",
+                "Las Palmas",
+                "Loma Bonita",
+                "Mecapalapa",
+                "Nuevo Carrizal",
+                "Nuevo Limonar",
+                "Pantepec",
+                "Progreso De Allende (Rancho Nuevo)",
+                "San Antonio",
+                "Tejeria",
+                "Tenexco"
+            ],
+            "Total de Localidades": 32
+        },
+        "Petlalcingo": {
+            "Localidades": [
+                "Barrio De Guadalupe Seccion Tercera",
+                "El Idolo",
+                "El Limon",
+                "El Rosario Micaltepec",
+                "Mezquital (Seccion Quinta El Mezquital)",
+                "Petlalcingo",
+                "Ranchito Providencia",
+                "San Antonio Tierra Colorada",
+                "San Isidro",
+                "San Jose Texcalapa",
+                "Santa Cruz (Barrio De Santa Cruz)",
+                "Santa Cruz De Bravo",
+                "Santa Gertrudis Salitrillo",
+                "Seccion Sexta Guadalupe",
+                "Tepejillo",
+                "Texcalapa De Juarez"
+            ],
+            "Total de Localidades": 16
+        },
+        "Piaxtla": {
+            "Localidades": [
+                "Atempa",
+                "Loma Bonita",
+                "Maninalcingo",
+                "Piaxtla",
+                "Piaxtla (Tercera Seccion)",
+                "Progreso",
+                "San Jose Tetla",
+                "Tecuautitlan",
+                "Tlaxcuapan",
+                "Yetla"
+            ],
+            "Total de Localidades": 10
+        },
+        "Puebla": {
+            "Localidades": [
+                "Agua Santa",
+                "Articulo Primero Constitucional",
+                "Buenavista Tetela",
+                "El Oasis Valsequillo",
+                "El Rosario La Huerta",
+                "Guadalupe",
+                "Guadalupe Tlatelpa",
+                "Guadalupe Victoria Valsequillo",
+                "Heroica Puebla De Zaragoza",
+                "La Libertad Tecola",
+                "La Paz Tlaxcolpan",
+                "La Resurreccion",
+                "Los Angeles Tetela",
+                "Resurgimiento Atotonilco",
+                "San Andres Azumiatla",
+                "San Baltazar Tetela",
+                "San Isidro Tlalcostepetl",
+                "San Jose El Aguacate",
+                "San Jose El Rincon",
+                "San Jose Xacxamayo",
+                "San Jose Zetina",
+                "San Miguel",
+                "San Miguel Canoa",
+                "San Miguel Espejo",
+                "San Miguelito",
+                "San Nicolas Coatepec",
+                "San Pedro Zacachimalpa",
+                "San Sebastian De Aparicio",
+                "Santa Catarina",
+                "Santa Catarina (Tercera Seccion)",
+                "Santa Cruz La Ixtla",
+                "Santa Cruz La Ixtla Sur",
+                "Santa Lucia Villa Altamirano",
+                "Santa Maria Guadalupe Tecola",
+                "Santa Maria Tzocuilac La Cantera",
+                "Santa Maria Xonacatepec",
+                "Santo Tomas Chautla"
+            ],
+            "Total de Localidades": 37
+        },
+        "Quecholac": {
+            "Localidades": [
+                "Francisco I. Madero",
+                "Guadalupe",
+                "Guadalupe Enriquez",
+                "La Compa?Ia",
+                "La Palma (Los Ladrillos)",
+                "La Zenaida (San Isidro)",
+                "Palmarito Tochapan",
+                "Progreso De Madero",
+                "Quecholac",
+                "San Bartolome Coscomaya",
+                "San Cayetano",
+                "San Jose Tuzuapan",
+                "San Simon De Bravo",
+                "Santa Catarina Villanueva"
+            ],
+            "Total de Localidades": 14
+        },
+        "Quimixtlán": {
+            "Localidades": [
+                "Ahuacaitic",
+                "Ahuacapan",
+                "Ahuatla",
+                "Alta Luz",
+                "Alto Lucero",
+                "Analco",
+                "Barrio De San Juan",
+                "Buenavista",
+                "Canoajapan (San Jose)",
+                "Chimalecan",
+                "Conhuitzila",
+                "Cruz Verde",
+                "Cuxapa",
+                "Duraznillo",
+                "El Carmen Petlahuacan",
+                "El Magueyal",
+                "El Mirador Guadalupano",
+                "El Triunfo",
+                "Guadalupe Camojapa",
+                "Jesus Maria Comalapa",
+                "La Concepcion (Ocoteni)",
+                "Limontitla",
+                "Magueyitos",
+                "Malacahuacan",
+                "Nexquexcan",
+                "Palma Sola",
+                "Patlanalan",
+                "Pe?A Blanca",
+                "Quiliayo",
+                "Quimixtlan",
+                "Rincon De Los Reyes",
+                "Rincon De Patlanalan",
+                "San Isidro Reynosa",
+                "San Juan Tlalpan",
+                "San Martin El Caballito",
+                "Santa Cruz Caballito",
+                "Teapa",
+                "Tepan De Los Rosales",
+                "Tepatzin",
+                "Tlahuitompa",
+                "Tlamoloaxtla",
+                "Tlanepantla",
+                "Tototzin",
+                "Tozihuic",
+                "Villa Hermosa (San Jose)",
+                "Villa Nueva",
+                "Xacaxomulco"
+            ],
+            "Total de Localidades": 47
+        },
+        "Rafael Lara Grajales": {
+            "Localidades": [
+                "Ciudad De Rafael Lara Grajales",
+                "Maximo Serdan"
+            ],
+            "Total de Localidades": 2
+        },
+        "San Andrés Cholula": {
+            "Localidades": [
+                "Cacalotepec",
+                "San Andres Cholula",
+                "San Antonio Cacalotepec",
+                "San Bernardino Tlaxcalancingo",
+                "San Luis Tehuiloyocan",
+                "San Pedro Tonantzintla",
+                "San Rafael Comac",
+                "Tlaxcalancingo",
+                "Tonantzintla",
+                "Tonantzintla (Santa Maria Tonantzintla)"
+            ],
+            "Total de Localidades": 10
+        },
+        "San Antonio Cañada": {
+            "Localidades": [
+                "Colonia Cuitlaxtepec",
+                "Colonia La Lobera",
+                "San Antonio Ca?Ada",
+                "San Esteban Necoxcalco",
+                "Tlachichilco"
+            ],
+            "Total de Localidades": 5
+        },
+        "San Diego la Mesa Tochimiltzingo": {
+            "Localidades": [
+                "Guadalupe Amolocayan",
+                "La Soledad Tepehuaxtitla",
+                "San Bartolome Chimalhuacan",
+                "Tochimiltzingo"
+            ],
+            "Total de Localidades": 4
+        },
+        "San Felipe Teotlalcingo": {
+            "Localidades": [
+                "San Felipe Teotlalcingo",
+                "San Juan Tlale",
+                "San Matias Atzala"
+            ],
+            "Total de Localidades": 3
+        },
+        "San Felipe Tepatlán": {
+            "Localidades": [
+                "Africa",
+                "Altica",
+                "Calapana",
+                "Jojupango (San Miguel Jojupango)",
+                "La Guadalupana",
+                "Pachoc",
+                "San Felipe Tepatlan",
+                "San Martin Del Progreso (La Punta)",
+                "Xochicugtla",
+                "Xochimilco"
+            ],
+            "Total de Localidades": 10
+        },
+        "San Gabriel Chilac": {
+            "Localidades": [
+                "San Gabriel Chilac",
+                "San Juan Atzingo",
+                "Vista Hermosa"
+            ],
+            "Total de Localidades": 3
+        },
+        "San Gregorio Atzompa": {
+            "Localidades": [
+                "Chipilo De Francisco Javier Mina (Chipilo)",
+                "San Gregorio Atzompa"
+            ],
+            "Total de Localidades": 2
+        },
+        "San Jerónimo Tecuanipan": {
+            "Localidades": [
+                "Los Reyes Tlanechicolpan",
+                "San Jeronimo Tecuanipan",
+                "San Miguel Papaxtla"
+            ],
+            "Total de Localidades": 3
+        },
+        "San Jerónimo Xayacatlán": {
+            "Localidades": [
+                "Barranca Salada",
+                "El Carrizal",
+                "El Cuajilote",
+                "Gabino Barreda",
+                "San Jeronimo Xayacatlan",
+                "San Pedro",
+                "Santo Domingo Tonahuixtla",
+                "Seccion Ca?Ada Sandia"
+            ],
+            "Total de Localidades": 8
+        },
+        "San José Chiapa": {
+            "Localidades": [
+                "Centro De Desarrollo Agropecuario Vicencio",
+                "Ex-Hacienda Ojo De Agua",
+                "Ex-Hacienda Ozumba",
+                "San Isidro Ovando (La Ambicion)",
+                "San Jose Chiapa",
+                "San Jose Morelos (Los Ocotes)",
+                "San Jose Ozumba"
+            ],
+            "Total de Localidades": 7
+        },
+        "San José Miahuatlán": {
+            "Localidades": [
+                "San Jeronimo Axochitlan",
+                "San Jose Axuxco",
+                "San Jose Miahuatlan",
+                "San Mateo Tlacoxcalco",
+                "San Pedro Tetitlan"
+            ],
+            "Total de Localidades": 5
+        },
+        "San Juan Atenco": {
+            "Localidades": [
+                "El Llano",
+                "San Jose Guerrero",
+                "San Juan Atenco",
+                "Santa Cruz Coyotepec",
+                "Tres Cruces (Ocotepec)"
+            ],
+            "Total de Localidades": 5
+        },
+        "San Juan Atzompa": {
+            "Localidades": [
+                "San Juan Atzompa"
+            ],
+            "Total de Localidades": 1
+        },
+        "San Martín Texmelucan": {
+            "Localidades": [
+                "El Moral",
+                "San Baltazar Temaxcalac (La Cienega)",
+                "San Buenaventura Tecaltzingo",
+                "San Cristobal Tepatlaxco",
+                "San Francisco Tepeyecac",
+                "San Jeronimo Tianguismanalco",
+                "San Juan Tuxco",
+                "San Juan Tuxco",
+                "San Lucas Atoyatenco (Los Ranchitos)",
+                "San Martin Texmelucan De Labastida",
+                "San Rafael Tlanalapan",
+                "Santa Maria Moyotzingo"
+            ],
+            "Total de Localidades": 12
+        },
+        "San Martín Totoltepec": {
+            "Localidades": [
+                "San Martin Totoltepec"
+            ],
+            "Total de Localidades": 1
+        },
+        "San Matías Tlalancaleca": {
+            "Localidades": [
+                "Ex-Hacienda Molino De Guadalupe (San Felix)",
+                "Juarez Coronaco",
+                "Palmillas",
+                "San Antonio Chiautla De Arenas",
+                "San Fernando El Ocotal",
+                "San Francisco Tlaloc",
+                "San Matias Tlalancaleca"
+            ],
+            "Total de Localidades": 7
+        },
+        "San Miguel Ixitlán": {
+            "Localidades": [
+                "San Miguel Ixitlan"
+            ],
+            "Total de Localidades": 1
+        },
+        "San Miguel Xoxtla": {
+            "Localidades": [
+                "San Miguel Xoxtla"
+            ],
+            "Total de Localidades": 1
+        },
+        "San Nicolás Buenos Aires": {
+            "Localidades": [
+                "Benito Juarez (Mata Redonda)",
+                "Buenavista (San Jose Buenavista)",
+                "Emilio Portes Gil",
+                "La Mata (San Francisco La Mata)",
+                "Miguel Hidalgo",
+                "Pozo Guerra",
+                "San Nicolas Buenos Aires",
+                "Venustiano Carranza"
+            ],
+            "Total de Localidades": 8
+        },
+        "San Nicolás de los Ranchos": {
+            "Localidades": [
+                "San Nicolas De Los Ranchos",
+                "Santiago Xalitzintla"
+            ],
+            "Total de Localidades": 2
+        },
+        "San Pablo Anicano": {
+            "Localidades": [
+                "Francisco Gonzalez Bocanegra",
+                "Mixquitlixco",
+                "Pedregoso",
+                "San Miguel Tulapa",
+                "San Pablo Anicano",
+                "San Rafael (La Palma)",
+                "Santa Cruz Cuaulote"
+            ],
+            "Total de Localidades": 7
+        },
+        "San Pedro Cholula": {
+            "Localidades": [
+                "Cholula De Rivadavia",
+                "San Cristobal Tepontla",
+                "San Francisco Coapa",
+                "San Gregorio Zacapechpan",
+                "Santa Maria Acuexcomac",
+                "Santiago Momoxpan"
+            ],
+            "Total de Localidades": 6
+        },
+        "San Pedro Yeloixtlahuaca": {
+            "Localidades": [
+                "San Cristobal",
+                "San Isidro Labrador",
+                "San Jose Agua Zarca",
+                "San Jose Alamo",
+                "San Juan Llano Grande",
+                "San Pedro Yeloixtlahuaca",
+                "Tecomatito"
+            ],
+            "Total de Localidades": 7
+        },
+        "San Salvador Huixcolotla": {
+            "Localidades": [
+                "Dolores",
+                "San Salvador Huixcolotla"
+            ],
+            "Total de Localidades": 2
+        },
+        "San Salvador el Seco": {
+            "Localidades": [
+                "Camino A La Higuera",
+                "Concepcion Malpais (Rancho La Concepcion)",
+                "Guadalupe Victoria",
+                "Paso Puente Santa Ana",
+                "San Francisco Aljibes",
+                "San Jose Barroso",
+                "San Salvador El Seco",
+                "Santa Maria Coatepec"
+            ],
+            "Total de Localidades": 8
+        },
+        "San Salvador el Verde": {
+            "Localidades": [
+                "Analco De Ponciano Arriaga (Sta. Cruz Analco)",
+                "Guadalupe La Encinera",
+                "San Andres Hueyacatitla",
+                "San Gregorio Aztotoacan",
+                "San Lucas El Grande",
+                "San Salvador El Verde",
+                "San Simon Atzitzintla",
+                "Tlacotepec De Jose Manzo"
+            ],
+            "Total de Localidades": 8
+        },
+        "San Sebastián Tlacotepec": {
+            "Localidades": [
+                "Agua Azul",
+                "Buena Vista De Cuauhtemoc",
+                "Cruztitla",
+                "Cuaxuchpa",
+                "El Carpintero",
+                "El Mirador",
+                "La Cotorra",
+                "La Cumbre",
+                "La Garrapata",
+                "La Guacamaya",
+                "La Guadalupe",
+                "La Palma",
+                "Las Palmas",
+                "Libres",
+                "Mazatzongo De Guerrero",
+                "Naranjastitla De Victoria",
+                "Ocotzocuabtla",
+                "Ojo De Agua",
+                "Ovatero Y Atexaca",
+                "Papalocuautla",
+                "Paso Azihuatl",
+                "Pe?A Alta",
+                "Pilola",
+                "Playa Nueva",
+                "San Jose Petlapa",
+                "San Martin Mazateopan",
+                "Tecolotepec",
+                "Tentziantla (San Marcos)",
+                "Teololulco",
+                "Tepetla",
+                "Tepexilotla",
+                "Tepozapa",
+                "Tlacotepec De Porfirio Diaz",
+                "Tlacxitla",
+                "Villa Del Rio",
+                "Vista Hermosa",
+                "Xonoatl",
+                "Yovalastoc",
+                "Zacatepec De Bravo",
+                "Zacatilihuic",
+                "Zesecapa"
+            ],
+            "Total de Localidades": 41
+        },
+        "Santa Catarina Tlaltempan": {
+            "Localidades": [
+                "Santa Catarina Tlaltempan"
+            ],
+            "Total de Localidades": 1
+        },
+        "Santa Inés Ahuatempan": {
+            "Localidades": [
+                "La Concepcion",
+                "Las Minas",
+                "Loma Piedra Parada",
+                "San Juan Nepomuceno",
+                "Santa Ines Ahuatempan",
+                "Siete Lomas",
+                "Tierra Nueva"
+            ],
+            "Total de Localidades": 7
+        },
+        "Santa Isabel Cholula": {
+            "Localidades": [
+                "Colonia Tlamapa",
+                "El Mirador",
+                "San Martin Tlamapa",
+                "San Pablo Ahuatempa",
+                "Santa Ana Acozautla",
+                "Santa Isabel Cholula"
+            ],
+            "Total de Localidades": 6
+        },
+        "Santiago Miahuatlán": {
+            "Localidades": [
+                "El Carmen",
+                "La Purisima",
+                "San Isidro Vista Hermosa",
+                "San Jose Las Minas",
+                "San Jose Monte Chiquito",
+                "Santa Clara",
+                "Santiago Miahuatlan"
+            ],
+            "Total de Localidades": 7
+        },
+        "Santo Tomás Hueyotlipan": {
+            "Localidades": [
+                "San Miguel Zacaola",
+                "Santo Tomas Hueyotlipan"
+            ],
+            "Total de Localidades": 2
+        },
+        "Soltepec": {
+            "Localidades": [
+                "Colonia Benito Juarez",
+                "Doctor Rafael Serrano",
+                "La Ermita",
+                "Libertad Alvaro Obregon",
+                "Progreso",
+                "San Mateo Soltepec",
+                "Soltepec",
+                "Vista Hermosa"
+            ],
+            "Total de Localidades": 8
+        },
+        "Tecali de Herrera": {
+            "Localidades": [
+                "Ahuatepec",
+                "Aquiles Serdan",
+                "Concepcion Cuautla",
+                "La Esperanza",
+                "La Magdalena Cuaxixtla",
+                "La Trinidad Tianguismanalco",
+                "Las Loberas",
+                "San Buenaventura Tetlananca",
+                "San Luis Ajajalpan",
+                "Santa Cruz Ajajalpan",
+                "Tecali De Herrera",
+                "Tecorral"
+            ],
+            "Total de Localidades": 12
+        },
+        "Tecamachalco": {
+            "Localidades": [
+                "Barrio De Jalacingo (San Mateo Secc. 23)",
+                "Barrio La Providencia",
+                "Colonia Cuauhtemoc",
+                "El Salado",
+                "El Tepeyac",
+                "Francisco Villa",
+                "Jose Maria Pino Suarez",
+                "La Laguna",
+                "La Purisima De Hidalgo (La Purisima)",
+                "La Soledad",
+                "La Villita (Kilometro 59)",
+                "Lomas De Romero",
+                "Lomas De Santa Cruz",
+                "Rancheria Los Silvas",
+                "Ruben Jaramillo",
+                "San Antonio La Portilla",
+                "San Antonio Tecolco",
+                "San Baltazar",
+                "San Jose La Portilla",
+                "San Jose Machorro",
+                "San Mateo Tlaixpan",
+                "Santa Rosa",
+                "Santiago Alseseca",
+                "Tecamachalco",
+                "Veracrucito",
+                "Xochimilco"
+            ],
+            "Total de Localidades": 26
+        },
+        "Tecomatlán": {
+            "Localidades": [
+                "El Tempexquixtle",
+                "Independencia",
+                "La Paz (Colonia La Paz)",
+                "La Union",
+                "Mixquiapan",
+                "Olomatlan",
+                "Quicayan",
+                "San Miguel De Lozano",
+                "Tecomatlan",
+                "Tezoquipan",
+                "Xantoxtla"
+            ],
+            "Total de Localidades": 11
+        },
+        "Tehuacán": {
+            "Localidades": [
+                "Agua Leon",
+                "Ca?Ada Guajillo",
+                "Colonia Del Carmen Sur",
+                "Colonia Guadalupe",
+                "Cristo Rey",
+                "El Encinal",
+                "El Progreso",
+                "La Asuncion",
+                "Los Pinos (Los Limones)",
+                "Magdalena Cuayucatepec",
+                "Plan De Fierro",
+                "Rancho Cabras (San Salvador Otzolotepec)",
+                "Rancho Cuchanije",
+                "Resurreccion (Meseta El Riego)",
+                "San Andres Arrealco",
+                "San Cristobal Tepeteopan",
+                "San Isidro",
+                "San Lorenzo",
+                "San Marcos Necoxtla",
+                "San Miguel",
+                "San Pablo Tepetzingo",
+                "Santa Ana Teloxtoc",
+                "Santa Catarina Otzolotepec",
+                "Santa Cruz Acapa",
+                "Tehuacan"
+            ],
+            "Total de Localidades": 25
+        },
+        "Tehuitzingo": {
+            "Localidades": [
+                "Atopoltitlan (Santa Cruz Atopoltitlan)",
+                "Azuchitlan",
+                "Boqueroncito (Santa Cruz)",
+                "Cuaulutla",
+                "Guadalupe Allende (El Pitayo)",
+                "La Noria Hidalgo",
+                "Los Hornos De Zaragoza",
+                "Puente Marques",
+                "San Francisco De Asis",
+                "San Jose (Las Calaveras)",
+                "San Jose Hidalgo (Tehuixtle)",
+                "San Pedro La Junta",
+                "San Vicente Ferrer",
+                "Santa Cruz Tejalpa",
+                "Tecolutla",
+                "Tehuitzingo",
+                "Tehuitzingo Tercera Seccion (Huamuchilera)",
+                "Tlachinola",
+                "Tuzantlan (Mariano Escobedo)"
+            ],
+            "Total de Localidades": 19
+        },
+        "Tenampulco": {
+            "Localidades": [
+                "Arroyo Blanco",
+                "Caracoles",
+                "Cerro De La Campana",
+                "Colonia Morelos",
+                "Cruz Verde",
+                "El Chacal",
+                "El Jicarillo",
+                "El Zapotal",
+                "El Zapote",
+                "La Florida",
+                "La Lima",
+                "Lazaro Cardenas (San Diego)",
+                "Paso Del Palmar",
+                "Poza Verde",
+                "Salsipuedes (Cerro De La Campana)",
+                "Santa Lucia",
+                "Tenampulco",
+                "Tenampulco Viejo",
+                "Tenexapa De Allende"
+            ],
+            "Total de Localidades": 19
+        },
+        "Teopantlán": {
+            "Localidades": [
+                "El Zapote",
+                "San Francisco Jalapexco",
+                "San Sebastian Tenango",
+                "Teopantlan"
+            ],
+            "Total de Localidades": 4
+        },
+        "Teotlalco": {
+            "Localidades": [
+                "Achichipico",
+                "Contla",
+                "Las Maravillas",
+                "San Miguel",
+                "Santa Cruz",
+                "Teotlalco",
+                "Tlaucingo",
+                "Tlayehualco"
+            ],
+            "Total de Localidades": 8
+        },
+        "Tepanco de López": {
+            "Localidades": [
+                "Barrio Tercero (Jag",
+                "Cinco De Mayo (Barrio Cuarto)",
+                "Francisco I. Madero",
+                "Jose Maria Pino Suarez",
+                "San Andres Cacaloapan",
+                "San Bartolo Teontepec",
+                "San Luis Temalacayuca",
+                "Santa Cruz",
+                "Tepanco De Lopez"
+            ],
+            "Total de Localidades": 9
+        },
+        "Tepango de Rodríguez": {
+            "Localidades": [
+                "Caltuchoco (Las Laminas)",
+                "Santa Cruz",
+                "Tepango De Rodriguez"
+            ],
+            "Total de Localidades": 3
+        },
+        "Tepatlaxco de Hidalgo": {
+            "Localidades": [
+                "Tepatlaxco De Hidalgo"
+            ],
+            "Total de Localidades": 1
+        },
+        "Tepeaca": {
+            "Localidades": [
+                "Alvaro Obregon (Santa Maria Gorozpe)",
+                "Guadalupe Calderon",
+                "Los Carreones",
+                "Los Reyes De Ocampo",
+                "San Bartolome Hueyapan",
+                "San Cristobal Hidalgo",
+                "San Cristobal Los Nava",
+                "San Felipe Tenextepec",
+                "San Francisco Buenavista",
+                "San Hipolito Xochiltenango",
+                "San Jose Carpinteros",
+                "San Lorenzo Joya De Rodriguez",
+                "San Mateo Parra",
+                "San Miguel",
+                "San Nicolas Zoyapetlayoca",
+                "San Pablo Actipan",
+                "San Pedro La Joya",
+                "Santiago Acatlan",
+                "Tepeaca",
+                "Tlayoatla Joya De Rodriguez",
+                "Vicente Guerrero",
+                "Zahuatlan De Morelos (San Jose)"
+            ],
+            "Total de Localidades": 22
+        },
+        "Tepemaxalco": {
+            "Localidades": [
+                "San Felipe Tepemaxalco",
+                "San Juan Catzoc",
+                "San Miguel Xicotzingo"
+            ],
+            "Total de Localidades": 3
+        },
+        "Tepeojuma": {
+            "Localidades": [
+                "El Pedregal",
+                "El Rodeo (Santa Maria El Rodeo)",
+                "La Magdalena",
+                "San Agustin Las Petacas",
+                "San Francisco El Astillero",
+                "San Pedro Teyuca",
+                "Santa Maria Xoyatla",
+                "Tepeojuma"
+            ],
+            "Total de Localidades": 8
+        },
+        "Tepetzintla": {
+            "Localidades": [
+                "Chachayoquila",
+                "Chicometepec (San Simon)",
+                "Ejido El Milagro",
+                "Omitlan",
+                "Tempextla",
+                "Tenantitla",
+                "Tepetzintla",
+                "Tlamanca De Hernandez",
+                "Tlaquimpa",
+                "Tonalixco",
+                "Xicalahuatla",
+                "Xochitlaxco (San Baltazar)"
+            ],
+            "Total de Localidades": 12
+        },
+        "Tepexco": {
+            "Localidades": [
+                "Calmeca (San Juan Calmeca)",
+                "Michapa",
+                "Tepexco"
+            ],
+            "Total de Localidades": 3
+        },
+        "Tepexi de Rodríguez": {
+            "Localidades": [
+                "Agua De La Luna",
+                "Agua Santa Ana",
+                "Almolonga (Todos Santos)",
+                "Axamilpa",
+                "Ca?Ada Coyote",
+                "Ca?Ada Xochitl (Seccion Primera)",
+                "Chapultepec (Santo Domingo)",
+                "Colonia Morelos (Pie De Vaca)",
+                "El Progreso (San Antonio)",
+                "Huajoyuca (Huajoyuca De Palacios)",
+                "Huejonapan (San Antonio)",
+                "Las Flores",
+                "Las Yeguas (San Isidro)",
+                "Loma Cajon",
+                "Loma San Francisco",
+                "Mariscala",
+                "Moralillo",
+                "Rancho Alegre",
+                "San Felipe Otlaltepec",
+                "San Miguel Ipaltepec",
+                "San Pablo Ameyaltepec",
+                "Tepexi De Rodriguez",
+                "Tula",
+                "Zacatepec"
+            ],
+            "Total de Localidades": 24
+        },
+        "Tepeyahualco": {
+            "Localidades": [
+                "Chichicuautla",
+                "El Fuerte De La Union",
+                "Guadalupe Sarabia",
+                "Itzoteno (San Miguel)",
+                "Jalapasco De Barrientos",
+                "Juan Sarabia Pizarro (San Nicolas)",
+                "Mancuernas (El Triunfo)",
+                "San Jose Alchichica",
+                "Techachalco",
+                "Tepeyahualco",
+                "Tetipanapa",
+                "Tezontepec",
+                "Xaltipanapa"
+            ],
+            "Total de Localidades": 13
+        },
+        "Tepeyahualco de Cuauhtémoc": {
+            "Localidades": [
+                "Huacaltzingo",
+                "Tepeyahualco De Cuauhtemoc"
+            ],
+            "Total de Localidades": 2
+        },
+        "Tetela de Ocampo": {
+            "Localidades": [
+                "Acatlan",
+                "Atenti Oriente",
+                "Atenti Poniente (Atenti Arriba)",
+                "Benito Juarez",
+                "Buena Vista",
+                "Capuluaque",
+                "Carreragco",
+                "Chalahuico",
+                "Ciudad De Tetela De Ocampo",
+                "Cuapancingo",
+                "Cuautacomulco",
+                "Cuxateno",
+                "El Puerto",
+                "Eloxoxtla",
+                "Garciaxco",
+                "Guadalupe Buena Vista",
+                "Jalacingo",
+                "Jose Maria Morelos",
+                "La Ca?Ada",
+                "La Lagunilla",
+                "La Soledad",
+                "Las Chapas",
+                "Loma Bonita",
+                "Los Patios",
+                "Muyuapan",
+                "Nanahuacingo",
+                "Ocoyohualulco",
+                "Ometepetl",
+                "Oroctipan",
+                "Rancho Viejo",
+                "San Jose",
+                "San Nicolas (Cuarta Seccion)",
+                "San Nicolas (Tercera Seccion)",
+                "Talcozaman",
+                "Talican",
+                "Tatzalan",
+                "Taxcantla",
+                "Taxco",
+                "Tecuanta",
+                "Tecuicuilco",
+                "Tetelco",
+                "Tilapa",
+                "Tonalapa",
+                "Tototzinapan",
+                "Xaltatempa De Lucas",
+                "Xilitetitla",
+                "Xochititan",
+                "Xonocuautla",
+                "Zacaloma",
+                "Zitlalcuautla",
+                "Zontecomapan",
+                "Zoyatitla"
+            ],
+            "Total de Localidades": 52
+        },
+        "Teteles de Avila Castillo": {
+            "Localidades": [
+                "Coacalco",
+                "Huixta",
+                "Teteles De Avila Castillo",
+                "Texcalaco"
+            ],
+            "Total de Localidades": 4
+        },
+        "Teziutlán": {
+            "Localidades": [
+                "Ahuata",
+                "Aire Libre (La Mina)",
+                "Atoluca",
+                "Coyopol",
+                "Cuaxoxpan",
+                "Huehueymico",
+                "Ixtahuiata (La Legua)",
+                "Ixticpan",
+                "Ixtlahuaca",
+                "La Cantera (Tehuatlan)",
+                "La Garita",
+                "Loma Bonita",
+                "Lomas De Ayotzingo",
+                "Maxtaco",
+                "Mexcalcuautla",
+                "San Diego",
+                "San Juan Acateno",
+                "San Juan Tezongo",
+                "San Miguel Capulines",
+                "San Sebastian",
+                "Seccion 23",
+                "Temecata",
+                "Teziutlan",
+                "Xoloateno"
+            ],
+            "Total de Localidades": 24
+        },
+        "Tianguismanalco": {
+            "Localidades": [
+                "San Baltazar Atlimeyaya",
+                "San Francisco Buenavista",
+                "San Martin Tlapala",
+                "San Pedro Atlixco",
+                "Santo Domingo Tenantitla",
+                "Tianguismanalco"
+            ],
+            "Total de Localidades": 6
+        },
+        "Tilapa": {
+            "Localidades": [
+                "Agua Dulce",
+                "Casa Blanca (Cuyotliapa)",
+                "Cuexpala (San Bartolo Cuexpala)",
+                "Derramadero",
+                "Emiliano Zapata",
+                "San Felix Rijo",
+                "Tilapa",
+                "Zolonquiapa"
+            ],
+            "Total de Localidades": 8
+        },
+        "Tlachichuca": {
+            "Localidades": [
+                "Agua Escondida El Salitrero (La Jicara)",
+                "Col. Agricola Bella Vista (San Vicente)",
+                "Colonia Guerra",
+                "Emancipacion Quetzalapa",
+                "Guadalupe Libertad (Rio Valiente)",
+                "Jose Maria Morelos",
+                "Lazaro Cardenas",
+                "Los Ranchos",
+                "Manuel Edgardo Avalos (San Isidro)",
+                "Miguel Hidalgo Y Costilla",
+                "Oyamecalco El Cajon",
+                "Paso Nacional",
+                "Puerto Nacional",
+                "Rafael Avila Camacho",
+                "San Fco. Independencia (Santa Ma. Aserradero)",
+                "San Jose La Capilla",
+                "San Jose Llano Grande",
+                "San Miguel Zoapan",
+                "Santa Cecilia Tepetitlan",
+                "Santa Cruz Buena Vista La Capilla",
+                "Santa Ines Varela La Luz",
+                "Santa Maria Oyamecalco (Los Ranchos)",
+                "Sta. Maria El Aserradero (Peones Acasillados)",
+                "Tlachichuca"
+            ],
+            "Total de Localidades": 24
+        },
+        "Tlacotepec de Benito Juárez": {
+            "Localidades": [
+                "Colonia Jose Huerta (Seccion 17)",
+                "De Rojas",
+                "El Mirador",
+                "Guadalupe Victoria",
+                "Ignacio Zaragoza",
+                "La Tepetatera",
+                "La Virgen",
+                "Los Marias",
+                "Palmillas (La Columna)",
+                "Palo Verde",
+                "Pazoltepec",
+                "Pericotepec",
+                "Piedra Hincada De La Soledad",
+                "Rincon De Sompantle",
+                "San Antonio Tlacuitlapan",
+                "San Francisco Esperilla",
+                "San Jose Buenavista",
+                "San Jose Tlacuitlapan",
+                "San Juan Zacabasco",
+                "San Lucas El Viejo",
+                "San Marcos Tlacoyalco",
+                "San Martin Esperilla",
+                "Santa Maria La Alta",
+                "Santo Nombre",
+                "Tecaltzingo",
+                "Tecoxtle",
+                "Tepazolco",
+                "Tepetlacolco",
+                "Tlacotepec De Benito Juarez",
+                "Tlacuitlapan (La Estacion Y Los Carrasco)"
+            ],
+            "Total de Localidades": 30
+        },
+        "Tlacuilotepec": {
+            "Localidades": [
+                "Agua Blanca",
+                "Apoxtla",
+                "Cerro Prieto",
+                "Cuautepec",
+                "El Cojolite",
+                "El Encinal",
+                "El Jerico",
+                "El Mu?Eco (Cristo Rey)",
+                "El Rincon",
+                "El Saltillo",
+                "El Temaxcal",
+                "El Zacatal",
+                "Hula",
+                "Itzatlan",
+                "La Campana",
+                "La Cueva",
+                "La Esperanza",
+                "La Joya",
+                "La Lagunilla",
+                "La Loma De La Colmena",
+                "Nuevo Tenancingo",
+                "Palo Blanco",
+                "Papaloctipan",
+                "Plan De Ayala",
+                "San Andres",
+                "San Antonio Acatlan",
+                "San Jose",
+                "San Juan Tihuacan",
+                "San Pedro Petlacotla",
+                "Santa Maria",
+                "Tacubaya",
+                "Tanchitla (Buenavista)",
+                "Temaxcalapa",
+                "Teteloloya",
+                "Tlacuilotepec",
+                "Tlapehualita",
+                "Tliltepec"
+            ],
+            "Total de Localidades": 37
+        },
+        "Tlahuapan": {
+            "Localidades": [
+                "El Pipirin",
+                "Guadalupe Zaragoza",
+                "Guadalupito Las Dalias",
+                "Ignacio Lopez Rayon (El Gavillero)",
+                "Ignacio Manuel Altamirano",
+                "La Preciosita",
+                "Nuevo Tlahuapan (Ex-Hacienda De San Luis)",
+                "San Francisco La Union (San Vicente)",
+                "San Juan Cuauhtemoc",
+                "San Martinito",
+                "San Miguel Tianguistenco",
+                "San Pedro Matamoros",
+                "San Rafael Ixtapalucan",
+                "Santa Cruz Moxolahuac",
+                "Santa Cruz Otlatla",
+                "Santa Maria Texmelucan",
+                "Santa Rita Tlahuapan",
+                "Santiago Coltzingo"
+            ],
+            "Total de Localidades": 18
+        },
+        "Tlaltenango": {
+            "Localidades": [
+                "Tlaltenango"
+            ],
+            "Total de Localidades": 1
+        },
+        "Tlanepantla": {
+            "Localidades": [
+                "Tlanepantla"
+            ],
+            "Total de Localidades": 1
+        },
+        "Tlaola": {
+            "Localidades": [
+                "Amanalco",
+                "Atequexquitla",
+                "Caxapotla",
+                "Chicahuaxtla",
+                "Cocolongo",
+                "Coxolitla",
+                "Cuamila",
+                "Cutzontipa",
+                "Huixtla",
+                "La Gallera",
+                "Nexapa Ahila",
+                "Nuevo Hidalgo",
+                "Plan De Cuamila",
+                "San Jose",
+                "Tlacocugtla",
+                "Tlaltepango",
+                "Tlantentiloya",
+                "Tlaola",
+                "Tlapitzalapa",
+                "Tlatlapanala",
+                "Tlatzohuiloya",
+                "Tzitzicazapa",
+                "Xaltepuxtla",
+                "Xochinanacatlan",
+                "Yetla"
+            ],
+            "Total de Localidades": 25
+        },
+        "Tlapacoya": {
+            "Localidades": [
+                "Ahuacatlaya",
+                "Benito Juarez (Xicalango)",
+                "Cuatepalcatla",
+                "La Cruz",
+                "La Cumbre",
+                "San Andres Buenavista",
+                "San Antonio Tlilapa",
+                "San Miguel Tlilapa",
+                "Tlamaya Chico",
+                "Tlamaya Grande",
+                "Tlapacoya",
+                "Zintlapal",
+                "Zoquiapa"
+            ],
+            "Total de Localidades": 13
+        },
+        "Tlapanalá": {
+            "Localidades": [
+                "Colonia Las Palmas",
+                "Rancho De Aztla",
+                "Rancho De Tepetzingo",
+                "San Luis Chalma",
+                "Santa Catarina Coatepec",
+                "Santo Domingo Ayotlicha",
+                "Tepapayeca",
+                "Tlapanala"
+            ],
+            "Total de Localidades": 8
+        },
+        "Tlatlauquitepec": {
+            "Localidades": [
+                "Acamalota",
+                "Acocogta",
+                "Ahuatamimilol",
+                "Ajocotzingo",
+                "Almoloni",
+                "Analco",
+                "Atalpa",
+                "Atioyan",
+                "Calatepec",
+                "Chicuaco",
+                "Chililistipan",
+                "Chinampa",
+                "Ciudad De Tlatlauquitepec",
+                "Coatectzin",
+                "Cuacualaxtla",
+                "Cuautlamingo",
+                "El Canal",
+                "El Carmen Ilita",
+                "El Duraznillo",
+                "El Mirador",
+                "El Progreso",
+                "Eloxochitan",
+                "Gomez Oriente",
+                "Gomez Poniente",
+                "Gomez Sur (Llano De Toluca)",
+                "Huaxtla",
+                "Ixmatlaco",
+                "Jiliapa",
+                "Jilotepec",
+                "La Cumbre",
+                "La Cumbre",
+                "La Palma (Maquinas)",
+                "La Primavera",
+                "La Union",
+                "Las Mesas",
+                "Loma De La Yerba",
+                "Macuilquila",
+                "Mazatepec",
+                "Mecayucan",
+                "Ocotlan De Betancourt",
+                "Oyameles",
+                "Pablogco",
+                "Pezmatlan",
+                "Plan De Guadalupe",
+                "Primero De Septiembre",
+                "San Agustin Chagchaltzin",
+                "San Jose Chagchaltzin",
+                "San Jose Del Retiro",
+                "Tamalayo",
+                "Tanhuixco Del Carmen",
+                "Tatauzoquico",
+                "Tehuagco",
+                "Tepantzol",
+                "Tepehican",
+                "Tepeteno De Iturbide",
+                "Tepetzintla",
+                "Teziutanapa",
+                "Tochimpa",
+                "Tunel Dos",
+                "Tzinacantepec",
+                "Tzincuilapan",
+                "Vista Hermosa",
+                "Xaltenango",
+                "Xalteta",
+                "Xomiaco",
+                "Xonocuautla",
+                "Yoloctzin"
+            ],
+            "Total de Localidades": 67
+        },
+        "Tlaxco": {
+            "Localidades": [
+                "Acalman",
+                "Altamira",
+                "Atlalpan",
+                "Buena Vista",
+                "Cerro Pelon",
+                "Chipotla",
+                "Cuaxtla",
+                "Dos Caminos",
+                "Ejido Pe?A Blanca (Cerro Del Comun)",
+                "El Alamo",
+                "El Mogote",
+                "La Candelaria",
+                "Loma Bonita",
+                "Ocopetatitla",
+                "Pe?A Blanca",
+                "Tlaxco"
+            ],
+            "Total de Localidades": 16
+        },
+        "Tochimilco": {
+            "Localidades": [
+                "Gpe. Cuilotepec (Santa Catarina Cuilotepec)",
+                "Guadalupe",
+                "Jerusalen",
+                "La Magdalena Yancuitlalpan",
+                "San Antonio Alpanocan",
+                "San Francisco Huilango",
+                "San Lucas Tulcingo",
+                "San Martin Zacatempa",
+                "Santa Catalina Tepanapa",
+                "Santa Cruz Cuautomatitla",
+                "Santiago Tochimizolco",
+                "Tecuanipa (San Miguel Tecuanipa)",
+                "Tochimilco"
+            ],
+            "Total de Localidades": 13
+        },
+        "Tochtepec": {
+            "Localidades": [
+                "Chipiltepec",
+                "Cristo Rey",
+                "Ejido Veracrucito (San Felipe La Nopalera)",
+                "Rancho Bautista",
+                "San Bartolome Tepetlacaltechco",
+                "San Jose Buenavista",
+                "San Lorenzo Ometepec",
+                "San Martin Caltenco",
+                "San Martin Caltenco",
+                "Tochtepec"
+            ],
+            "Total de Localidades": 10
+        },
+        "Totoltepec de Guerrero": {
+            "Localidades": [
+                "Barrio De San Juan",
+                "Santa Cruz Nuevo",
+                "Totoltepec De Guerrero"
+            ],
+            "Total de Localidades": 3
+        },
+        "Tulcingo": {
+            "Localidades": [
+                "Aguacatitlan",
+                "Atzompa",
+                "Chastipac",
+                "Francisco Villa",
+                "Guadalupe Tulcingo",
+                "Guadalupe Victoria",
+                "Los Caracoles",
+                "San Miguel Tlaltepexi",
+                "Tulcingo",
+                "Tulcingo De Valle",
+                "Xixingo De Los Reyes",
+                "Zaragoza De La Luz"
+            ],
+            "Total de Localidades": 12
+        },
+        "Tuzamapan de Galeana": {
+            "Localidades": [
+                "El Jayal",
+                "El Tuti",
+                "El Zorrillo",
+                "Finca Poza Larga",
+                "Huitziltepec",
+                "La Junta Poza Larga",
+                "Morelos",
+                "Reyes De Vallarta",
+                "Ricardo Flores Magon",
+                "Tetelilla De Islas",
+                "Tuzamapan De Galeana"
+            ],
+            "Total de Localidades": 11
+        },
+        "Tzicatlacoyan": {
+            "Localidades": [
+                "San Antonio Juarez",
+                "San Bernardino Tepenene",
+                "San Francisco Lagunillas",
+                "San Isidro Chiapa",
+                "San Jose Balbanera",
+                "San Jose Texaluca",
+                "San Martin Teteles",
+                "San Miguel Acuexcomac",
+                "Santa Cruz El Calvario",
+                "Tzicatlacoyan"
+            ],
+            "Total de Localidades": 10
+        },
+        "Venustiano Carranza": {
+            "Localidades": [
+                "Agua Fria",
+                "Coronel Tito Hernandez (Maria Andrea)",
+                "El Ajengibre",
+                "El Lindero",
+                "El Ojite",
+                "Estrella Roja",
+                "General Ignacio Zaragoza",
+                "Jesus Garcia",
+                "La Libertad",
+                "La Morena",
+                "Las Palmitas",
+                "Nuevo Cabellal",
+                "San Bartolo Del Escobal",
+                "San Diego",
+                "San Jose",
+                "San Rafael",
+                "Tumbadero Escobal",
+                "Venustiano Carranza",
+                "Vicente Guerrero",
+                "Villa De Guadalupe",
+                "Villa Lazaro Cardenas",
+                "Villa Lazaro Cardenas (La Uno)"
+            ],
+            "Total de Localidades": 22
+        },
+        "Vicente Guerrero": {
+            "Localidades": [
+                "Ahuatepec",
+                "Alhuaca",
+                "Axuxumica",
+                "Campo Chico",
+                "Caporalco Buenos Aires",
+                "Capultitla",
+                "Cienega Grande De Fatima",
+                "Coxcatepachapa",
+                "Cuajca",
+                "Cuatro Caminos",
+                "Duraznotla",
+                "La Barranca (Tepanzola)",
+                "Las Praderas",
+                "Llano Grande Dos",
+                "Llano Grande Uno",
+                "Loma Manzana",
+                "Ocotlamanca",
+                "Rancho Nuevo",
+                "San Bernardino Lagunas",
+                "San Jose Cuamanco",
+                "San Jose Los Pinos",
+                "San Luis Del Pino",
+                "San Pedro Ahuatlampa",
+                "Santa Maria Del Monte",
+                "Tecolotla",
+                "Telpatlan",
+                "Teotlalco De Hidalgo",
+                "Tepetzitzintla",
+                "Texala",
+                "Tlachihualtepec (Rancho De Los Duraznos)",
+                "Tulimanca",
+                "Yahualutzingo"
+            ],
+            "Total de Localidades": 32
+        },
+        "Xayacatlán de Bravo": {
+            "Localidades": [
+                "Segunda Seccion De Xayacatlan De Bravo",
+                "Xayacatlan De Bravo"
+            ],
+            "Total de Localidades": 2
+        },
+        "Xicotepec": {
+            "Localidades": [
+                "Ahuaxintitla",
+                "Atequexquitla",
+                "Cerro De Los Limones",
+                "Duraznotla",
+                "Ejido De Nactanca",
+                "El Cajon",
+                "El Jonote",
+                "El Mirador",
+                "El Porvenir Ejido",
+                "El Refugio (Los Tamarindos)",
+                "El Rubi",
+                "El Salto (La Ceiba)",
+                "El Tabacal",
+                "El Tepetate",
+                "Finca Puebla (Casa Blanca)",
+                "Gilberto Camacho",
+                "Ixtepec",
+                "Jalapilla",
+                "La Chiveria",
+                "Las Pilas",
+                "Los Limones",
+                "Los Naranjos",
+                "Los Pi?Ales (Agua Dulce)",
+                "Mecatlan De Las Flores",
+                "Monte Grande De Zaragoza",
+                "Nactanca Chica (La Colonia)",
+                "Nactanca Grande",
+                "Rancho Nuevo",
+                "San Agustin Atlihuacan",
+                "San Antonio",
+                "San Antonio Ocopetlatlan",
+                "San Isidro",
+                "San Jose (El Cerrito)",
+                "San Lorenzo",
+                "San Pedro Itztla",
+                "Santa Cruz Chica",
+                "Santa Cruz Grande",
+                "Santa Luz Buenavista",
+                "Santa Rita",
+                "Santa Rosa",
+                "Tepapatlaxco",
+                "Tierra Negra",
+                "Tlapehuala",
+                "Tlaxcalantongo",
+                "Tulancinguillo",
+                "Villa Avila Camacho (La Ceiba)",
+                "Villa De Las Flores",
+                "Xicotepec De Juarez"
+            ],
+            "Total de Localidades": 48
+        },
+        "Xicotlán": {
+            "Localidades": [
+                "Coacalco",
+                "Xicotlan"
+            ],
+            "Total de Localidades": 2
+        },
+        "Xiutetelco": {
+            "Localidades": [
+                "Alto Lucero",
+                "Atecax",
+                "Barrio Chiquito",
+                "Ca?Ada De Cozcuyucan",
+                "Chalma",
+                "El Aguaje Atoluca",
+                "El Milagro",
+                "El Progreso",
+                "El Zapote",
+                "La Cantera",
+                "La Palma",
+                "La Reforma",
+                "La Ventana",
+                "Las Chapas",
+                "Loma Bonita",
+                "Maxtaloya",
+                "Rancho Nuevo",
+                "San Andres",
+                "San Andres Coyotitlan",
+                "San Antonio",
+                "San Francisco",
+                "San Isidro",
+                "San Jose",
+                "San Juan Xiutetelco",
+                "San Martin",
+                "San Salvador (Naranjillo)",
+                "Santiago",
+                "Seccion Segunda Xiutetelco",
+                "Tilca (San Jose)",
+                "Tomaquilapa",
+                "Vista Hermosa",
+                "Xaltipan"
+            ],
+            "Total de Localidades": 32
+        },
+        "Xochiapulco": {
+            "Localidades": [
+                "Atzalan",
+                "Cinco De Mayo",
+                "Cuauhtecomaco",
+                "Cuautamanis",
+                "Cuauximaloyan",
+                "Ixehuaco",
+                "La Manzanilla",
+                "La Rosa De Castilla",
+                "Las Majadas",
+                "Xaltampa",
+                "Yautetelco"
+            ],
+            "Total de Localidades": 11
+        },
+        "Xochiltepec": {
+            "Localidades": [
+                "Altavista",
+                "Ayotla",
+                "Xochiltepec"
+            ],
+            "Total de Localidades": 3
+        },
+        "Xochitlán Todos Santos": {
+            "Localidades": [
+                "Buenos Aires",
+                "De Amarillas",
+                "La Union",
+                "Los Pinos",
+                "Rancho Viejo",
+                "San Jeronimo Alfaro",
+                "Xochitlan"
+            ],
+            "Total de Localidades": 7
+        },
+        "Xochitlán de Vicente Suárez": {
+            "Localidades": [
+                "Amatitan",
+                "Bonillagco",
+                "Chicuasencuautla",
+                "Huahuaxtla",
+                "Huapalegcan",
+                "Pahuata",
+                "San Francisco Ocotepec (Ocotepec De Cardenas)",
+                "Tzontecomata (Cuaxuchpan)",
+                "Xaltipac",
+                "Xicalxochico",
+                "Xochitlan De Romero Rubio (Tatempan)",
+                "Xochitlan De Vicente Suarez",
+                "Xocoyolapan (Santa Isabel)",
+                "Zoatecpan"
+            ],
+            "Total de Localidades": 14
+        },
+        "Yaonáhuac": {
+            "Localidades": [
+                "Ahuata",
+                "Atemeya",
+                "Atotocoyan",
+                "Mazatonal",
+                "Ocotepec",
+                "Talcozaman",
+                "Tatempan",
+                "Tepantiloyan",
+                "Teteltipan",
+                "Yaonahuac"
+            ],
+            "Total de Localidades": 10
+        },
+        "Yehualtepec": {
+            "Localidades": [
+                "Colonia Benito Juarez",
+                "Ejido De Rancho Chico",
+                "Llano Grande",
+                "San Francisco Cuautla",
+                "San Gabriel Tetzoyocan",
+                "San Mateo Tlacomulco",
+                "San Miguel Zozutla",
+                "San Pedro Ascona",
+                "San Pedro El Chico",
+                "Yehualtepec"
+            ],
+            "Total de Localidades": 10
+        },
+        "Zacapala": {
+            "Localidades": [
+                "El Pitahayo",
+                "El Rosario Xochitiopan",
+                "El Timbre",
+                "Guadalupe Hidalgo",
+                "La Victoria",
+                "Mirador El Chico",
+                "Rancho Nuevo Los Navarros",
+                "Rancho Nuevo San Mateo",
+                "San Antonio (La Isotera)",
+                "San Mateo Mimiapan",
+                "San Miguel De Allende",
+                "Xintete (Santa Cruz Pedernales)",
+                "Zacapala"
+            ],
+            "Total de Localidades": 13
+        },
+        "Zacapoaxtla": {
+            "Localidades": [
+                "Ahuacatlan",
+                "Atacpan",
+                "Calcahualco",
+                "Cohuatzalpan",
+                "Colos",
+                "Comaltepec",
+                "Cuacuilco",
+                "El Molino",
+                "El Progreso",
+                "Francisco I. Madero",
+                "Gonzalo Bautista",
+                "Heroes Del Cinco De Mayo",
+                "Independencia (Xiuteno)",
+                "Insurgentes",
+                "Ixtacapan",
+                "Jilotepec",
+                "La Libertad",
+                "Las Lomas",
+                "Los Cristales (Talican)",
+                "Mazapa",
+                "Moragco",
+                "Nexpanateno",
+                "Nexticapan",
+                "Ocotlan",
+                "San Carlos",
+                "San Francisco Zacapexpan",
+                "San Juan Tahitic",
+                "Santa Cruz Xaltetela",
+                "Tatoxcac",
+                "Tatzecuala",
+                "Tepoxac",
+                "Texocoyohuac",
+                "Xalacapan",
+                "Xalticpac",
+                "Xilita",
+                "Xochitepec",
+                "Yanhuicapan",
+                "Zacapoaxtla"
+            ],
+            "Total de Localidades": 38
+        },
+        "Zacatlán": {
+            "Localidades": [
+                "Ajajalpan (Cuamanala)",
+                "Atenco",
+                "Atexca",
+                "Atotonilco",
+                "Atzingo (La Cumbre)",
+                "Ayehualulco",
+                "Ayehualulco Segunda Seccion (El Tecajete)",
+                "Ayotla",
+                "Camotepec",
+                "Canautla",
+                "Cruztitla",
+                "Cuacuila",
+                "Cuacuilco",
+                "Dos Cerritos",
+                "Ejido Tuliman (Potrero De Quetzalapa)",
+                "Hueyapan",
+                "Huilotepec",
+                "Jicolapa",
+                "Jilotzingo",
+                "La Estrella",
+                "Las Lajas (Segunda Seccion)",
+                "Las Lajas Primera Seccion",
+                "Maquixtla",
+                "Matlahuacala",
+                "Metepec Primera Seccion",
+                "Metepec Segunda Seccion",
+                "Metlaxixtla",
+                "Nanacamila",
+                "Otlatlan",
+                "Palos Caidos",
+                "Papaxtla",
+                "Popotohuilco",
+                "Poxcuatzingo",
+                "Rancho Nuevo (Nanacamila)",
+                "San Bartolo",
+                "San Cristobal Xochimilpa",
+                "San Isidro Atotonilco",
+                "San Joaquin Tomatlan (San Isidro Tomatlan)",
+                "San Lorenzo Tepeixco",
+                "San Miguel Tenango",
+                "San Pedro Atmatla",
+                "Santa Cruz Buenavista",
+                "Santa Ines Jilotzingo",
+                "Tepeixco",
+                "Tepoxcuautla",
+                "Tetelancingo",
+                "Tlachaloya",
+                "Tlalixtlipa",
+                "Tlatempa",
+                "Tomatlan",
+                "Tuliman",
+                "Xonotla",
+                "Xoxonacatla",
+                "Yehuala",
+                "Zacatlan",
+                "Zoquitla"
+            ],
+            "Total de Localidades": 56
+        },
+        "Zapotitlán": {
+            "Localidades": [
+                "Agua Mezquite",
+                "Barrio Hidalgo",
+                "Colonia San Martin",
+                "Ejido Guadalupe",
+                "Estanzuela",
+                "Guadalupe La Meza",
+                "Las Ventas",
+                "Los Reyes Metzontla",
+                "San Antonio Texcala",
+                "San Jose Dixi?Ado",
+                "San Juan Raya",
+                "San Pablo Netitlan",
+                "San Pedro Atzumba",
+                "San Pedro Netitlan",
+                "Xochiltepec (San Francisco)",
+                "Zapotitlan Salinas",
+                "Zaragoza"
+            ],
+            "Total de Localidades": 17
+        },
+        "Zapotitlán de Méndez": {
+            "Localidades": [
+                "Nanacatlan",
+                "Tuxtla",
+                "Zapotitlan De Mendez"
+            ],
+            "Total de Localidades": 3
+        },
+        "Zaragoza": {
+            "Localidades": [
+                "Acuaco",
+                "Las Trancas",
+                "Morelos",
+                "Porvenir",
+                "San Jose Buenavista",
+                "Santa Anita",
+                "Xalehuala",
+                "Zaragoza"
+            ],
+            "Total de Localidades": 8
+        },
+        "Zautla": {
+            "Localidades": [
+                "Acatzacata",
+                "Apantzingo",
+                "Buena Vista",
+                "Chilapa De Vicente Guerrero",
+                "Chinampa",
+                "Contla",
+                "Cruz Blanca",
+                "El Mirador",
+                "El Puerto (Reforma)",
+                "El Tepeyac",
+                "Emiliano Zapata",
+                "Emilio Carranza (Santa Cruz)",
+                "Guadalupe Hidalgo",
+                "Huitzitzilapan",
+                "Ixtactenango",
+                "Jalcomulco",
+                "Juan Francisco Lucas",
+                "Loma Bonita",
+                "Micuahutla (La Cumbre)",
+                "Ocopipila",
+                "Ocotzingo",
+                "Oxpantla",
+                "Rosa De Castilla",
+                "San Andres Yahuitlalpan",
+                "San Francisco Del Progreso",
+                "San Isidro",
+                "San Miguel Tenextatiloyan",
+                "Santa Ines Morelos",
+                "Santiago Zautla",
+                "Tagcotepec",
+                "Tenampulco",
+                "Tlamanca",
+                "Xiloxochititan",
+                "Xopanaco",
+                "Zayolapan"
+            ],
+            "Total de Localidades": 35
+        },
+        "Zihuateutla": {
+            "Localidades": [
+                "Azcatlan",
+                "Cacahuatlan",
+                "Cerro Verde",
+                "Cuatechalotla",
+                "Cuaunepixca (La Cumbre)",
+                "Ernesto Hernandez (Tlacoyuco)",
+                "Finca Los Puentes",
+                "La Florida",
+                "La Laguna",
+                "La Mesa Del Crucero (La Mesita)",
+                "La Union",
+                "Lagunillas",
+                "Loma Bonita",
+                "Los Manguitos",
+                "Los Pinos",
+                "Mazacoatlan",
+                "Nanacatepec",
+                "Ocomantla",
+                "Ojo De Agua",
+                "San Andres",
+                "Tecpatlan",
+                "Tecuantla",
+                "Telolotla",
+                "Tenanguito",
+                "Zihuateutla"
+            ],
+            "Total de Localidades": 25
+        },
+        "Zinacatepec": {
+            "Localidades": [
+                "San Sebastian Zinacatepec"
+            ],
+            "Total de Localidades": 1
+        },
+        "Zongozotla": {
+            "Localidades": [
+                "Zongozotla"
+            ],
+            "Total de Localidades": 1
+        },
+        "Zoquiapan": {
+            "Localidades": [
+                "Amatlan",
+                "El Arenal",
+                "Guayabal",
+                "San Antonio Buenavista",
+                "Zacatilihuic",
+                "Zoquiapan"
+            ],
+            "Total de Localidades": 6
+        },
+        "Zoquitlán": {
+            "Localidades": [
+                "Acatepec (San Antonio)",
+                "Atzompa",
+                "Axocobaca",
+                "Aztotla",
+                "Cacaloc",
+                "Cobictic",
+                "Cotzinga",
+                "Coyolapa",
+                "Cruztitla",
+                "Cuapnepantla",
+                "Itzmicapa",
+                "Izhuapa",
+                "Mangotitla (Zoyaltepec)",
+                "Metzontla",
+                "Ocotempa",
+                "Ocotlamanic",
+                "Oztopulco",
+                "Pozotitla",
+                "Quetzaltotoc",
+                "Quiaptepec",
+                "Tepantitla",
+                "Tepepa De Zaragoza",
+                "Tepepan Bandera",
+                "Tepequexpa",
+                "Tepexilotla",
+                "Tepeyacac",
+                "Totlala",
+                "Trancas",
+                "Xaltepec",
+                "Xicala",
+                "Xitlama",
+                "Xocotla",
+                "Xolochtepec (Tlacotzinga)",
+                "Zoquitlan",
+                "Zoquitlanzacualco"
+            ],
+            "Total de Localidades": 35
+        }
+    },
+    "Total de Localidades": 3121,
+    "Total de Municipios": 217
+}

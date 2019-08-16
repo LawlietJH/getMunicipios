@@ -1,0 +1,1272 @@
+{
+    "Municipios": {
+        "Aconchi": {
+            "Localidades": [
+                "Aconchi",
+                "La Estancia",
+                "San Pablo (San Pablo De Aconchi)"
+            ],
+            "Total de Localidades": 3
+        },
+        "Agua Prieta": {
+            "Localidades": [
+                "Agua Blanca",
+                "Agua Prieta",
+                "Colonia Morelos",
+                "El Rusbayo",
+                "Fundacion Brazos De Amor"
+            ],
+            "Total de Localidades": 5
+        },
+        "Alamos": {
+            "Localidades": [
+                "Agua Caliente De Antero (Agua Caliente)",
+                "Alamos",
+                "Anahuac",
+                "Aquinavo",
+                "Baboyagui",
+                "Basiroa",
+                "Bavicora",
+                "Burapaco",
+                "Campamento Las Casitas (El Mocuzarit)",
+                "Casanate",
+                "Cerro Colorado (El Colorado)",
+                "Chinatopa",
+                "Choquinahui (El Cobre)",
+                "Chorijoa",
+                "Cochibampo",
+                "Colonia Mascurag",
+                "Corog",
+                "Cuchuhueri",
+                "El Cajon Del Sabino (El Cajon)",
+                "El Carrizal",
+                "El Chinal",
+                "El Chino (San Antonio De Los Chinos)",
+                "El Chirivo",
+                "El Frijol",
+                "El Guamuchil",
+                "El Maquipo",
+                "El Mezquital",
+                "El Mirasol",
+                "El Mocuzarit (Conicarit)",
+                "El Paso",
+                "El Rodeo",
+                "El Sabino Grande (El Sabino)",
+                "El Salado",
+                "El Sauz",
+                "El Tabelo (San Jose Del Tabelo)",
+                "El Tezal",
+                "El Veranito",
+                "El Zapote",
+                "Gerocoa Chico (Gerocoa)",
+                "Gochico Viejo",
+                "Guajaray",
+                "Guamuchilito",
+                "Guataturi",
+                "Huicochic",
+                "Huirocoba",
+                "Jobeg",
+                "La Aduana",
+                "La Cieneguita",
+                "La Esperanza",
+                "La Gacela",
+                "La Higuera",
+                "La Isleta",
+                "La Labor De Santa Lucia (El Mezquital)",
+                "La Laborcita",
+                "La Quintera",
+                "La Uvalama",
+                "La Vinata",
+                "Las Cabras",
+                "Las Flores (Gerocoa)",
+                "Las Garzas",
+                "Las Mayas (La Granadita)",
+                "Las Minitas",
+                "Las Plomosas",
+                "Los Algodones",
+                "Los Camotes (San Jose Del Palmar)",
+                "Los Citahuis",
+                "Los Estrados",
+                "Los Muertos",
+                "Los Tanques",
+                "Macoyahui",
+                "Mesa Colorada",
+                "Mexiquillo",
+                "Minas Nuevas",
+                "Mochibampo",
+                "Munihuasa",
+                "Nahuibampo",
+                "Osobampo",
+                "Palos Chinos",
+                "Paredones",
+                "Piedras Verdes",
+                "Potrero De Alcantar",
+                "Providencia",
+                "Rancherias",
+                "Sabinito Sur",
+                "Sahuarivo",
+                "San Bernardo",
+                "San Juan",
+                "San Rafael Del Sabino (El Sabinito)",
+                "San Vicente",
+                "Sejaqui",
+                "Tapizuelas",
+                "Techobampo",
+                "Tetagiosa",
+                "Todos Santos",
+                "Tojibampo",
+                "Topiyeca",
+                "Vado Cuate",
+                "Veintiuno De Marzo",
+                "Yocojigua"
+            ],
+            "Total de Localidades": 99
+        },
+        "Altar": {
+            "Localidades": [
+                "Altar",
+                "Dieciseis De Septiembre",
+                "La Otra Banda (Colonia Ortiz)",
+                "Llano Blanco (Rancho Seco)"
+            ],
+            "Total de Localidades": 4
+        },
+        "Arivechi": {
+            "Localidades": [
+                "Arivechi",
+                "Bamori",
+                "Tarachi"
+            ],
+            "Total de Localidades": 3
+        },
+        "Arizpe": {
+            "Localidades": [
+                "Arizpe",
+                "Bacanuchi",
+                "Bamori",
+                "Buenavista",
+                "Chinapa",
+                "Sinoquipe",
+                "Tahuichopa"
+            ],
+            "Total de Localidades": 7
+        },
+        "Atil": {
+            "Localidades": [
+                "Atil"
+            ],
+            "Total de Localidades": 1
+        },
+        "Bacadéhuachi": {
+            "Localidades": [
+                "Bacadehuachi"
+            ],
+            "Total de Localidades": 1
+        },
+        "Bacanora": {
+            "Localidades": [
+                "Bacanora",
+                "El Destacamento",
+                "El Encinal",
+                "Guaycora"
+            ],
+            "Total de Localidades": 4
+        },
+        "Bacerac": {
+            "Localidades": [
+                "Agua Fria",
+                "Bacerac",
+                "Cienega De Horcones",
+                "San Jose De Los Pozos",
+                "Tamichopa"
+            ],
+            "Total de Localidades": 5
+        },
+        "Bacoachi": {
+            "Localidades": [
+                "Bacoachi",
+                "Unamichi"
+            ],
+            "Total de Localidades": 2
+        },
+        "Banámichi": {
+            "Localidades": [
+                "Banamichi",
+                "La Mora"
+            ],
+            "Total de Localidades": 2
+        },
+        "Bavispe": {
+            "Localidades": [
+                "Bavispe",
+                "La Galerita",
+                "La Mora",
+                "San Miguelito"
+            ],
+            "Total de Localidades": 4
+        },
+        "Baviácora": {
+            "Localidades": [
+                "Baviacora",
+                "El Molinote (Hacienda La Concepcion)",
+                "La Aurora",
+                "La Capilla",
+                "Mazocahui",
+                "San Jose (San Jose De Baviacora)"
+            ],
+            "Total de Localidades": 6
+        },
+        "Benito Juárez": {
+            "Localidades": [
+                "Aceitunitas (Sube Y Baja)",
+                "Agua Blanca",
+                "Batevito (Colonia Irrigacion)",
+                "Colonia Jecopaco",
+                "Paredon Colorado (Paredon Viejo)",
+                "Paredoncito",
+                "Villa Juarez"
+            ],
+            "Total de Localidades": 7
+        },
+        "Benjamín Hill": {
+            "Localidades": [
+                "Benjamin Hill"
+            ],
+            "Total de Localidades": 1
+        },
+        "Bácum": {
+            "Localidades": [
+                "Atotonilco",
+                "Bacum",
+                "Bataconcica (Museo Chopocuni)",
+                "El Juvani",
+                "Francisco Javier Mina (Campo 60)",
+                "Independencia (Campo 104)",
+                "Ita Numero Veintiuno",
+                "Jori",
+                "La Bomba (Juan M. Tetabiate)",
+                "Loma De Bacum",
+                "Miguel Aleman (La Noria)",
+                "Primero De Mayo (Campo 77)",
+                "San Jose De Bacum",
+                "Santa Teresa",
+                "Villa Guadalupe"
+            ],
+            "Total de Localidades": 15
+        },
+        "Caborca": {
+            "Localidades": [
+                "Adolfo Oribe De Alva",
+                "Alfonso Garzon Santivañes (Zacatecas)",
+                "Alvaro Obregon",
+                "Cerro Blanco",
+                "Desemboque",
+                "El Coyote",
+                "El Diamante (La Retranca)",
+                "El Ejido Cajeme Dos",
+                "El Puebla (Los Parrales)",
+                "El Sahuaro",
+                "Heroica Caborca",
+                "Jesus Garcia",
+                "Jose Maria Morelos",
+                "Josefa Ortiz De Dominguez",
+                "Juan Alvarez",
+                "Juan Jimenez Hdz. (Col. Vicente Guerrero)",
+                "La Alameda (Cortazar)",
+                "La Almita",
+                "La Fortuna",
+                "La Mochomera (La Morena)",
+                "La Primavera",
+                "Lazaro Cardenas",
+                "Maribel",
+                "Mexico Sesenta Y Ocho",
+                "Plutarco Elias Calles (La Y Griega)",
+                "Poblado San Felipe",
+                "Puerto Lobos",
+                "Quince De Septiembre",
+                "Rodolfo Campodonico",
+                "Salomon Quihuis",
+                "San Isidro",
+                "San Pedro",
+                "Santa Eduwiges (La Cachora)",
+                "Santa Matilde (Francisco Baranzini)",
+                "Siempre Viva",
+                "Spr Viñedos Viva",
+                "Spr Viñedos Viva",
+                "Ultimo Esfuerzo",
+                "Ures",
+                "Yaqui Justiciero"
+            ],
+            "Total de Localidades": 40
+        },
+        "Cajeme": {
+            "Localidades": [
+                "Altos De Jecopaco",
+                "Antonio Rosales",
+                "Avicola Bachoco",
+                "Benito Juarez",
+                "Buenavista",
+                "Campo Veintiocho",
+                "Centauro Del Norte",
+                "Ciudad Obregon",
+                "Cocorit",
+                "Colonia Allende (El Dieciocho)",
+                "Cuauhtemoc (Campo Cinco)",
+                "Cumuripa (La Calera)",
+                "Diaz Ordaz",
+                "Ejido Tepeyac (Campo Dos)",
+                "El Bosque (Calle Quince)",
+                "El Olvido",
+                "El Porvenir (El Porvenir Cumuripa)",
+                "Esperanza",
+                "Estacion Corral",
+                "Familia Cordero",
+                "Francisco I. Madero (Campo 30)",
+                "Francisco Villa",
+                "Guadalupe Victoria",
+                "Kilometro Nueve (El Pueblito)",
+                "La Carabina",
+                "La Dieciseis",
+                "La Ladrillera Canal Alto",
+                "La Tinajera",
+                "Las Areneras",
+                "Loma De Corral (Lomas De Est. Corral)",
+                "Loma De Guamuchil",
+                "Los Hornos",
+                "Marte R. Gomez (Tobarito)",
+                "Mora Villalobos (Campo 29)",
+                "Morelos Dos",
+                "Morelos Uno",
+                "Nueva Casa De Teras",
+                "Pascual V. Ayon",
+                "Progreso (Campo 47)",
+                "Providencia",
+                "Pueblo Yaqui",
+                "Puente De Picos",
+                "Quetchehueca",
+                "Robles Castillo (Alvaro Obregon)",
+                "Siete Canal Bajo",
+                "Sonora Progresista",
+                "Tajimaroa",
+                "Tesopobampo",
+                "Treinta Y Uno De Octubre",
+                "Vicente Guerrero (El Porton)",
+                "Yucuribampo"
+            ],
+            "Total de Localidades": 51
+        },
+        "Cananea": {
+            "Localidades": [
+                "Cuitaca",
+                "Heroica Ciudad De Cananea",
+                "Ignacio Zaragoza (La Mesa)",
+                "Jose Maria Morelos Y Pavon (Sauceda)",
+                "Vicente Guerrero"
+            ],
+            "Total de Localidades": 5
+        },
+        "Carbó": {
+            "Localidades": [
+                "Carbo",
+                "El Treinta Y Ocho",
+                "La Poza",
+                "Los Guayacanes",
+                "Pozo De Crisanto",
+                "Viñedo El Refugio",
+                "Zanjon"
+            ],
+            "Total de Localidades": 7
+        },
+        "Cucurpe": {
+            "Localidades": [
+                "Cucurpe"
+            ],
+            "Total de Localidades": 1
+        },
+        "Cumpas": {
+            "Localidades": [
+                "Cumpas",
+                "Jecori",
+                "Kilometro Cinco (Alvaro Obregon)",
+                "La Colonia",
+                "Los Hoyos",
+                "Ojo De Agua",
+                "Teonadepa"
+            ],
+            "Total de Localidades": 7
+        },
+        "Divisaderos": {
+            "Localidades": [
+                "Divisaderos"
+            ],
+            "Total de Localidades": 1
+        },
+        "Empalme": {
+            "Localidades": [
+                "Antonio Rosales",
+                "Cruz De Piedra",
+                "Dorados De Villa",
+                "El Oasis Del Trailero (Proyecto Mercurio)",
+                "Empalme",
+                "Gravera Los Hoyos",
+                "Jose Maria Morelos Y Pavon (La Atravezada)",
+                "Junelancahui (El Mezquite)",
+                "La Choya Uno",
+                "La Palma",
+                "Los Venados",
+                "Maytorena",
+                "Mi Patria Es Primero",
+                "San Enrique",
+                "San Fernando De Guaymas",
+                "San Pablo",
+                "Santa Maria De Guaymas",
+                "Ursulo Galvan"
+            ],
+            "Total de Localidades": 18
+        },
+        "Etchojoa": {
+            "Localidades": [
+                "Agustin Melgar",
+                "Aquichopo",
+                "Aquisahuali",
+                "Baburo",
+                "Bacajaquia",
+                "Bacame Nuevo",
+                "Bacame Viejo",
+                "Bacobampo",
+                "Basconcobe",
+                "Bayajorit",
+                "Baynorillo",
+                "Buaysiacobe",
+                "Burabampo",
+                "Campanichaca",
+                "Campo Dieciocho",
+                "Campo Leon",
+                "Caurajaqui",
+                "Chucarit",
+                "Colonia Nacozari",
+                "Cuadrilatero Nueve",
+                "Cuadrilatero Trece (Kilometro 13 Campo 13)",
+                "El Alto (Bachoco)",
+                "El Campito (Campo Numero Tres)",
+                "El Capusarit",
+                "El Carrizal (El Bacar)",
+                "El Centenario",
+                "El Chapote",
+                "El Chori (El Choya)",
+                "El Mezquital De Burabampo",
+                "El Nuevo Retiro",
+                "El Quinto",
+                "El Quinto Viejo (El Culebron)",
+                "El Rodeo",
+                "El Salitral",
+                "España (Campo Numero Uno)",
+                "Etchojoa",
+                "Guaitana",
+                "Guayabitas (La Savila)",
+                "Guayparin",
+                "Huichaca",
+                "Huirachaca",
+                "Jitonhueca",
+                "Juchica",
+                "La Bocana",
+                "La Escondida",
+                "La Linea (La Linea De Basconcobe)",
+                "La Vasconia (Del Apellido Vasco)",
+                "Las Cucas",
+                "Las Guayabas",
+                "Las Mayas (Colonia Agricola Basconcobe)",
+                "Las Playitas",
+                "Lazaro Cardenas (Mayocusalit)",
+                "Los Tejabanes (Tabajanes Viejos)",
+                "Los Viejos",
+                "Mabejaqui",
+                "Macochin",
+                "Mayocahui (El Cerro)",
+                "Mayojusalit",
+                "Mil Hectareas",
+                "Mochipaco",
+                "Mochipaco Nuevo",
+                "Mocochopo (Yemovari)",
+                "Mocorua",
+                "Navolato",
+                "Sahuaral",
+                "San Pedro Nuevo",
+                "San Pedro Viejo",
+                "Sebampo",
+                "Talamante (Colonia Talamante)",
+                "Tiriscohuasa",
+                "Villa Tres Cruces"
+            ],
+            "Total de Localidades": 71
+        },
+        "Fronteras": {
+            "Localidades": [
+                "Adolfo Ruiz Cortinez",
+                "Cuchuta",
+                "Cuquiarachi",
+                "Esqueda",
+                "Fronteras",
+                "Kilometro Cuarenta Y Siete",
+                "Turicachi"
+            ],
+            "Total de Localidades": 7
+        },
+        "General Plutarco Elías Calles": {
+            "Localidades": [
+                "Adolfo Lopez Mateos",
+                "Colonia Division Del Norte",
+                "El Desierto De Sonora",
+                "La Nariz",
+                "Morelia",
+                "Papago",
+                "Quitovac",
+                "Sonoita",
+                "Valdez"
+            ],
+            "Total de Localidades": 9
+        },
+        "Granados": {
+            "Localidades": [
+                "Granados"
+            ],
+            "Total de Localidades": 1
+        },
+        "Guaymas": {
+            "Localidades": [
+                "Babojori",
+                "Baugo (Guasimas)",
+                "Cardenas",
+                "Casa Azul",
+                "Casas Blancas",
+                "Chumampaco",
+                "Compuertas",
+                "Edmundo Sanchez (El Chorizo)",
+                "El Castillo",
+                "El Pescado",
+                "El Sahuaral",
+                "El Yaqui",
+                "Estacion Oroz (Oroz)",
+                "Francisco Marquez",
+                "General Alvaro Obregon",
+                "General Esteban Baca Calderon (El Hecho)",
+                "General Felipe Angeles",
+                "General Lazaro Cardenas",
+                "General Mariano Escobedo",
+                "Guadalupe Victoria",
+                "Guasimas (De Belem)",
+                "Guasimitas",
+                "Heroica Guaymas",
+                "Huiribis",
+                "La Cuadrita",
+                "La Escondida (Guadalupe De Guaymas)",
+                "La Manga (Campo Pesquero La Manga)",
+                "La Misa",
+                "La Salvacion",
+                "Lencho",
+                "Los Gachupines",
+                "Los Limones",
+                "Nicolas Bravo",
+                "Nuevo San Francisco",
+                "Ortiz",
+                "Pimienta",
+                "Pitahaya (Belem)",
+                "Potam",
+                "Profesor Graciano Sanchez",
+                "Rahum",
+                "Sahuaral",
+                "San Carlos (San Carlos Nuevo Guaymas)",
+                "San Jose De Guaymas",
+                "Santa Clara",
+                "Sonora",
+                "Torim",
+                "Triunfo Santa Rosa",
+                "Vicam (Switch)",
+                "Vicam Pueblo"
+            ],
+            "Total de Localidades": 49
+        },
+        "Hermosillo": {
+            "Localidades": [
+                "Alejandria Uno",
+                "Alejandro Carrillo Marcor",
+                "Aquiles Serdan (Santa Ines)",
+                "Bahia De Kino",
+                "Campo Del Carmen",
+                "Campo Grande",
+                "Carmen Dolores",
+                "Crucero 4 Y 26",
+                "Dolores",
+                "El Alamito Buenavista (El Tronconal)",
+                "El Choyudo (Los Japoneses)",
+                "El Electron",
+                "El Fundador",
+                "El Jojobal",
+                "El Pocito (Orebalma)",
+                "El Realito",
+                "El Saucito",
+                "El Tazajal",
+                "El Triunfo",
+                "El Yucateco Uno",
+                "El Zacaton",
+                "Fructuoso Mendez",
+                "Hermosillo",
+                "Hermosillo Sahuaripa (Sahuaripa)",
+                "La Habana Numero Dos",
+                "La Habana Numero Uno",
+                "La Habana Tres",
+                "La Joya",
+                "La Palma",
+                "La Palma",
+                "La Palma Del Agro",
+                "La Paloma",
+                "La Peaña",
+                "La Peaña Nueva",
+                "La Victoria",
+                "La Yuta",
+                "Las Palmitas",
+                "Los Arroyos",
+                "Los Pañuelos",
+                "Los Pocitos",
+                "Manuel Avila Camacho",
+                "Mesa Del Seri",
+                "Miguel Aleman (La Doce)",
+                "Milagro De Fatima",
+                "Mineros De Pilares",
+                "Molino De Camou (San Isidro)",
+                "Palo Verde",
+                "Perico Uno",
+                "Plan De Ayala",
+                "Puerto Arturo",
+                "Punta Chueca",
+                "Rosario Perlette",
+                "Sahuimero",
+                "Salvador Alvarado",
+                "San Armando",
+                "San Arturo",
+                "San Bartolo",
+                "San Carlos (Empaque San Carlos)",
+                "San Enrique",
+                "San Francisco De Batuc",
+                "San Isidro",
+                "San Jose",
+                "San Juan",
+                "San Juanico",
+                "San Luis",
+                "San Pedro O El Saucito (San Pedro El Saucito)",
+                "Santa Aurelia",
+                "Santa Eduwiges (Radio)",
+                "Santa Emilia",
+                "Santa Ines Uno (El Capitan)",
+                "Santa Monica",
+                "Santa Rosita",
+                "Santa Zarina",
+                "Tastiota",
+                "Tejaban De Soto",
+                "Topahue",
+                "Valle Grande",
+                "Viñedo 2000",
+                "Viñedo La Costa",
+                "Viñedo Rancho Sonora",
+                "Zamora"
+            ],
+            "Total de Localidades": 81
+        },
+        "Huachinera": {
+            "Localidades": [
+                "Aribabi",
+                "Huachinera"
+            ],
+            "Total de Localidades": 2
+        },
+        "Huatabampo": {
+            "Localidades": [
+                "Adolfo Lopez Mateos",
+                "Agiabampo No. Dos (El Campito)",
+                "Agiabampo Uno",
+                "Alvaro Obregon",
+                "Aquichopo",
+                "Baburo",
+                "Bacapaco",
+                "Bachaitahui",
+                "Bachimojaqui",
+                "Bachoco",
+                "Benito Juarez",
+                "Buiyarumo",
+                "Camahuiroa",
+                "Campo Diecinueve",
+                "Chapultepec",
+                "Chichibojoro",
+                "Chijubampo",
+                "Citavaro",
+                "Diez De Abril",
+                "El Alto San Cristobal",
+                "El Caro",
+                "El Chapote",
+                "El Juparito (Huepaco)",
+                "El Nacapul",
+                "El Porvenir",
+                "El Ranchito (Yujumary)",
+                "El Riito",
+                "El Riito De Mazaray (Riito Muerto)",
+                "El Sufragio",
+                "El Tabare",
+                "Emiliano Zapata Uno",
+                "Francisco Sarabia",
+                "Guadalupe Victoria",
+                "Huatabampo",
+                "Huepaco",
+                "Insurgentes De Pueblo Yaqui",
+                "Jambiolabampo Uno",
+                "Juan De La Barrera",
+                "Juan Escutia",
+                "Juliantabampo",
+                "Jupare",
+                "La Arenita",
+                "La China",
+                "La Cochera",
+                "La Cuchilla De San Antonio",
+                "La Cuchilla Del Etchoropo",
+                "La Escalera",
+                "La Esquina",
+                "La Primavera",
+                "La Reforma",
+                "La Rueda (Morelos)",
+                "La Savila",
+                "La Union",
+                "Las Aguilas",
+                "Las Animas",
+                "Las Bocas",
+                "Las Flores",
+                "Las Mamias",
+                "Las Milpas",
+                "Las Parras",
+                "Las Parritas (El Changuito)",
+                "Loma De Etchoropo",
+                "Los Buitbores",
+                "Los Toltecas",
+                "Luis Echeverria Zuno",
+                "Macias",
+                "Manuel Caudillo",
+                "Mayo Fuerte",
+                "Melchor Ocampo",
+                "Mochibampo",
+                "Morelos",
+                "Moroncarit",
+                "Navobaxia",
+                "Oraba",
+                "Pozo Dulce",
+                "Pueblo Viejo",
+                "Restaurant Rosita",
+                "Sahuaral De Otero (Sahuaral De Abajo)",
+                "San Antonio",
+                "Sirebampo",
+                "Sonora Sinaloa (Bamocha)",
+                "Tierra Y Libertad",
+                "Torocoba",
+                "Torocobampo",
+                "Totoliboqui",
+                "Unificacion Campesina (Cola Seca)",
+                "Veinticuatro De Febrero",
+                "Venustiano Carranza",
+                "Yavaritos",
+                "Yavaros (Isla Las Viejas)",
+                "Zamicarit"
+            ],
+            "Total de Localidades": 91
+        },
+        "Huásabas": {
+            "Localidades": [
+                "Huasabas"
+            ],
+            "Total de Localidades": 1
+        },
+        "Huépac": {
+            "Localidades": [
+                "Huepac",
+                "Ranchito De Huepac"
+            ],
+            "Total de Localidades": 2
+        },
+        "Imuris": {
+            "Localidades": [
+                "Campo Carretero",
+                "Casas Verdes",
+                "Cerro Blanco",
+                "Cumeral",
+                "El Crucero",
+                "Ganfer (Invernadero)",
+                "Imuris",
+                "La Estacion",
+                "La Mesa",
+                "Las Viguitas",
+                "Los Janos",
+                "Terrenate"
+            ],
+            "Total de Localidades": 12
+        },
+        "La Colorada": {
+            "Localidades": [
+                "Cobachi",
+                "Estacion Torres (Estacion Serdan)",
+                "La Colorada",
+                "San Jose De Pimas",
+                "Tecoripa"
+            ],
+            "Total de Localidades": 5
+        },
+        "Magdalena": {
+            "Localidades": [
+                "El Carrizo",
+                "El Tasicuri",
+                "Gutierrez (La Cebolla)",
+                "La Bedolla (La Mesa De Bedolla)",
+                "La Mision",
+                "Magdalena De Kino",
+                "San Ignacio",
+                "San Lorenzo"
+            ],
+            "Total de Localidades": 8
+        },
+        "Mazatán": {
+            "Localidades": [
+                "Mazatan"
+            ],
+            "Total de Localidades": 1
+        },
+        "Moctezuma": {
+            "Localidades": [
+                "El Llano",
+                "Moctezuma",
+                "San Clemente De Terapa",
+                "San Patricio La Mesa (La Mesa)"
+            ],
+            "Total de Localidades": 4
+        },
+        "Naco": {
+            "Localidades": [
+                "Cuauhtemoc",
+                "Naco"
+            ],
+            "Total de Localidades": 2
+        },
+        "Nacozari de García": {
+            "Localidades": [
+                "La Caseta Dos (La Caridad)",
+                "Nacozari De Garcia"
+            ],
+            "Total de Localidades": 2
+        },
+        "Navojoa": {
+            "Localidades": [
+                "Agiabampo",
+                "Antonio Rosales (Las Animas)",
+                "Bacabachi",
+                "Barrio Cantua",
+                "Batayaqui",
+                "Bemelabampo",
+                "Buaraje Viejo",
+                "Buenavista",
+                "Buiyacusi",
+                "Camargo (Rancho Camargo)",
+                "Camoa",
+                "Capohuiza",
+                "Chihuahuita",
+                "Chinotahueca",
+                "Chirajobampo",
+                "Chivuco",
+                "Choacalle",
+                "Cinco De Junio",
+                "Cohuirimpo",
+                "Cucajaqui",
+                "Cuchujaqui",
+                "El Chapote (El Zapote)",
+                "El Datil",
+                "El Jijiri",
+                "El Jopo",
+                "El Mezquital De Tesia",
+                "El Recodo",
+                "El Sabinito De Tesia (Tesia Y Sus Anexos)",
+                "El Saneal",
+                "El Sifon (Sifon Canal Alto)",
+                "El Siviral (Jigica)",
+                "El Tablon",
+                "Etchohuaquila",
+                "Francisco I. Madero Dos",
+                "Fundicion",
+                "General Gabriel Leyva Solano (Gabriel Leyva)",
+                "Guadalupe De Juarez",
+                "Guaymitas",
+                "Huasaguari",
+                "Huebampo",
+                "Joaquin Amaro",
+                "Jopopaco",
+                "Jostahueca",
+                "Jusibampo",
+                "Kutantaka",
+                "La Cuchilla De Los Bahuises",
+                "La Laguna De Tesia",
+                "La Pera",
+                "La Potable",
+                "La Quince",
+                "Las Flores",
+                "Las Pilas Tesia (Las Pilas Y Anexos)",
+                "Lic. Luis Echeverria Alvarez",
+                "Loma Del Refugio",
+                "Los Bahuises",
+                "Los Buayums",
+                "Los Limones",
+                "Masiaca",
+                "Mezquital De Buiyacusi",
+                "Miguel De La Madrid Uno",
+                "Miguel Hidalgo",
+                "Musuabampo",
+                "Nachuquis (San Antonio Nachuquis)",
+                "Navojoa",
+                "Navomora",
+                "Palo Blanco",
+                "Pueblo Mayo",
+                "Puente San Ignacio",
+                "Punta De La Laguna",
+                "Rancho Del Padre (El Padre)",
+                "Rosales",
+                "San Antonio De Los Ibarra (San Antonio)",
+                "San Jose Masiaca",
+                "San Pedrito",
+                "Santa Barbara",
+                "Santa Maria Del Buaraje",
+                "Santa Rosa",
+                "Sapochopo",
+                "Sapomora",
+                "Saucobe",
+                "Sinahuisa",
+                "Sivacobe (Sivacore)",
+                "Teachive",
+                "Tesia",
+                "Tesotahueca",
+                "Tetapeche",
+                "Tierra Blanca",
+                "Tres Hermanos"
+            ],
+            "Total de Localidades": 88
+        },
+        "Nogales": {
+            "Localidades": [
+                "Agua Zarca (Ferrocarril)",
+                "Cibuta",
+                "Cibuta",
+                "Heroica Nogales",
+                "Mascareña"
+            ],
+            "Total de Localidades": 5
+        },
+        "Nácori Chico": {
+            "Localidades": [
+                "Buena Vista",
+                "El Sauz",
+                "La Mesa Tres Rios",
+                "Nacori Chico",
+                "Tecoriname"
+            ],
+            "Total de Localidades": 5
+        },
+        "Onavas": {
+            "Localidades": [
+                "Onavas"
+            ],
+            "Total de Localidades": 1
+        },
+        "Opodepe": {
+            "Localidades": [
+                "Meresichic",
+                "Opodepe",
+                "Querobabi",
+                "Tuape"
+            ],
+            "Total de Localidades": 4
+        },
+        "Oquitoa": {
+            "Localidades": [
+                "Oquitoa"
+            ],
+            "Total de Localidades": 1
+        },
+        "Pitiquito": {
+            "Localidades": [
+                "Desemboque De Los Seris (El Desemboque)",
+                "Felix Gomez (El Dipo)",
+                "La Estacion (Estacion Pitiquito)",
+                "Pitiquito",
+                "Puerto Libertad",
+                "Santa Matilde"
+            ],
+            "Total de Localidades": 6
+        },
+        "Puerto Peñasco": {
+            "Localidades": [
+                "Nayarit Numero Tres (Nayarit)",
+                "Puerto Peñasco"
+            ],
+            "Total de Localidades": 2
+        },
+        "Quiriego": {
+            "Localidades": [
+                "Bacusa",
+                "Batacosa",
+                "Cabora",
+                "Ejido El Jincori",
+                "El Alamo",
+                "El Frijolar",
+                "El Pino",
+                "El Tanque",
+                "General Pablo Macias (Los Vacitos)",
+                "Goijaquia",
+                "Los Bajios (Ejido Los Conejos)",
+                "Machilibampo",
+                "Quiriego",
+                "Tepahui"
+            ],
+            "Total de Localidades": 14
+        },
+        "Rayón": {
+            "Localidades": [
+                "La Paz (La Paz De Rayon)",
+                "Rayon",
+                "Tres Alamos"
+            ],
+            "Total de Localidades": 3
+        },
+        "Rosario": {
+            "Localidades": [
+                "Alamio (Ejido El Metate)",
+                "Cedros",
+                "Cuba",
+                "El Palmarito (San Jose Del Palmarito)",
+                "El Sauz",
+                "La Dura (La Concentracion)",
+                "La Estrella",
+                "La Tortuga",
+                "Los Bajios (Ranchitos De Los Morales)",
+                "Nuri",
+                "Paredones",
+                "Pino Curupaco",
+                "Rio Chico (Real De Ostimuri)",
+                "Rosario",
+                "Tarahumaris"
+            ],
+            "Total de Localidades": 15
+        },
+        "Sahuaripa": {
+            "Localidades": [
+                "Guisamopa",
+                "Matarachi",
+                "Mulatos",
+                "Natora (San Jose De Natora)",
+                "Sahuaripa",
+                "Santo Tomas",
+                "Seguadehuachi",
+                "Trigo De Corodepe",
+                "Valle De Tacupeto"
+            ],
+            "Total de Localidades": 9
+        },
+        "San Felipe de Jesús": {
+            "Localidades": [
+                "San Felipe De Jesus"
+            ],
+            "Total de Localidades": 1
+        },
+        "San Ignacio Río Muerto": {
+            "Localidades": [
+                "Agraristas De Ciudad Obregon",
+                "Bachomobampo",
+                "Bahia De Lobos",
+                "Demetrio Vallejo",
+                "El Bateve",
+                "El Polvoron",
+                "Emiliano Zapata",
+                "Enrique Landa B.",
+                "La Democracia",
+                "Pueblo Nuevo (La Cuchilla)",
+                "San Francisco",
+                "San Ignacio Rio Muerto",
+                "San Martin",
+                "Singapur",
+                "Tetabiate"
+            ],
+            "Total de Localidades": 15
+        },
+        "San Javier": {
+            "Localidades": [
+                "San Javier"
+            ],
+            "Total de Localidades": 1
+        },
+        "San Luis Río Colorado": {
+            "Localidades": [
+                "El Barrote",
+                "El Fronterizo",
+                "Emiliano Zapata",
+                "Golfo De Santa Clara",
+                "Independencia",
+                "Ingeniero Luis B. Sanchez",
+                "Islita",
+                "Juarez Leyes De Reforma",
+                "La Azteca",
+                "La Bolsa",
+                "La Grullita",
+                "Lagunitas",
+                "Mesa Rica",
+                "Monumentos",
+                "Nuevo Leon",
+                "Nuevo Michoacan (Estacion Riito)",
+                "Pozas De Arvizu (La Reserva)",
+                "Rio Norte",
+                "San Luis Rio Colorado"
+            ],
+            "Total de Localidades": 19
+        },
+        "San Miguel de Horcasitas": {
+            "Localidades": [
+                "El Torreon",
+                "Las Bateas",
+                "Los Angeles (La Fabrica De Los Angeles)",
+                "Pesqueira",
+                "Pozo Manuel",
+                "Pueblo Nuevo",
+                "San Miguel De Horcasitas"
+            ],
+            "Total de Localidades": 7
+        },
+        "San Pedro de la Cueva": {
+            "Localidades": [
+                "Nuevo Tepupa",
+                "San Jose De Batuc (Batuquito)",
+                "San Pedro De La Cueva"
+            ],
+            "Total de Localidades": 3
+        },
+        "Santa Ana": {
+            "Localidades": [
+                "El Claro",
+                "El Coyotillo Norte",
+                "El Pantanito",
+                "Estacion Llano",
+                "La Carleña",
+                "Santa Ana",
+                "Santa Ana Viejo",
+                "Santa Martha",
+                "Santa Rita"
+            ],
+            "Total de Localidades": 9
+        },
+        "Santa Cruz": {
+            "Localidades": [
+                "Miguel Hidalgo (San Lazaro)",
+                "Santa Cruz"
+            ],
+            "Total de Localidades": 2
+        },
+        "Soyopa": {
+            "Localidades": [
+                "El Llano Colorado",
+                "El Novillo (Campamento El Aguila)",
+                "Rebeico",
+                "San Antonio De La Huerta",
+                "Soyopa",
+                "Tonichi"
+            ],
+            "Total de Localidades": 6
+        },
+        "Suaqui Grande": {
+            "Localidades": [
+                "Suaqui Grande"
+            ],
+            "Total de Localidades": 1
+        },
+        "Sáric": {
+            "Localidades": [
+                "Los Chirriones",
+                "Saric",
+                "Sasabe"
+            ],
+            "Total de Localidades": 3
+        },
+        "Tepache": {
+            "Localidades": [
+                "Tepache"
+            ],
+            "Total de Localidades": 1
+        },
+        "Trincheras": {
+            "Localidades": [
+                "Colonia Los Fresnos",
+                "El Ocuca",
+                "Trincheras"
+            ],
+            "Total de Localidades": 3
+        },
+        "Tubutama": {
+            "Localidades": [
+                "Ejido La Sangre (La Sangre Nueva)",
+                "La Reforma",
+                "San Jose",
+                "San Manuel (San Manuel Ocuca)",
+                "Tubutama"
+            ],
+            "Total de Localidades": 5
+        },
+        "Ures": {
+            "Localidades": [
+                "El Sauz (Sauz De Ures)",
+                "El Seguro",
+                "Guadalupe (Guadalupe De Ures)",
+                "Heroica Ciudad De Ures",
+                "La Poza",
+                "Pueblo De Alamos",
+                "Puerta Del Sol",
+                "Rancho Viejo",
+                "San Pedro De Ures (San Pedro)",
+                "San Rafael",
+                "Santa Rosalia",
+                "Santiago De Ures (Santiago)"
+            ],
+            "Total de Localidades": 12
+        },
+        "Villa Hidalgo": {
+            "Localidades": [
+                "San Juan Del Rio",
+                "Villa Hidalgo"
+            ],
+            "Total de Localidades": 2
+        },
+        "Villa Pesqueira": {
+            "Localidades": [
+                "Adivino",
+                "Nacori Grande",
+                "Villa Pesqueira (Matape)"
+            ],
+            "Total de Localidades": 3
+        },
+        "Yécora": {
+            "Localidades": [
+                "El Kipur",
+                "Guadalupe De Tayopa",
+                "La Concepcion",
+                "La Dura",
+                "La Quema",
+                "Los Pilares",
+                "Maycoba",
+                "Mesa Del Campanero (Mesa De Los Fraijo)",
+                "Pimas (Juan Diego De Los Pimas)",
+                "Santa Ana",
+                "Santa Rosa (Santa Rosa De Lima)",
+                "Tepoca",
+                "Yecora"
+            ],
+            "Total de Localidades": 13
+        }
+    },
+    "Total de Localidades": 907,
+    "Total de Municipios": 72
+}
