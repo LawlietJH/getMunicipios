@@ -1,7 +1,7 @@
 
 # By: LawlietJH
 # Obtener Municipios y Localidades
-# Version: 1.0.0
+# Version: 1.0.1
 
 import os, sys, json
 import requests						# pip install requests
@@ -36,31 +36,25 @@ def getMunicipios(estado):
 			
 			for y in x.find_all('td'):
 				z.append(y.text)
+			
 			if not z: continue
 			
 			# ~ ID = z[0].strip()
 			localidad = z[1].title().strip()
 			municipio = z[2].replace('\n','').strip()
 			
-			# ~ print([ID, localidad, municipio])
+			if '_I' in localidad:
+				localidad = localidad.replace('_I','üi')
+			if '_E' in localidad:
+				localidad = localidad.replace('_E','üe')
 			
 			try:
 				municipios[municipio]['Total de Localidades'] += 1
 				municipios[municipio]['Localidades'].append(localidad)
-					# ~ {
-						# ~ 'ID': ID,
-						# ~ 'Nombre': localidad
-					# ~ }
-				# ~ )
 			except KeyError:
 				municipios[municipio] = {
 					'Total de Localidades': 1,
 					'Localidades': [localidad]
-						# ~ {
-							# ~ 'ID': ID,
-							# ~ 'Nombre': localidad
-						# ~ }
-					# ~ ]
 				}
 		
 		municipios = {
