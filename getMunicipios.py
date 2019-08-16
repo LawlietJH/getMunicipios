@@ -123,7 +123,7 @@ if __name__ == '__main__':
 		
 		if not os.path.exists('estados/'): os.mkdir('estados/')
 		
-		name = 'estados/'+estado.replace('-',' ').replace('/',' - ').title() + '.json'
+		name = 'estados/'+estado.title() + '.json'
 		
 		with open(name, 'w') as jsonFile:
 			
